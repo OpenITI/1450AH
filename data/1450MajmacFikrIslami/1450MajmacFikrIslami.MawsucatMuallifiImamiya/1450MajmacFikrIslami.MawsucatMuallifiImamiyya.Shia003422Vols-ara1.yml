@@ -6,6 +6,9 @@
 80#VERS#LINKS####: http://alfeker.net/library.php?id=3831
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text has 6 volumes , but the digital version just
-    includes the first two volumes. So, I did not tag the text.
+        includes the first two volumes. So, I did not tag the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-25
-90#VERS#ISSUES###: INCOMPLETE_VERSION
+90#VERS#ISSUES###: INCOMPLETE_VERSION, PRIMARY_VERSION, CLEANED_VERSION

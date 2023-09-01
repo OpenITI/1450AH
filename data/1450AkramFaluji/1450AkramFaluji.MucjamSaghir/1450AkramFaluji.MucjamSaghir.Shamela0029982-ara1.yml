@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: NOT_FOUND
 80#VERS#LINKS####: https://archive.org/details/01014_201802
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##:
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-12-09
-90#VERS#ISSUES###: HTML_TAGS
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

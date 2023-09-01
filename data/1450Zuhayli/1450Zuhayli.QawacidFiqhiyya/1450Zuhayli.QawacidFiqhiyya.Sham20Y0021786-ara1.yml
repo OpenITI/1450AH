@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://shamela.ws/index.php/book/21786
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence; all qāʿidas are present.
-    Qāʿidas are introduced formulaically and clearly
-    in individual sections and are followed by related qasa'id,
-    on separate lines, introduced by al-alzāz al-ukhrā.
+        Qāʿidas are introduced formulaically and clearly
+        in individual sections and are followed by related qasa'id,
+        on separate lines, introduced by al-alzāz al-ukhrā.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-04-28
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

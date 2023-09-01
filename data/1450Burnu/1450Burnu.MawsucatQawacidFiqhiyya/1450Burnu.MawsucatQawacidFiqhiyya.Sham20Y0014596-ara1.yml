@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/FP25888/mqf00
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Appears in good order compared to printed edition. Qa'ida's
-    are introduced formulaically with:  al-qa'ida' + ordinal number: e.g., al-thani
-    + phrase in square brackets, e.g., [xxx]. New line: phrase: 'Awalan: lafz wurud
-    al-qa'ida'. New line: the canon itself, sometimes in speech marks, sometimes
-    not. Indexes are included w/ full lists of qa'idas (not every volume, but groups
-    thereof covering multiple volumes and final volume index is missing).
+        are introduced formulaically with:  al-qa'ida' + ordinal number: e.g., al-thani
+        + phrase in square brackets, e.g., [xxx]. New line: phrase: 'Awalan: lafz wurud
+        al-qa'ida'. New line: the canon itself, sometimes in speech marks, sometimes
+        not. Indexes are included w/ full lists of qa'idas (not every volume, but groups
+        thereof covering multiple volumes and final volume index is missing).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-04-28
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
