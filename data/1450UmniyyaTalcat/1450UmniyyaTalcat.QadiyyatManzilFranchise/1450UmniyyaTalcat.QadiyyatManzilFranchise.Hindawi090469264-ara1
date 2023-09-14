@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450UmniyyaTalcat.QadiyyatManzilFranchise.Hindawi90469264",
-    "BookCats": "novels",
-    "BookID": "90469264",
-    "BookTitle": "قضية منزل فرنتشايز",
-    "AuthorID": "17091369",
-    "AuthorNam": "جوزفين تاي",
-    "EditorID": "35803081",
-    "EditorNam": "محمد يحيى",
-    "TranslID": "85381714",
-    "TranslNam": "أمنية طلعت",
-    "BookRel": "1371JosephineTey.FranchiseAffair (TRANSL)"
-}
-
+#META# URI: 1450UmniyyaTalcat.QadiyyatManzilFranchise.Hindawi90469264
+#META# Tags: novels
+#META# ID: 90469264
+#META# Title: قضية منزل فرنتشايز
+#META# AuthorID: 17091369
+#META# Author: جوزفين تاي
+#META# EditorID: 35803081
+#META# Editor: محمد يحيى
+#META# TranslatorID: 85381714
+#META# Translator: أمنية طلعت
+#META# Related_books: 1371JosephineTey.FranchiseAffair (TRANSL)
 
 #META#Header#End#
 

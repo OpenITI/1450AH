@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SalahHilal.MalakFiManfaCumr.Hindawi24714736",
-    "BookCats": "literature",
-    "BookID": "24714736",
-    "BookTitle": "ملك في منفى العمر",
-    "AuthorID": "74682953",
-    "AuthorNam": "أرنو جايجر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46260807",
-    "TranslNam": "صلاح هلال",
-    "BookRel": "1450ArnoGeiger.AlteKoenig (TRANSL)"
-}
-
+#META# URI: 1450SalahHilal.MalakFiManfaCumr.Hindawi24714736
+#META# Tags: literature
+#META# ID: 24714736
+#META# Title: ملك في منفى العمر
+#META# AuthorID: 74682953
+#META# Author: أرنو جايجر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46260807
+#META# Translator: صلاح هلال
+#META# Related_books: 1450ArnoGeiger.AlteKoenig (TRANSL)
 
 #META#Header#End#
 

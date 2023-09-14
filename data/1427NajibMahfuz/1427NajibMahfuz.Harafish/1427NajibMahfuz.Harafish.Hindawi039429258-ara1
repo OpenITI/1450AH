@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.Harafish.Hindawi39429258",
-    "BookCats": "novels",
-    "BookID": "39429258",
-    "BookTitle": "الحرافيش",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.Harafish.Hindawi39429258
+#META# Tags: novels
+#META# ID: 39429258
+#META# Title: الحرافيش
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

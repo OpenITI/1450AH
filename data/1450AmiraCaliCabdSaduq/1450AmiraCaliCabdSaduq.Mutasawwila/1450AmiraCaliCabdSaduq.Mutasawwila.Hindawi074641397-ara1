@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AmiraCaliCabdSaduq.Mutasawwila.Hindawi74641397",
-    "BookCats": "literature",
-    "BookID": "74641397",
-    "BookTitle": "المتسولة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "18291916",
-    "EditorNam": "علا عبد الفتاح يس",
-    "TranslID": "27426846 :: 72975737",
-    "TranslNam": "أميرة علي عبد الصادق :: شيماء طه الريدي",
-    "BookRel": "1450AliceMunro.BeggarMaid (TRANSL)"
-}
-
+#META# URI: 1450AmiraCaliCabdSaduq.Mutasawwila.Hindawi74641397
+#META# Tags: literature
+#META# ID: 74641397
+#META# Title: المتسولة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 18291916
+#META# Editor: علا عبد الفتاح يس
+#META# TranslatorID: 27426846 :: 72975737
+#META# Translator: أميرة علي عبد الصادق :: شيماء طه الريدي
+#META# Related_books: 1450AliceMunro.BeggarMaid (TRANSL)
 
 #META#Header#End#
 

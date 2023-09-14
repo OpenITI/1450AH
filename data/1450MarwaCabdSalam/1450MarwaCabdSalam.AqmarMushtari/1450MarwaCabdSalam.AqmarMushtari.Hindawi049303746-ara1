@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MarwaCabdSalam.AqmarMushtari.Hindawi49303746",
-    "BookCats": "literature",
-    "BookID": "49303746",
-    "BookTitle": "أقمار المشتري",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "19607415 :: 96473631",
-    "TranslNam": "أحمد محمد الروبي :: مروة عبد السلام",
-    "BookRel": "1450AliceMunro.MoonsOfJupiter (TRANSL)"
-}
-
+#META# URI: 1450MarwaCabdSalam.AqmarMushtari.Hindawi49303746
+#META# Tags: literature
+#META# ID: 49303746
+#META# Title: أقمار المشتري
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 19607415 :: 96473631
+#META# Translator: أحمد محمد الروبي :: مروة عبد السلام
+#META# Related_books: 1450AliceMunro.MoonsOfJupiter (TRANSL)
 
 #META#Header#End#
 

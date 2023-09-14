@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.MughamaratCaqlUla.Hindawi81859390",
-    "BookCats": "religions",
-    "BookID": "81859390",
-    "BookTitle": "مغامرة العقل الأولى: دراسة في الأسطورة: سوريا وبلاد الرافدين",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.MughamaratCaqlUla.Hindawi81859390
+#META# Tags: religions
+#META# ID: 81859390
+#META# Title: مغامرة العقل الأولى: دراسة في الأسطورة: سوريا وبلاد الرافدين
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

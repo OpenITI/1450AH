@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSacdTantawi.KhurafaMuqaddimaQasira.Hindawi19051692",
-    "BookCats": "philosophy",
-    "BookID": "19051692",
-    "BookTitle": "الخرافة: مقدمة قصيرة جدًّا",
-    "AuthorID": "92974617",
-    "AuthorNam": "روبرت إيه سيجال",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "52050270",
-    "TranslNam": "محمد سعد طنطاوي",
-    "BookRel": "1450RobertASegal.MythShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadSacdTantawi.KhurafaMuqaddimaQasira.Hindawi19051692
+#META# Tags: philosophy
+#META# ID: 19051692
+#META# Title: الخرافة: مقدمة قصيرة جدًّا
+#META# AuthorID: 92974617
+#META# Author: روبرت إيه سيجال
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 52050270
+#META# Translator: محمد سعد طنطاوي
+#META# Related_books: 1450RobertASegal.MythShortIntro (TRANSL)
 
 #META#Header#End#
 

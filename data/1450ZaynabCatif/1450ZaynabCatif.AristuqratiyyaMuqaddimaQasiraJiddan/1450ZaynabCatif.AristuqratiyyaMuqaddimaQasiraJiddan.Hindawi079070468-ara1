@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZaynabCatif.AristuqratiyyaMuqaddimaQasiraJiddan.Hindawi79070468",
-    "BookCats": "history :: social.sciences",
-    "BookID": "79070468",
-    "BookTitle": "الأرستقراطية: مقدمة قصيرة جدًّا",
-    "AuthorID": "96836927",
-    "AuthorNam": "ويليام دويل",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "58038048",
-    "TranslNam": "زينب عاطف",
-    "BookRel": "1450WilliamDoyle.AristocracyShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ZaynabCatif.AristuqratiyyaMuqaddimaQasiraJiddan.Hindawi79070468
+#META# Tags: history :: social.sciences
+#META# ID: 79070468
+#META# Title: الأرستقراطية: مقدمة قصيرة جدًّا
+#META# AuthorID: 96836927
+#META# Author: ويليام دويل
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 58038048
+#META# Translator: زينب عاطف
+#META# Related_books: 1450WilliamDoyle.AristocracyShortIntro (TRANSL)
 
 #META#Header#End#
 

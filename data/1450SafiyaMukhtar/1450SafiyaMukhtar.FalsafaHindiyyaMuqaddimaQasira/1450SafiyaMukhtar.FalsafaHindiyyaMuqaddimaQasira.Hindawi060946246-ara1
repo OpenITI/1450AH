@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.FalsafaHindiyyaMuqaddimaQasira.Hindawi60946246",
-    "BookCats": "philosophy",
-    "BookID": "60946246",
-    "BookTitle": "الفلسفة الهنديَّة: مقدمة قصيرة جدًّا",
-    "AuthorID": "62971585",
-    "AuthorNam": "سو هاميلتون",
-    "EditorID": "46097241",
-    "EditorNam": "هبة عبد العزيز غانم",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1450SueHamilton.IndianPhilosophyShortIntro (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.FalsafaHindiyyaMuqaddimaQasira.Hindawi60946246
+#META# Tags: philosophy
+#META# ID: 60946246
+#META# Title: الفلسفة الهنديَّة: مقدمة قصيرة جدًّا
+#META# AuthorID: 62971585
+#META# Author: سو هاميلتون
+#META# EditorID: 46097241
+#META# Editor: هبة عبد العزيز غانم
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1450SueHamilton.IndianPhilosophyShortIntro (TRANSL)
 
 #META#Header#End#
 

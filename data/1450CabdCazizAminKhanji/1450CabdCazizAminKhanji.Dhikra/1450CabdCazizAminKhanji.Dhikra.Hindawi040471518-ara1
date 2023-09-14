@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizAminKhanji.Dhikra.Hindawi40471518",
-    "BookCats": "plays",
-    "BookID": "40471518",
-    "BookTitle": "الذكرى",
-    "AuthorID": "35930479",
-    "AuthorNam": "عبد العزيز أمين الخانجي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizAminKhanji.Dhikra.Hindawi40471518
+#META# Tags: plays
+#META# ID: 40471518
+#META# Title: الذكرى
+#META# AuthorID: 35930479
+#META# Author: عبد العزيز أمين الخانجي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

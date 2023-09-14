@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.Fann.Hindawi64790927",
-    "BookCats": "arts",
-    "BookID": "64790927",
-    "BookTitle": "الفن",
-    "AuthorID": "46850295",
-    "AuthorNam": "كلايف بل",
-    "EditorID": "81949080",
-    "EditorNam": "ميشيل متياس",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "1384CliveBell.Art (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.Fann.Hindawi64790927
+#META# Tags: arts
+#META# ID: 64790927
+#META# Title: الفن
+#META# AuthorID: 46850295
+#META# Author: كلايف بل
+#META# EditorID: 81949080
+#META# Editor: ميشيل متياس
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 1384CliveBell.Art (TRANSL)
 
 #META#Header#End#
 

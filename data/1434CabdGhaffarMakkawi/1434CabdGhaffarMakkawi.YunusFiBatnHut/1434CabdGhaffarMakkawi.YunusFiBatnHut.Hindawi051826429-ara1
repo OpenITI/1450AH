@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.YunusFiBatnHut.Hindawi51826429",
-    "BookCats": "novels",
-    "BookID": "51826429",
-    "BookTitle": "يونس في بطن الحوت",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.YunusFiBatnHut.Hindawi51826429
+#META# Tags: novels
+#META# ID: 51826429
+#META# Title: يونس في بطن الحوت
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

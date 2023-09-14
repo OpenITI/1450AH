@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.IclanatWaTasmim.Hindawi30582583",
-    "BookCats": "arts :: business :: social.sciences",
-    "BookID": "30582583",
-    "BookTitle": "الإعلانات والتصميم: ابتكار الأفكار الإبداعية في وسائل الإعلام",
-    "AuthorID": "39470513",
-    "AuthorNam": "روبِن لاندا",
-    "EditorID": "93720406",
-    "EditorNam": "نيڤين عبد الرؤوف",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1450RobinLanda.AdvertisingByDesign (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.IclanatWaTasmim.Hindawi30582583
+#META# Tags: arts :: business :: social.sciences
+#META# ID: 30582583
+#META# Title: الإعلانات والتصميم: ابتكار الأفكار الإبداعية في وسائل الإعلام
+#META# AuthorID: 39470513
+#META# Author: روبِن لاندا
+#META# EditorID: 93720406
+#META# Editor: نيڤين عبد الرؤوف
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1450RobinLanda.AdvertisingByDesign (TRANSL)
 
 #META#Header#End#
 

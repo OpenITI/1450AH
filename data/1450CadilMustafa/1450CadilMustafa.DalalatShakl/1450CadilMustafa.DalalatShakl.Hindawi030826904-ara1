@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.DalalatShakl.Hindawi30826904",
-    "BookCats": "arts :: philosophy",
-    "BookID": "30826904",
-    "BookTitle": "دلالة الشكل: دراسة في الإستطيقا الشكلية وقراءة في كتاب الفن",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.DalalatShakl.Hindawi30826904
+#META# Tags: arts :: philosophy
+#META# ID: 30826904
+#META# Title: دلالة الشكل: دراسة في الإستطيقا الشكلية وقراءة في كتاب الفن
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

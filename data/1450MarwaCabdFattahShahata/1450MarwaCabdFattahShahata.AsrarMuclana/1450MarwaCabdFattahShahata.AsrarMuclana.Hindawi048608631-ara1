@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MarwaCabdFattahShahata.AsrarMuclana.Hindawi48608631",
-    "BookCats": "literature",
-    "BookID": "48608631",
-    "BookTitle": "أسرار مُعلَنة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "19607415 :: 30648375",
-    "TranslNam": "أحمد محمد الروبي :: مروة عبد الفتاح شحاتة",
-    "BookRel": "1450AliceMunro.OpenSecrets (TRANSL)"
-}
-
+#META# URI: 1450MarwaCabdFattahShahata.AsrarMuclana.Hindawi48608631
+#META# Tags: literature
+#META# ID: 48608631
+#META# Title: أسرار مُعلَنة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 19607415 :: 30648375
+#META# Translator: أحمد محمد الروبي :: مروة عبد الفتاح شحاتة
+#META# Related_books: 1450AliceMunro.OpenSecrets (TRANSL)
 
 #META#Header#End#
 

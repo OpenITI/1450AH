@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.IlahYuqaddimIstiqalathu.Hindawi60584602",
-    "BookCats": "plays",
-    "BookID": "60584602",
-    "BookTitle": "الإله يقدم استقالته في اجتماع القمة",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.IlahYuqaddimIstiqalathu.Hindawi60584602
+#META# Tags: plays
+#META# ID: 60584602
+#META# Title: الإله يقدم استقالته في اجتماع القمة
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

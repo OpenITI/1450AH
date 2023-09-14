@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSacdTantawi.TarikhIqtisadiCalamiMuqaddimaQasira.Hindawi35714749",
-    "BookCats": "history",
-    "BookID": "35714749",
-    "BookTitle": "التاريخ الاقتصادي العالمي: مقدمة قصيرة جدًّا",
-    "AuthorID": "25383929",
-    "AuthorNam": "روبرت سي آلن",
-    "EditorID": "53609040",
-    "EditorNam": "هبة نجيب مغربي",
-    "TranslID": "52050270",
-    "TranslNam": "محمد سعد طنطاوي",
-    "BookRel": "1450RobertCAllen.GlobalEconomicHistoryShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadSacdTantawi.TarikhIqtisadiCalamiMuqaddimaQasira.Hindawi35714749
+#META# Tags: history
+#META# ID: 35714749
+#META# Title: التاريخ الاقتصادي العالمي: مقدمة قصيرة جدًّا
+#META# AuthorID: 25383929
+#META# Author: روبرت سي آلن
+#META# EditorID: 53609040
+#META# Editor: هبة نجيب مغربي
+#META# TranslatorID: 52050270
+#META# Translator: محمد سعد طنطاوي
+#META# Related_books: 1450RobertCAllen.GlobalEconomicHistoryShortIntro (TRANSL)
 
 #META#Header#End#
 

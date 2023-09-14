@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.DawlaIslamiyyaWaKharab.Hindawi28302064",
-    "BookCats": "history",
-    "BookID": "28302064",
-    "BookTitle": "الدولة الإسلامية والخراب العاجل",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.DawlaIslamiyyaWaKharab.Hindawi28302064
+#META# Tags: history
+#META# ID: 28302064
+#META# Title: الدولة الإسلامية والخراب العاجل
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

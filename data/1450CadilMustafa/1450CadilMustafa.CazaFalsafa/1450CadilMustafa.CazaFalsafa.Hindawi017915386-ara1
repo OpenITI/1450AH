@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.CazaFalsafa.Hindawi17915386",
-    "BookCats": "philosophy",
-    "BookID": "17915386",
-    "BookTitle": "عزاء الفلسفة",
-    "AuthorID": "74861907",
-    "AuthorNam": "بوئثيوس",
-    "EditorID": "36490696",
-    "EditorNam": "أحمد عتمان",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "0001Boethius.DeConsolationePhilosophiae (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.CazaFalsafa.Hindawi17915386
+#META# Tags: philosophy
+#META# ID: 17915386
+#META# Title: عزاء الفلسفة
+#META# AuthorID: 74861907
+#META# Author: بوئثيوس
+#META# EditorID: 36490696
+#META# Editor: أحمد عتمان
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 0001Boethius.DeConsolationePhilosophiae (TRANSL)
 
 #META#Header#End#
 

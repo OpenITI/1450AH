@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasminCarabi.Ivanhoe.Hindawi93029537",
-    "BookCats": "novels",
-    "BookID": "93029537",
-    "BookTitle": "إيفانهو",
-    "AuthorID": "90516208",
-    "AuthorNam": "والتر سكوت",
-    "EditorID": "51613802",
-    "EditorNam": "محمد حامد درويش",
-    "TranslID": "62958680",
-    "TranslNam": "ياسمين العربي",
-    "BookRel": "1248WalterScott.Ivanhoe (TRANSL)"
-}
-
+#META# URI: 1450YasminCarabi.Ivanhoe.Hindawi93029537
+#META# Tags: novels
+#META# ID: 93029537
+#META# Title: إيفانهو
+#META# AuthorID: 90516208
+#META# Author: والتر سكوت
+#META# EditorID: 51613802
+#META# Editor: محمد حامد درويش
+#META# TranslatorID: 62958680
+#META# Translator: ياسمين العربي
+#META# Related_books: 1248WalterScott.Ivanhoe (TRANSL)
 
 #META#Header#End#
 

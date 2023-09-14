@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.LaylWaJibal.Hindawi82815090",
-    "BookCats": "plays",
-    "BookID": "82815090",
-    "BookTitle": "الليل والجبل",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.LaylWaJibal.Hindawi82815090
+#META# Tags: plays
+#META# ID: 82815090
+#META# Title: الليل والجبل
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

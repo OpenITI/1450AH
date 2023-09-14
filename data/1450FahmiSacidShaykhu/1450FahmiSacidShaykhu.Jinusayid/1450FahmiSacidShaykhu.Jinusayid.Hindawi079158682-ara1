@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FahmiSacidShaykhu.Jinusayid.Hindawi79158682",
-    "BookCats": "novels",
-    "BookID": "79158682",
-    "BookTitle": "جينوسايد: الأرض والعِرق والتاريخ",
-    "AuthorID": "97172706",
-    "AuthorNam": "فهمي سعيد الشيخو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FahmiSacidShaykhu.Jinusayid.Hindawi79158682
+#META# Tags: novels
+#META# ID: 79158682
+#META# Title: جينوسايد: الأرض والعِرق والتاريخ
+#META# AuthorID: 97172706
+#META# Author: فهمي سعيد الشيخو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

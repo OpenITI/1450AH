@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.HurriyyaInsaniyyaWaCilm.Hindawi40515731",
-    "BookCats": "philosophy",
-    "BookID": "40515731",
-    "BookTitle": "الحرية الإنسانية والعلم: مشكلة فلسفية",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.HurriyyaInsaniyyaWaCilm.Hindawi40515731
+#META# Tags: philosophy
+#META# ID: 40515731
+#META# Title: الحرية الإنسانية والعلم: مشكلة فلسفية
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

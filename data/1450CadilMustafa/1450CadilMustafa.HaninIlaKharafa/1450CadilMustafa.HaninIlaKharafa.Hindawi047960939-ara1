@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.HaninIlaKharafa.Hindawi47960939",
-    "BookCats": "philosophy",
-    "BookID": "47960939",
-    "BookTitle": "الحنين إلى الخرافة: فصول في العلم الزائف",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.HaninIlaKharafa.Hindawi47960939
+#META# Tags: philosophy
+#META# ID: 47960939
+#META# Title: الحنين إلى الخرافة: فصول في العلم الزائف
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

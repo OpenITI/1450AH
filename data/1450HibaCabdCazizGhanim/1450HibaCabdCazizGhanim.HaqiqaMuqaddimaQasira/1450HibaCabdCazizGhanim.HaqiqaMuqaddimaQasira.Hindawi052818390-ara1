@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HibaCabdCazizGhanim.HaqiqaMuqaddimaQasira.Hindawi52818390",
-    "BookCats": "philosophy",
-    "BookID": "52818390",
-    "BookTitle": "الحقيقة: مقدمة قصيرة جدًّا",
-    "AuthorID": "38618358",
-    "AuthorNam": "يان فيسترهوف",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "46097241",
-    "TranslNam": "هبة عبد العزيز غانم",
-    "BookRel": "1450JanWesterhoff.RealityShortIntro (TRANSL)"
-}
-
+#META# URI: 1450HibaCabdCazizGhanim.HaqiqaMuqaddimaQasira.Hindawi52818390
+#META# Tags: philosophy
+#META# ID: 52818390
+#META# Title: الحقيقة: مقدمة قصيرة جدًّا
+#META# AuthorID: 38618358
+#META# Author: يان فيسترهوف
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 46097241
+#META# Translator: هبة عبد العزيز غانم
+#META# Related_books: 1450JanWesterhoff.RealityShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.WasailWaGhayat.Hindawi42402513",
-    "BookCats": "philosophy",
-    "BookID": "42402513",
-    "BookTitle": "الوسائل والغايات",
-    "AuthorID": "86935306",
-    "AuthorNam": "أولدس هكسلي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1383AldousHuxley.EndsMeans (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.WasailWaGhayat.Hindawi42402513
+#META# Tags: philosophy
+#META# ID: 42402513
+#META# Title: الوسائل والغايات
+#META# AuthorID: 86935306
+#META# Author: أولدس هكسلي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1383AldousHuxley.EndsMeans (TRANSL)
 
 #META#Header#End#
 

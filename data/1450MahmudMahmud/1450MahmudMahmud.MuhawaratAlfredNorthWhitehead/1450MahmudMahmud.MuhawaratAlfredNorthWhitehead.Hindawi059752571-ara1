@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.MuhawaratAlfredNorthWhitehead.Hindawi59752571",
-    "BookCats": "philosophy",
-    "BookID": "59752571",
-    "BookTitle": "محاورات ألفرد نورث هوايتهد",
-    "AuthorID": "25285820",
-    "AuthorNam": "لوسيان برايس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1383LucienPrice.ConversationsOfAlfredWhitehead (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.MuhawaratAlfredNorthWhitehead.Hindawi59752571
+#META# Tags: philosophy
+#META# ID: 59752571
+#META# Title: محاورات ألفرد نورث هوايتهد
+#META# AuthorID: 25285820
+#META# Author: لوسيان برايس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1383LucienPrice.ConversationsOfAlfredWhitehead (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.Tariq.Hindawi57385184",
-    "BookCats": "novels",
-    "BookID": "57385184",
-    "BookTitle": "الطريق",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.Tariq.Hindawi57385184
+#META# Tags: novels
+#META# ID: 57385184
+#META# Title: الطريق
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.AsdaSiraDhatiyya.Hindawi82695209",
-    "BookCats": "literature :: biographies",
-    "BookID": "82695209",
-    "BookTitle": "أصداء السيرة الذاتية",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.AsdaSiraDhatiyya.Hindawi82695209
+#META# Tags: literature :: biographies
+#META# ID: 82695209
+#META# Title: أصداء السيرة الذاتية
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

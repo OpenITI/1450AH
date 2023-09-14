@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.TacallumLughaJadida.Hindawi58190360",
-    "BookCats": "linguistics",
-    "BookID": "58190360",
-    "BookTitle": "تعلَّم لغة جديدة بسرعة وسهولة",
-    "AuthorID": "19583726",
-    "AuthorNam": "بيل هاندلي",
-    "EditorID": "75847252",
-    "EditorNam": "سارة عادل",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1450BillHandley.FastEasyWayToLearnLanguage (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.TacallumLughaJadida.Hindawi58190360
+#META# Tags: linguistics
+#META# ID: 58190360
+#META# Title: تعلَّم لغة جديدة بسرعة وسهولة
+#META# AuthorID: 19583726
+#META# Author: بيل هاندلي
+#META# EditorID: 75847252
+#META# Editor: سارة عادل
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1450BillHandley.FastEasyWayToLearnLanguage (TRANSL)
 
 #META#Header#End#
 

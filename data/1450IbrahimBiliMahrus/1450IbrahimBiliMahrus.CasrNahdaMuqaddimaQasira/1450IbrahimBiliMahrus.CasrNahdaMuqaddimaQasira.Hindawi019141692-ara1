@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450IbrahimBiliMahrus.CasrNahdaMuqaddimaQasira.Hindawi19141692",
-    "BookCats": "history",
-    "BookID": "19141692",
-    "BookTitle": "عصر النهضة: مقدمة قصيرة جدًّا",
-    "AuthorID": "39462515",
-    "AuthorNam": "جيري بروتون",
-    "EditorID": "53609040",
-    "EditorNam": "هبة نجيب مغربي",
-    "TranslID": "50292071",
-    "TranslNam": "إبراهيم البيلي محروس",
-    "BookRel": "1450JerryBrotton.RenaissanceShortIntro (TRANSL)"
-}
-
+#META# URI: 1450IbrahimBiliMahrus.CasrNahdaMuqaddimaQasira.Hindawi19141692
+#META# Tags: history
+#META# ID: 19141692
+#META# Title: عصر النهضة: مقدمة قصيرة جدًّا
+#META# AuthorID: 39462515
+#META# Author: جيري بروتون
+#META# EditorID: 53609040
+#META# Editor: هبة نجيب مغربي
+#META# TranslatorID: 50292071
+#META# Translator: إبراهيم البيلي محروس
+#META# Related_books: 1450JerryBrotton.RenaissanceShortIntro (TRANSL)
 
 #META#Header#End#
 

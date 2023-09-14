@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450IbrahimSanadAhmad.WahidMinna.Hindawi37573972",
-    "BookCats": "literature",
-    "BookID": "37573972",
-    "BookTitle": "واحد منا",
-    "AuthorID": "86908205",
-    "AuthorNam": "ويلا كاثر",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "48097460",
-    "TranslNam": "إبراهيم سند أحمد",
-    "BookRel": "1366WillaCather.OneOfOurs (TRANSL)"
-}
-
+#META# URI: 1450IbrahimSanadAhmad.WahidMinna.Hindawi37573972
+#META# Tags: literature
+#META# ID: 37573972
+#META# Title: واحد منا
+#META# AuthorID: 86908205
+#META# Author: ويلا كاثر
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 48097460
+#META# Translator: إبراهيم سند أحمد
+#META# Related_books: 1366WillaCather.OneOfOurs (TRANSL)
 
 #META#Header#End#
 

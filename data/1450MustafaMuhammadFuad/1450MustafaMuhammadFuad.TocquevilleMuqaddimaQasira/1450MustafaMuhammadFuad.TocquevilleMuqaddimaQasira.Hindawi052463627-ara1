@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MustafaMuhammadFuad.TocquevilleMuqaddimaQasira.Hindawi52463627",
-    "BookCats": "social.sciences",
-    "BookID": "52463627",
-    "BookTitle": "توكفيل: مقدمة قصيرة جدًّا",
-    "AuthorID": "53929269",
-    "AuthorNam": "هارفي سي مانسفيلد",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "73586958",
-    "TranslNam": "مصطفى محمد فؤاد",
-    "BookRel": "1450HarveyMansfield.TocquevilleShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MustafaMuhammadFuad.TocquevilleMuqaddimaQasira.Hindawi52463627
+#META# Tags: social.sciences
+#META# ID: 52463627
+#META# Title: توكفيل: مقدمة قصيرة جدًّا
+#META# AuthorID: 53929269
+#META# Author: هارفي سي مانسفيلد
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 73586958
+#META# Translator: مصطفى محمد فؤاد
+#META# Related_books: 1450HarveyMansfield.TocquevilleShortIntro (TRANSL)
 
 #META#Header#End#
 

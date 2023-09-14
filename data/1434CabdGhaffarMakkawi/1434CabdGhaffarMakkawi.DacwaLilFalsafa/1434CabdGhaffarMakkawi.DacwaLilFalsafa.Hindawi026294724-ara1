@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.DacwaLilFalsafa.Hindawi26294724",
-    "BookCats": "philosophy",
-    "BookID": "26294724",
-    "BookTitle": "دعوة للفلسفة: كتاب مفقود لأرسطو",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.DacwaLilFalsafa.Hindawi26294724
+#META# Tags: philosophy
+#META# ID: 26294724
+#META# Title: دعوة للفلسفة: كتاب مفقود لأرسطو
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

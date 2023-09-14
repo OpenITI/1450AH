@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.HubbFiZamanNaft.Hindawi30529386",
-    "BookCats": "novels",
-    "BookID": "30529386",
-    "BookTitle": "الحب في زمن النفط",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.HubbFiZamanNaft.Hindawi30529386
+#META# Tags: novels
+#META# ID: 30529386
+#META# Title: الحب في زمن النفط
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450UmamaLawati.HasaFarashat.Hindawi50839406",
-    "BookCats": "literature",
-    "BookID": "50839406",
-    "BookTitle": "حساء الفراشات: مجموعة نثرية",
-    "AuthorID": "94039246",
-    "AuthorNam": "أمامة اللواتي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450UmamaLawati.HasaFarashat.Hindawi50839406
+#META# Tags: literature
+#META# ID: 50839406
+#META# Title: حساء الفراشات: مجموعة نثرية
+#META# AuthorID: 94039246
+#META# Author: أمامة اللواتي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

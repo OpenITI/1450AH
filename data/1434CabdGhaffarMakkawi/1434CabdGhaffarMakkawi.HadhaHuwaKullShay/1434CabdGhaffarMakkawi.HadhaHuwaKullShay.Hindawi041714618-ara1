@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.HadhaHuwaKullShay.Hindawi41714618",
-    "BookCats": "literature",
-    "BookID": "41714618",
-    "BookTitle": "هذا هو كل شيء: قصائد من برشت",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.HadhaHuwaKullShay.Hindawi41714618
+#META# Tags: literature
+#META# ID: 41714618
+#META# Title: هذا هو كل شيء: قصائد من برشت
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasminCarabi.MaWaraAdyan.Hindawi58396090",
-    "BookCats": "philosophy",
-    "BookID": "58396090",
-    "BookTitle": "ما وراء الأديان: أخلاقيات لعالم كامل",
-    "AuthorID": "71413915",
-    "AuthorNam": "الدالاي لاما",
-    "EditorID": "83840647",
-    "EditorNam": "الزهراء سامي",
-    "TranslID": "62958680",
-    "TranslNam": "ياسمين العربي",
-    "BookRel": "1450DalaiLama.BeyondReligion (TRANSL)"
-}
-
+#META# URI: 1450YasminCarabi.MaWaraAdyan.Hindawi58396090
+#META# Tags: philosophy
+#META# ID: 58396090
+#META# Title: ما وراء الأديان: أخلاقيات لعالم كامل
+#META# AuthorID: 71413915
+#META# Author: الدالاي لاما
+#META# EditorID: 83840647
+#META# Editor: الزهراء سامي
+#META# TranslatorID: 62958680
+#META# Translator: ياسمين العربي
+#META# Related_books: 1450DalaiLama.BeyondReligion (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.Shayatin.Hindawi40282495",
-    "BookCats": "literature",
-    "BookID": "40282495",
-    "BookTitle": "الشياطين",
-    "AuthorID": "70416179",
-    "AuthorNam": "جون هوايتنج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1382JohnWhiting.Devils (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.Shayatin.Hindawi40282495
+#META# Tags: literature
+#META# ID: 40282495
+#META# Title: الشياطين
+#META# AuthorID: 70416179
+#META# Author: جون هوايتنج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1382JohnWhiting.Devils (TRANSL)
 
 #META#Header#End#
 

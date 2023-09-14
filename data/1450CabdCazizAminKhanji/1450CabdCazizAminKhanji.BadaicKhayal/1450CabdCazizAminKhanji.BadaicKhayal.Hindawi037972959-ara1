@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizAminKhanji.BadaicKhayal.Hindawi37972959",
-    "BookCats": "novels",
-    "BookID": "37972959",
-    "BookTitle": "بدائع الخيال",
-    "AuthorID": "35930479",
-    "AuthorNam": "عبد العزيز أمين الخانجي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizAminKhanji.BadaicKhayal.Hindawi37972959
+#META# Tags: novels
+#META# ID: 37972959
+#META# Title: بدائع الخيال
+#META# AuthorID: 35930479
+#META# Author: عبد العزيز أمين الخانجي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZahraSami.FiZamanna.Hindawi85794209",
-    "BookCats": "novels",
-    "BookID": "85794209",
-    "BookTitle": "في زمننا",
-    "AuthorID": "93724792",
-    "AuthorNam": "إرنست همينجواي",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "83840647",
-    "TranslNam": "الزهراء سامي",
-    "BookRel": "1381ErnestHemingway.InOurTime (TRANSL)"
-}
-
+#META# URI: 1450ZahraSami.FiZamanna.Hindawi85794209
+#META# Tags: novels
+#META# ID: 85794209
+#META# Title: في زمننا
+#META# AuthorID: 93724792
+#META# Author: إرنست همينجواي
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 83840647
+#META# Translator: الزهراء سامي
+#META# Related_books: 1381ErnestHemingway.InOurTime (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450RashaSalahDakhakhni.AwailKharif.Hindawi48616852",
-    "BookCats": "novels",
-    "BookID": "48616852",
-    "BookTitle": "أوائل الخريف: قصة سيدة راقية",
-    "AuthorID": "52086240",
-    "AuthorNam": "لويس برومفيلد",
-    "EditorID": "51613802",
-    "EditorNam": "محمد حامد درويش",
-    "TranslID": "97092460",
-    "TranslNam": "رشا صلاح الدخاخني",
-    "BookRel": "1375LouisBromfield.EarlyAutumn (TRANSL)"
-}
-
+#META# URI: 1450RashaSalahDakhakhni.AwailKharif.Hindawi48616852
+#META# Tags: novels
+#META# ID: 48616852
+#META# Title: أوائل الخريف: قصة سيدة راقية
+#META# AuthorID: 52086240
+#META# Author: لويس برومفيلد
+#META# EditorID: 51613802
+#META# Editor: محمد حامد درويش
+#META# TranslatorID: 97092460
+#META# Translator: رشا صلاح الدخاخني
+#META# Related_books: 1375LouisBromfield.EarlyAutumn (TRANSL)
 
 #META#Header#End#
 

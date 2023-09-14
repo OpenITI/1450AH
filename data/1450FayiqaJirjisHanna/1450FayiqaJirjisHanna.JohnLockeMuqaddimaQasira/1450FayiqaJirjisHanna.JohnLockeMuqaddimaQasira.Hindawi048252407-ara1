@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.JohnLockeMuqaddimaQasira.Hindawi48252407",
-    "BookCats": "philosophy",
-    "BookID": "48252407",
-    "BookTitle": "جون لوك: مقدمة قصيرة جدًّا",
-    "AuthorID": "35085824",
-    "AuthorNam": "جون دَن",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1450JohnDunn.JohnLockeShortIntro (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.JohnLockeMuqaddimaQasira.Hindawi48252407
+#META# Tags: philosophy
+#META# ID: 48252407
+#META# Title: جون لوك: مقدمة قصيرة جدًّا
+#META# AuthorID: 35085824
+#META# Author: جون دَن
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1450JohnDunn.JohnLockeShortIntro (TRANSL)
 
 #META#Header#End#
 

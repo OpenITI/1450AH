@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadCabdRahmanSalama.FalsafaAlmaniyyaMuqaddimaQasira.Hindawi51537908",
-    "BookCats": "philosophy",
-    "BookID": "51537908",
-    "BookTitle": "الفلسفة الألمانية: مقدمة قصيرة جدًّا",
-    "AuthorID": "59418691",
-    "AuthorNam": "أندرو بووي",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "92702646",
-    "TranslNam": "محمد عبد الرحمن سلامة",
-    "BookRel": "1450AndrewBowie.GermanPhilosophyShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadCabdRahmanSalama.FalsafaAlmaniyyaMuqaddimaQasira.Hindawi51537908
+#META# Tags: philosophy
+#META# ID: 51537908
+#META# Title: الفلسفة الألمانية: مقدمة قصيرة جدًّا
+#META# AuthorID: 59418691
+#META# Author: أندرو بووي
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 92702646
+#META# Translator: محمد عبد الرحمن سلامة
+#META# Related_books: 1450AndrewBowie.GermanPhilosophyShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadSamirSacd.MaHayat.Hindawi72531648",
-    "BookCats": "science :: philosophy",
-    "BookID": "72531648",
-    "BookTitle": "ما الحياة؟: الجانب الفيزيائي للخلية الحية",
-    "AuthorID": "70862848",
-    "AuthorNam": "إرفين شرودنجر",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "86494292",
-    "TranslNam": "أحمد سمير سعد",
-    "BookRel": "1380ErwinSchrodinger.WhatIsLife (TRANSL)"
-}
-
+#META# URI: 1450AhmadSamirSacd.MaHayat.Hindawi72531648
+#META# Tags: science :: philosophy
+#META# ID: 72531648
+#META# Title: ما الحياة؟: الجانب الفيزيائي للخلية الحية
+#META# AuthorID: 70862848
+#META# Author: إرفين شرودنجر
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 86494292
+#META# Translator: أحمد سمير سعد
+#META# Related_books: 1380ErwinSchrodinger.WhatIsLife (TRANSL)
 
 #META#Header#End#
 

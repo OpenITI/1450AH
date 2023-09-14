@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdRahmanMajdi.MushilatMacaGhuraba.Hindawi37269084",
-    "BookCats": "philosophy :: social.sciences",
-    "BookID": "37269084",
-    "BookTitle": "مشكلات مع الغرباء: دراسة في فلسفة الأخلاق",
-    "AuthorID": "30406272",
-    "AuthorNam": "تيري إيجلتون",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "28405095 :: 73586958",
-    "TranslNam": "عبد الرحمن مجدي :: مصطفى محمد فؤاد",
-    "BookRel": "1450TerryEagleton.TroubleWithStrangers (TRANSL)"
-}
-
+#META# URI: 1450CabdRahmanMajdi.MushilatMacaGhuraba.Hindawi37269084
+#META# Tags: philosophy :: social.sciences
+#META# ID: 37269084
+#META# Title: مشكلات مع الغرباء: دراسة في فلسفة الأخلاق
+#META# AuthorID: 30406272
+#META# Author: تيري إيجلتون
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 28405095 :: 73586958
+#META# Translator: عبد الرحمن مجدي :: مصطفى محمد فؤاد
+#META# Related_books: 1450TerryEagleton.TroubleWithStrangers (TRANSL)
 
 #META#Header#End#
 

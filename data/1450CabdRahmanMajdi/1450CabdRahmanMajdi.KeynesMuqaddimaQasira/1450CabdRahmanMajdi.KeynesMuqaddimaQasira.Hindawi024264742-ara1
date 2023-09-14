@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdRahmanMajdi.KeynesMuqaddimaQasira.Hindawi24264742",
-    "BookCats": "biographies",
-    "BookID": "24264742",
-    "BookTitle": "جون مينارد كينز: مقدمة قصيرة جدًّا",
-    "AuthorID": "28158584",
-    "AuthorNam": "روبرت سكيدلسكي",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "28405095",
-    "TranslNam": "عبد الرحمن مجدي",
-    "BookRel": "1450RobertSkidelsky.KeynesShortIntro (TRANSL)"
-}
-
+#META# URI: 1450CabdRahmanMajdi.KeynesMuqaddimaQasira.Hindawi24264742
+#META# Tags: biographies
+#META# ID: 24264742
+#META# Title: جون مينارد كينز: مقدمة قصيرة جدًّا
+#META# AuthorID: 28158584
+#META# Author: روبرت سكيدلسكي
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 28405095
+#META# Translator: عبد الرحمن مجدي
+#META# Related_books: 1450RobertSkidelsky.KeynesShortIntro (TRANSL)
 
 #META#Header#End#
 

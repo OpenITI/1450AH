@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.JawanibFikriyya.Hindawi20638031",
-    "BookCats": "social.sciences",
-    "BookID": "20638031",
-    "BookTitle": "الجوانب الفكرية في مختلف النُّظُم الاجتماعية",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.JawanibFikriyya.Hindawi20638031
+#META# Tags: social.sciences
+#META# ID: 20638031
+#META# Title: الجوانب الفكرية في مختلف النُّظُم الاجتماعية
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadHamidDarwish.CamilTahwila.Hindawi30953836",
-    "BookCats": "literature",
-    "BookID": "30953836",
-    "BookTitle": "عامل التحويلة",
-    "AuthorID": "14791716",
-    "AuthorNam": "تشارلز ديكنز",
-    "EditorID": "72975737",
-    "EditorNam": "شيماء طه الريدي",
-    "TranslID": "51613802",
-    "TranslNam": "محمد حامد درويش",
-    "BookRel": "1286CharlesDickens.SignalMan (TRANSL)"
-}
-
+#META# URI: 1450MuhammadHamidDarwish.CamilTahwila.Hindawi30953836
+#META# Tags: literature
+#META# ID: 30953836
+#META# Title: عامل التحويلة
+#META# AuthorID: 14791716
+#META# Author: تشارلز ديكنز
+#META# EditorID: 72975737
+#META# Editor: شيماء طه الريدي
+#META# TranslatorID: 51613802
+#META# Translator: محمد حامد درويش
+#META# Related_books: 1286CharlesDickens.SignalMan (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.LaylaThaniyaCashara.Hindawi30717164",
-    "BookCats": "plays",
-    "BookID": "30717164",
-    "BookTitle": "الليلة الثانية عشرة: أو ما شئت!",
-    "AuthorID": "51483537",
-    "AuthorNam": "وليم شيكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1024WilliamShakespeare.TwelfthNight (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.LaylaThaniyaCashara.Hindawi30717164
+#META# Tags: plays
+#META# ID: 30717164
+#META# Title: الليلة الثانية عشرة: أو ما شئت!
+#META# AuthorID: 51483537
+#META# Author: وليم شيكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1024WilliamShakespeare.TwelfthNight (TRANSL)
 
 #META#Header#End#
 

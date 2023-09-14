@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NahlaDarbi.HayatiCaziza.Hindawi80841409",
-    "BookCats": "literature",
-    "BookID": "80841409",
-    "BookTitle": "حياتي العزيزة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "58072962",
-    "TranslNam": "نهلة  الدربي",
-    "BookRel": "1450AliceMunro.DearLife (TRANSL)"
-}
-
+#META# URI: 1450NahlaDarbi.HayatiCaziza.Hindawi80841409
+#META# Tags: literature
+#META# ID: 80841409
+#META# Title: حياتي العزيزة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 58072962
+#META# Translator: نهلة  الدربي
+#META# Related_books: 1450AliceMunro.DearLife (TRANSL)
 
 #META#Header#End#
 

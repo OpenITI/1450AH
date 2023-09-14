@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SayyidCaliIsmacil.HafizNajib.Hindawi62682937",
-    "BookCats": "biographies :: literature",
-    "BookID": "62682937",
-    "BookTitle": "حافظ نجيب : الأديب المحتال",
-    "AuthorID": "91509525",
-    "AuthorNam": "سيد علي إسماعيل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SayyidCaliIsmacil.HafizNajib.Hindawi62682937
+#META# Tags: biographies :: literature
+#META# ID: 62682937
+#META# Title: حافظ نجيب : الأديب المحتال
+#META# AuthorID: 91509525
+#META# Author: سيد علي إسماعيل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

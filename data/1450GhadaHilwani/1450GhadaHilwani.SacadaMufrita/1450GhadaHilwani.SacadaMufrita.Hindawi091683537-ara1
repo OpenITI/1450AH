@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450GhadaHilwani.SacadaMufrita.Hindawi91683537",
-    "BookCats": "literature",
-    "BookID": "91683537",
-    "BookTitle": "سعادة مفرطة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "53746192 :: 75847252",
-    "EditorNam": "محمد إبراهيم الجندي :: سارة عادل",
-    "TranslID": "16241964",
-    "TranslNam": "غادة  الحلواني",
-    "BookRel": "1450AliceMunro.TooMuchHappiness (TRANSL)"
-}
-
+#META# URI: 1450GhadaHilwani.SacadaMufrita.Hindawi91683537
+#META# Tags: literature
+#META# ID: 91683537
+#META# Title: سعادة مفرطة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 53746192 :: 75847252
+#META# Editor: محمد إبراهيم الجندي :: سارة عادل
+#META# TranslatorID: 16241964
+#META# Translator: غادة  الحلواني
+#META# Related_books: 1450AliceMunro.TooMuchHappiness (TRANSL)
 
 #META#Header#End#
 

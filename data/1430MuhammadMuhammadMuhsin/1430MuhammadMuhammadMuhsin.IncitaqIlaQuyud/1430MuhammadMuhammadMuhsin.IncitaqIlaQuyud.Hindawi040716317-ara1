@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1430MuhammadMuhammadMuhsin.IncitaqIlaQuyud.Hindawi40716317",
-    "BookCats": "poetry",
-    "BookID": "40716317",
-    "BookTitle": "انعتاقٌ إلى القيود",
-    "AuthorID": "24829517",
-    "AuthorNam": "محمد محسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1430MuhammadMuhammadMuhsin.IncitaqIlaQuyud.Hindawi40716317
+#META# Tags: poetry
+#META# ID: 40716317
+#META# Title: انعتاقٌ إلى القيود
+#META# AuthorID: 24829517
+#META# Author: محمد محسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.Tawahin.Hindawi81840925",
-    "BookCats": "novels",
-    "BookID": "81840925",
-    "BookTitle": "الطواحين",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.Tawahin.Hindawi81840925
+#META# Tags: novels
+#META# ID: 81840925
+#META# Title: الطواحين
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

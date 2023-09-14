@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.TarikhFalsafaCalamiyya.Hindawi68413140",
-    "BookCats": "philosophy",
-    "BookID": "68413140",
-    "BookTitle": "تاريخ الفلسفة بنظرة عالمية: آخر نص كتبه الفيلسوف كارل ياسبرز",
-    "AuthorID": "40404835",
-    "AuthorNam": "كارل ياسبرز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1388KarlJaspers.WeltgeschichteDerPhilosophie (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.TarikhFalsafaCalamiyya.Hindawi68413140
+#META# Tags: philosophy
+#META# ID: 68413140
+#META# Title: تاريخ الفلسفة بنظرة عالمية: آخر نص كتبه الفيلسوف كارل ياسبرز
+#META# AuthorID: 40404835
+#META# Author: كارل ياسبرز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1388KarlJaspers.WeltgeschichteDerPhilosophie (TRANSL)
 
 #META#Header#End#
 

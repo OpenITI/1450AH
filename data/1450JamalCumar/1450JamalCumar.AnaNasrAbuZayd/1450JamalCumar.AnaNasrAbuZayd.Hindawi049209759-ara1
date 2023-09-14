@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450JamalCumar.AnaNasrAbuZayd.Hindawi49209759",
-    "BookCats": "biographies",
-    "BookID": "49209759",
-    "BookTitle": "أنا نصر أبو زيد",
-    "AuthorID": "51939462",
-    "AuthorNam": "جمال عمر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450JamalCumar.AnaNasrAbuZayd.Hindawi49209759
+#META# Tags: biographies
+#META# ID: 49209759
+#META# Title: أنا نصر أبو زيد
+#META# AuthorID: 51939462
+#META# Author: جمال عمر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

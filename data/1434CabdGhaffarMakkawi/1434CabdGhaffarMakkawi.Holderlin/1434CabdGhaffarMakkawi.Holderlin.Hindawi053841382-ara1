@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Holderlin.Hindawi53841382",
-    "BookCats": "literature :: biographies",
-    "BookID": "53841382",
-    "BookTitle": "هلدرلين",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Holderlin.Hindawi53841382
+#META# Tags: literature :: biographies
+#META# ID: 53841382
+#META# Title: هلدرلين
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

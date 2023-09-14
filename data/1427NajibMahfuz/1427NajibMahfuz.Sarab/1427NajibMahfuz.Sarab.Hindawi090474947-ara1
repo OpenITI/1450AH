@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.Sarab.Hindawi90474947",
-    "BookCats": "novels",
-    "BookID": "90474947",
-    "BookTitle": "السراب",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.Sarab.Hindawi90474947
+#META# Tags: novels
+#META# ID: 90474947
+#META# Title: السراب
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

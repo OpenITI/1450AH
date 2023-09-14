@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.FahmFahm.Hindawi83586869",
-    "BookCats": "philosophy",
-    "BookID": "83586869",
-    "BookTitle": "فهم الفهم: مدخل إلى الهرمنيوطيقا: نظرية التأويل من أفلاطون إلى جادامر",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.FahmFahm.Hindawi83586869
+#META# Tags: philosophy
+#META# ID: 83586869
+#META# Title: فهم الفهم: مدخل إلى الهرمنيوطيقا: نظرية التأويل من أفلاطون إلى جادامر
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadMuhammadRubi.DadaiyyaWaSiryaliyyaMuqaddimaQasira.Hindawi84629096",
-    "BookCats": "arts",
-    "BookID": "84629096",
-    "BookTitle": "الدَّادائية والسِّريالية: مقدمة قصيرة جدًّا",
-    "AuthorID": "52427524",
-    "AuthorNam": "ديفيد هوبكنز",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "19607415",
-    "TranslNam": "أحمد محمد الروبي",
-    "BookRel": "1450DavidHopkins.DadaSurrealismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450AhmadMuhammadRubi.DadaiyyaWaSiryaliyyaMuqaddimaQasira.Hindawi84629096
+#META# Tags: arts
+#META# ID: 84629096
+#META# Title: الدَّادائية والسِّريالية: مقدمة قصيرة جدًّا
+#META# AuthorID: 52427524
+#META# Author: ديفيد هوبكنز
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 19607415
+#META# Translator: أحمد محمد الروبي
+#META# Related_books: 1450DavidHopkins.DadaSurrealismShortIntro (TRANSL)
 
 #META#Header#End#
 

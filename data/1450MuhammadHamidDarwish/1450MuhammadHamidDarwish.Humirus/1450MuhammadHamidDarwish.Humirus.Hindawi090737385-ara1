@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadHamidDarwish.Humirus.Hindawi90737385",
-    "BookCats": "literary.criticism :: history",
-    "BookID": "90737385",
-    "BookTitle": "هوميروس",
-    "AuthorID": "91852402",
-    "AuthorNam": "باري بي باول",
-    "EditorID": "72975737",
-    "EditorNam": "شيماء طه الريدي",
-    "TranslID": "51613802",
-    "TranslNam": "محمد حامد درويش",
-    "BookRel": "1450BarryBPowell.Homer (TRANSL)"
-}
-
+#META# URI: 1450MuhammadHamidDarwish.Humirus.Hindawi90737385
+#META# Tags: literary.criticism :: history
+#META# ID: 90737385
+#META# Title: هوميروس
+#META# AuthorID: 91852402
+#META# Author: باري بي باول
+#META# EditorID: 72975737
+#META# Editor: شيماء طه الريدي
+#META# TranslatorID: 51613802
+#META# Translator: محمد حامد درويش
+#META# Related_books: 1450BarryBPowell.Homer (TRANSL)
 
 #META#Header#End#
 

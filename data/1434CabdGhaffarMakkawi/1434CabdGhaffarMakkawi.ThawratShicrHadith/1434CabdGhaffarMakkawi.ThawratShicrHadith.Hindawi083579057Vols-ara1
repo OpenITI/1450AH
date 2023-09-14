@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.ThawratShicrHadith01.Hindawi83579057",
-    "BookCats": "literature",
-    "BookID": "83579057",
-    "BookTitle": "ثورة الشعر الحديث من بودلير إلى العصر الحاضر (الجزء الأول) : الدراسة",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.ThawratShicrHadith01.Hindawi83579057
+#META# Tags: literature
+#META# ID: 83579057
+#META# Title: ثورة الشعر الحديث من بودلير إلى العصر الحاضر (الجزء الأول) : الدراسة
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

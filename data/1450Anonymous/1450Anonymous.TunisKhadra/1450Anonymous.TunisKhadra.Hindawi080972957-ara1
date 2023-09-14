@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450Anonymous.TunisKhadra.Hindawi80972957",
-    "BookCats": "history",
-    "BookID": "80972957",
-    "BookTitle": "تونس الخضراء",
-    "AuthorID": "",
-    "AuthorNam": "",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450Anonymous.TunisKhadra.Hindawi80972957
+#META# Tags: history
+#META# ID: 80972957
+#META# Title: تونس الخضراء
+#META# AuthorID: 
+#META# Author: 
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

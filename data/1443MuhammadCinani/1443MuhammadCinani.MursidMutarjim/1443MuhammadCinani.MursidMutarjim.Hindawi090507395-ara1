@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.MursidMutarjim.Hindawi90507395",
-    "BookCats": "linguistics",
-    "BookID": "90507395",
-    "BookTitle": "مرشد المترجم (إلى أصعب الكلمات الشائعة في اللغة الإنجليزية): مدخل إلى التحولات الدلالية والفروق اللغوية",
-    "AuthorID": "84758179",
-    "AuthorNam": "محمد عناني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443MuhammadCinani.MursidMutarjim.Hindawi90507395
+#META# Tags: linguistics
+#META# ID: 90507395
+#META# Title: مرشد المترجم (إلى أصعب الكلمات الشائعة في اللغة الإنجليزية): مدخل إلى التحولات الدلالية والفروق اللغوية
+#META# AuthorID: 84758179
+#META# Author: محمد عناني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

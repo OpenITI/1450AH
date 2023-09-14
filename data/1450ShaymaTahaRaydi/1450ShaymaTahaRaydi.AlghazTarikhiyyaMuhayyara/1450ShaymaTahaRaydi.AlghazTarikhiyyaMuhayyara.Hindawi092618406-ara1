@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.AlghazTarikhiyyaMuhayyara.Hindawi92618406",
-    "BookCats": "history",
-    "BookID": "92618406",
-    "BookTitle": "ألغاز تاريخية محيرة: بحث مثير في أكثر الأحداث غموضًا على مر الزمن",
-    "AuthorID": "72609402",
-    "AuthorNam": "بول أرون",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450PaulAron.UnsolvedMysteriesOfHistory (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.AlghazTarikhiyyaMuhayyara.Hindawi92618406
+#META# Tags: history
+#META# ID: 92618406
+#META# Title: ألغاز تاريخية محيرة: بحث مثير في أكثر الأحداث غموضًا على مر الزمن
+#META# AuthorID: 72609402
+#META# Author: بول أرون
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450PaulAron.UnsolvedMysteriesOfHistory (TRANSL)
 
 #META#Header#End#
 

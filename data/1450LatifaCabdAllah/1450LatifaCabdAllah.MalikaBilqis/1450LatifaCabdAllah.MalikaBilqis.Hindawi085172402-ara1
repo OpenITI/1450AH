@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450LatifaCabdAllah.MalikaBilqis.Hindawi85172402",
-    "BookCats": "plays",
-    "BookID": "85172402",
-    "BookTitle": "الملكة بلقيس",
-    "AuthorID": "27161418 :: 91509525",
-    "AuthorNam": "لطيفة عبد الله :: سيد علي إسماعيل #دراسة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450LatifaCabdAllah.MalikaBilqis.Hindawi85172402
+#META# Tags: plays
+#META# ID: 85172402
+#META# Title: الملكة بلقيس
+#META# AuthorID: 27161418 :: 91509525
+#META# Author: لطيفة عبد الله :: سيد علي إسماعيل #دراسة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

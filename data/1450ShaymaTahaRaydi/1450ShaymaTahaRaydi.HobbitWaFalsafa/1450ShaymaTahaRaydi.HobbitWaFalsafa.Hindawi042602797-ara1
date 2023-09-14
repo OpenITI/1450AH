@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.HobbitWaFalsafa.Hindawi42602797",
-    "BookCats": "philosophy",
-    "BookID": "42602797",
-    "BookTitle": "الهوبيت والفلسفة: حين تفقد الأقزام والساحر وتضل الطريق",
-    "AuthorID": "52972620 :: 72930538",
-    "AuthorNam": "إريك برونسون :: جريجوري باشام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450EricBronson.HobbitAndPhilosophy (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.HobbitWaFalsafa.Hindawi42602797
+#META# Tags: philosophy
+#META# ID: 42602797
+#META# Title: الهوبيت والفلسفة: حين تفقد الأقزام والساحر وتضل الطريق
+#META# AuthorID: 52972620 :: 72930538
+#META# Author: إريك برونسون :: جريجوري باشام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450EricBronson.HobbitAndPhilosophy (TRANSL)
 
 #META#Header#End#
 

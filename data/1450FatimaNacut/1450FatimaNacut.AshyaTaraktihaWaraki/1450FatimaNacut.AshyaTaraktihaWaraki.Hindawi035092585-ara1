@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FatimaNacut.AshyaTaraktihaWaraki.Hindawi35092585",
-    "BookCats": "novels",
-    "BookID": "35092585",
-    "BookTitle": "الأشياء التي تركتِها وراءكِ: مختارات قصصية لجون ريفنسكروفت",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "96907318",
-    "TranslNam": "فاطمة ناعوت",
-    "BookRel": "1450JohnRavenscroft (TRANSL)"
-}
-
+#META# URI: 1450FatimaNacut.AshyaTaraktihaWaraki.Hindawi35092585
+#META# Tags: novels
+#META# ID: 35092585
+#META# Title: الأشياء التي تركتِها وراءكِ: مختارات قصصية لجون ريفنسكروفت
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 96907318
+#META# Translator: فاطمة ناعوت
+#META# Related_books: 1450JohnRavenscroft (TRANSL)
 
 #META#Header#End#
 

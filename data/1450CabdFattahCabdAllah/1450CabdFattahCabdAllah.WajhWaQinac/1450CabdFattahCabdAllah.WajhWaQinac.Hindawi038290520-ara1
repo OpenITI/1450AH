@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdFattahCabdAllah.WajhWaQinac.Hindawi38290520",
-    "BookCats": "literature",
-    "BookID": "38290520",
-    "BookTitle": "الوجه والقناع",
-    "AuthorID": "80635283",
-    "AuthorNam": "روبرت بار",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "73637907",
-    "TranslNam": "عبد الفتاح عبد الله",
-    "BookRel": "1330RobertBarr.FaceAndMask (TRANSL)"
-}
-
+#META# URI: 1450CabdFattahCabdAllah.WajhWaQinac.Hindawi38290520
+#META# Tags: literature
+#META# ID: 38290520
+#META# Title: الوجه والقناع
+#META# AuthorID: 80635283
+#META# Author: روبرت بار
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 73637907
+#META# Translator: عبد الفتاح عبد الله
+#META# Related_books: 1330RobertBarr.FaceAndMask (TRANSL)
 
 #META#Header#End#
 

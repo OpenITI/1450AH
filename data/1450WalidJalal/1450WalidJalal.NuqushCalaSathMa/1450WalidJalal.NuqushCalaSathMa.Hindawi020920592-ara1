@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450WalidJalal.NuqushCalaSathMa.Hindawi20920592",
-    "BookCats": "poetry",
-    "BookID": "20920592",
-    "BookTitle": "نقوشٌ على سطحِ ماء",
-    "AuthorID": "41420620",
-    "AuthorNam": "وليد جلال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450WalidJalal.NuqushCalaSathMa.Hindawi20920592
+#META# Tags: poetry
+#META# ID: 20920592
+#META# Title: نقوشٌ على سطحِ ماء
+#META# AuthorID: 41420620
+#META# Author: وليد جلال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

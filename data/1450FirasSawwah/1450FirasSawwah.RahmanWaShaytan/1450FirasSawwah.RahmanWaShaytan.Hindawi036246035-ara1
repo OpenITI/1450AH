@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.RahmanWaShaytan.Hindawi36246035",
-    "BookCats": "religions",
-    "BookID": "36246035",
-    "BookTitle": "الرحمن والشيطان: الثنوية الكونية ولاهوت التاريخ في الديانات المشرقية",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.RahmanWaShaytan.Hindawi36246035
+#META# Tags: religions
+#META# ID: 36246035
+#META# Title: الرحمن والشيطان: الثنوية الكونية ولاهوت التاريخ في الديانات المشرقية
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

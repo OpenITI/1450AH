@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450DinaCadilGhurab.MurabbiNahl.Hindawi85731606",
-    "BookCats": "novels",
-    "BookID": "85731606",
-    "BookTitle": "مُربي النحل",
-    "AuthorID": "83629035",
-    "AuthorNam": "جين ستراتون بورتر",
-    "EditorID": "35803081",
-    "EditorNam": "محمد يحيى",
-    "TranslID": "79161826",
-    "TranslNam": "دينا عادل غراب",
-    "BookRel": "1343GeneStrattonPorter.KeeperOfBees (TRANSL)"
-}
-
+#META# URI: 1450DinaCadilGhurab.MurabbiNahl.Hindawi85731606
+#META# Tags: novels
+#META# ID: 85731606
+#META# Title: مُربي النحل
+#META# AuthorID: 83629035
+#META# Author: جين ستراتون بورتر
+#META# EditorID: 35803081
+#META# Editor: محمد يحيى
+#META# TranslatorID: 79161826
+#META# Translator: دينا عادل غراب
+#META# Related_books: 1343GeneStrattonPorter.KeeperOfBees (TRANSL)
 
 #META#Header#End#
 

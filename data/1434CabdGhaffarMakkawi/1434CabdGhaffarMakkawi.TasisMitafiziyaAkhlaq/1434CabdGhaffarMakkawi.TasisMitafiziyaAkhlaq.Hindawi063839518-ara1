@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.TasisMitafiziyaAkhlaq.Hindawi63839518",
-    "BookCats": "philosophy",
-    "BookID": "63839518",
-    "BookTitle": "تأسيس ميتافيزيقا الأخلاق",
-    "AuthorID": "97509053",
-    "AuthorNam": "إيمانويل كانْت",
-    "EditorID": "92815162",
-    "EditorNam": "عبد الرحمن بدوي",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1218ImmanuelKant.MetaphysikDerSitten (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.TasisMitafiziyaAkhlaq.Hindawi63839518
+#META# Tags: philosophy
+#META# ID: 63839518
+#META# Title: تأسيس ميتافيزيقا الأخلاق
+#META# AuthorID: 97509053
+#META# Author: إيمانويل كانْت
+#META# EditorID: 92815162
+#META# Editor: عبد الرحمن بدوي
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1218ImmanuelKant.MetaphysikDerSitten (TRANSL)
 
 #META#Header#End#
 

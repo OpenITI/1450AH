@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdFattahCabdAllah.TiscaTasawwuratCanZaman.Hindawi27590709",
-    "BookCats": "philosophy",
-    "BookID": "27590709",
-    "BookTitle": "تسعة تصورات عن الزمن: السَّفر عبْر الزمن بين الحقيقة والخيال",
-    "AuthorID": "73190536",
-    "AuthorNam": "جون جريبين",
-    "EditorID": "72975737",
-    "EditorNam": "شيماء طه الريدي",
-    "TranslID": "73637907",
-    "TranslNam": "عبد الفتاح عبد الله",
-    "BookRel": "1450JohnGribbin.NineMusingsOnTime (TRANSL)"
-}
-
+#META# URI: 1450CabdFattahCabdAllah.TiscaTasawwuratCanZaman.Hindawi27590709
+#META# Tags: philosophy
+#META# ID: 27590709
+#META# Title: تسعة تصورات عن الزمن: السَّفر عبْر الزمن بين الحقيقة والخيال
+#META# AuthorID: 73190536
+#META# Author: جون جريبين
+#META# EditorID: 72975737
+#META# Editor: شيماء طه الريدي
+#META# TranslatorID: 73637907
+#META# Translator: عبد الفتاح عبد الله
+#META# Related_books: 1450JohnGribbin.NineMusingsOnTime (TRANSL)
 
 #META#Header#End#
 

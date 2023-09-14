@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.WujudaDiniyya.Hindawi30719715",
-    "BookCats": "philosophy",
-    "BookID": "30719715",
-    "BookTitle": "الوجودية الدينية: دراسة في فلسفة باول تيليش",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.WujudaDiniyya.Hindawi30719715
+#META# Tags: philosophy
+#META# ID: 30719715
+#META# Title: الوجودية الدينية: دراسة في فلسفة باول تيليش
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

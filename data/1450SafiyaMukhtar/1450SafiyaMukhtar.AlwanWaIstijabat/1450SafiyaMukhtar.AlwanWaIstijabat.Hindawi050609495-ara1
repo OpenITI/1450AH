@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.AlwanWaIstijabat.Hindawi50609495",
-    "BookCats": "psychology",
-    "BookID": "50609495",
-    "BookTitle": "الألوان والاستجابات البشرية",
-    "AuthorID": "80292594",
-    "AuthorNam": "فيبر بيرين",
-    "EditorID": "53746192",
-    "EditorNam": "محمد إبراهيم الجندي",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1409FaberBirren.ColorAndHumanResponse (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.AlwanWaIstijabat.Hindawi50609495
+#META# Tags: psychology
+#META# ID: 50609495
+#META# Title: الألوان والاستجابات البشرية
+#META# AuthorID: 80292594
+#META# Author: فيبر بيرين
+#META# EditorID: 53746192
+#META# Editor: محمد إبراهيم الجندي
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1409FaberBirren.ColorAndHumanResponse (TRANSL)
 
 #META#Header#End#
 

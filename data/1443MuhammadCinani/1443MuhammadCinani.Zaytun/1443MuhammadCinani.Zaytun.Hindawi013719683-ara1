@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.Zaytun.Hindawi13719683",
-    "BookCats": "novels",
-    "BookID": "13719683",
-    "BookTitle": "زيتون",
-    "AuthorID": "71570205",
-    "AuthorNam": "دايف إيجرز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1450DaveEggers.Zeitoun (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.Zaytun.Hindawi13719683
+#META# Tags: novels
+#META# ID: 13719683
+#META# Title: زيتون
+#META# AuthorID: 71570205
+#META# Author: دايف إيجرز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1450DaveEggers.Zeitoun (TRANSL)
 
 #META#Header#End#
 

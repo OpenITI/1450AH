@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NahlaDarbi.Hurub.Hindawi68168028",
-    "BookCats": "literature",
-    "BookID": "68168028",
-    "BookTitle": "الهروب",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "18291916",
-    "EditorNam": "علا عبد الفتاح يس",
-    "TranslID": "58072962",
-    "TranslNam": "نهلة  الدربي",
-    "BookRel": "1450AliceMunro.Runaway (TRANSL)"
-}
-
+#META# URI: 1450NahlaDarbi.Hurub.Hindawi68168028
+#META# Tags: literature
+#META# ID: 68168028
+#META# Title: الهروب
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 18291916
+#META# Editor: علا عبد الفتاح يس
+#META# TranslatorID: 58072962
+#META# Translator: نهلة  الدربي
+#META# Related_books: 1450AliceMunro.Runaway (TRANSL)
 
 #META#Header#End#
 

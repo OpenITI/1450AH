@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.HikmatGharb01.Hindawi79152038",
-    "BookCats": "philosophy",
-    "BookID": "79152038",
-    "BookTitle": "حكمة الغرب (الجزء الأول): عرض تاريخي للفلسفة الغربية في إطارها الاجتماعي والسياسي",
-    "AuthorID": "20926926",
-    "AuthorNam": "برتراند راسل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1389BertrandRussell.WisdomOfWest (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.HikmatGharb01.Hindawi79152038
+#META# Tags: philosophy
+#META# ID: 79152038
+#META# Title: حكمة الغرب (الجزء الأول): عرض تاريخي للفلسفة الغربية في إطارها الاجتماعي والسياسي
+#META# AuthorID: 20926926
+#META# Author: برتراند راسل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1389BertrandRussell.WisdomOfWest (TRANSL)
 
 #META#Header#End#
 

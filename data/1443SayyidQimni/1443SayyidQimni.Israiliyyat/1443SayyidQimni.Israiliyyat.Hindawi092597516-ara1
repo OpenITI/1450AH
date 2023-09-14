@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.Israiliyyat.Hindawi92597516",
-    "BookCats": "history",
-    "BookID": "92597516",
-    "BookTitle": "الإسرائيليات",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.Israiliyyat.Hindawi92597516
+#META# Tags: history
+#META# ID: 92597516
+#META# Title: الإسرائيليات
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

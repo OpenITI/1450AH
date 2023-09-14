@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HibaCabdCazizGhanim.RahalatFada.Hindawi85927131",
-    "BookCats": "history",
-    "BookID": "85927131",
-    "BookTitle": "رحلات الفضاء: تاريخ موجز",
-    "AuthorID": "64062603",
-    "AuthorNam": "مايكل جيه نيوفِلد",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "46097241",
-    "TranslNam": "هبة عبد العزيز غانم",
-    "BookRel": "1450MichaelJNeufeld.Spacefarers (TRANSL)"
-}
-
+#META# URI: 1450HibaCabdCazizGhanim.RahalatFada.Hindawi85927131
+#META# Tags: history
+#META# ID: 85927131
+#META# Title: رحلات الفضاء: تاريخ موجز
+#META# AuthorID: 64062603
+#META# Author: مايكل جيه نيوفِلد
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 46097241
+#META# Translator: هبة عبد العزيز غانم
+#META# Related_books: 1450MichaelJNeufeld.Spacefarers (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.Ictirafat.Hindawi42719069",
-    "BookCats": "biographies",
-    "BookID": "42719069",
-    "BookTitle": "اعترافات تولستوي",
-    "AuthorID": "70462502",
-    "AuthorNam": "ليو تولستوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1328LeoTolstoy.Ictirafat (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.Ictirafat.Hindawi42719069
+#META# Tags: biographies
+#META# ID: 42719069
+#META# Title: اعترافات تولستوي
+#META# AuthorID: 70462502
+#META# Author: ليو تولستوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1328LeoTolstoy.Ictirafat (TRANSL)
 
 #META#Header#End#
 

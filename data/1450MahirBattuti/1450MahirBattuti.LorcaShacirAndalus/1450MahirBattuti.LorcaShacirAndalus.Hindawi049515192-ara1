@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahirBattuti.LorcaShacirAndalus.Hindawi49515192",
-    "BookCats": "biographies",
-    "BookID": "49515192",
-    "BookTitle": "لوركا شاعر الأندلس",
-    "AuthorID": "27040363",
-    "AuthorNam": "ماهر البطوطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahirBattuti.LorcaShacirAndalus.Hindawi49515192
+#META# Tags: biographies
+#META# ID: 49515192
+#META# Title: لوركا شاعر الأندلس
+#META# AuthorID: 27040363
+#META# Author: ماهر البطوطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

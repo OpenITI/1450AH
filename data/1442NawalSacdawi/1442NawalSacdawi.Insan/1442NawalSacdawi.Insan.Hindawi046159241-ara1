@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.Insan.Hindawi46159241",
-    "BookCats": "plays",
-    "BookID": "46159241",
-    "BookTitle": "الإنسان: اثنتا عشرة امرأة في زنزانة",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.Insan.Hindawi46159241
+#META# Tags: plays
+#META# ID: 46159241
+#META# Title: الإنسان: اثنتا عشرة امرأة في زنزانة
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

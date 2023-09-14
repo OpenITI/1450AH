@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450InasMaghribi.TarikhIslamiMuqaddimaQasira.Hindawi53649271",
-    "BookCats": "history",
-    "BookID": "53649271",
-    "BookTitle": "التاريخ الإسلامي: مقدمة قصيرة جدًّا",
-    "AuthorID": "48370604",
-    "AuthorNam": "آدم جيه سيلفرستاين",
-    "EditorID": "83703904",
-    "EditorNam": "شيماء عبد الحكيم طه",
-    "TranslID": "27363642",
-    "TranslNam": "إيناس المغربي",
-    "BookRel": "1450AdamJSilverstein.IslamicHistoryShortIntro (TRANSL)"
-}
-
+#META# URI: 1450InasMaghribi.TarikhIslamiMuqaddimaQasira.Hindawi53649271
+#META# Tags: history
+#META# ID: 53649271
+#META# Title: التاريخ الإسلامي: مقدمة قصيرة جدًّا
+#META# AuthorID: 48370604
+#META# Author: آدم جيه سيلفرستاين
+#META# EditorID: 83703904
+#META# Editor: شيماء عبد الحكيم طه
+#META# TranslatorID: 27363642
+#META# Translator: إيناس المغربي
+#META# Related_books: 1450AdamJSilverstein.IslamicHistoryShortIntro (TRANSL)
 
 #META#Header#End#
 

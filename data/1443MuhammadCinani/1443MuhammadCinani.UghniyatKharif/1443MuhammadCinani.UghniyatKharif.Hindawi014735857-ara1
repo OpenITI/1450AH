@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.UghniyatKharif.Hindawi14735857",
-    "BookCats": "poetry",
-    "BookID": "14735857",
-    "BookTitle": "أغنيات الخريف",
-    "AuthorID": "84758179",
-    "AuthorNam": "محمد عناني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443MuhammadCinani.UghniyatKharif.Hindawi14735857
+#META# Tags: poetry
+#META# ID: 14735857
+#META# Title: أغنيات الخريف
+#META# AuthorID: 84758179
+#META# Author: محمد عناني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

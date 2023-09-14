@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.MinNaqlIlaIbdacTalif.Hindawi16172737",
-    "BookCats": "philosophy",
-    "BookID": "16172737",
-    "BookTitle": "من النقل إلى الإبداع (المجلد الثاني التحول): (٢) التأليف: تمثل الوافد - تمثل الوافد قبل تنظير الموروث - تمثل الوافد بعد تنظير الموروث",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.MinNaqlIlaIbdacTalif.Hindawi16172737
+#META# Tags: philosophy
+#META# ID: 16172737
+#META# Title: من النقل إلى الإبداع (المجلد الثاني التحول): (٢) التأليف: تمثل الوافد - تمثل الوافد قبل تنظير الموروث - تمثل الوافد بعد تنظير الموروث
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

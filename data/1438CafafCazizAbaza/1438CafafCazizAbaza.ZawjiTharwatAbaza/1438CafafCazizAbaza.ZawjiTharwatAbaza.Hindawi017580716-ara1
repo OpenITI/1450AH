@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1438CafafCazizAbaza.ZawjiTharwatAbaza.Hindawi17580716",
-    "BookCats": "biographies",
-    "BookID": "17580716",
-    "BookTitle": "زوجي ثروت أباظة",
-    "AuthorID": "39094941",
-    "AuthorNam": "عفاف عزيز أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1438CafafCazizAbaza.ZawjiTharwatAbaza.Hindawi17580716
+#META# Tags: biographies
+#META# ID: 17580716
+#META# Title: زوجي ثروت أباظة
+#META# AuthorID: 39094941
+#META# Author: عفاف عزيز أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadHamidDarwish.CamInhiyarHadara.Hindawi59425818",
-    "BookCats": "history",
-    "BookID": "59425818",
-    "BookTitle": "١١٧٧ق.م.: عام انهيار الحضارة",
-    "AuthorID": "79428140",
-    "AuthorNam": "إريك إتش كلاين",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "51613802",
-    "TranslNam": "محمد حامد درويش",
-    "BookRel": "1450EricHCline.YearCivilizationCollapsed (TRANSL)"
-}
-
+#META# URI: 1450MuhammadHamidDarwish.CamInhiyarHadara.Hindawi59425818
+#META# Tags: history
+#META# ID: 59425818
+#META# Title: ١١٧٧ق.م.: عام انهيار الحضارة
+#META# AuthorID: 79428140
+#META# Author: إريك إتش كلاين
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 51613802
+#META# Translator: محمد حامد درويش
+#META# Related_books: 1450EricHCline.YearCivilizationCollapsed (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1440ImamCabdFattahImam.JabrDhati.Hindawi25131493",
-    "BookCats": "philosophy",
-    "BookID": "25131493",
-    "BookTitle": "الجبر الذاتي",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "59792847",
-    "TranslNam": "إمام عبد الفتاح إمام",
-    "BookRel": "1414ZakiNajibMahmud.SelfDetermination (TRANSL)"
-}
-
+#META# URI: 1440ImamCabdFattahImam.JabrDhati.Hindawi25131493
+#META# Tags: philosophy
+#META# ID: 25131493
+#META# Title: الجبر الذاتي
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 59792847
+#META# Translator: إمام عبد الفتاح إمام
+#META# Related_books: 1414ZakiNajibMahmud.SelfDetermination (TRANSL)
 
 #META#Header#End#
 

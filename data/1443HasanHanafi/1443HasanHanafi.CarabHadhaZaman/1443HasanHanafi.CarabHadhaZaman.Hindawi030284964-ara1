@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.CarabHadhaZaman.Hindawi30284964",
-    "BookCats": "philosophy",
-    "BookID": "30284964",
-    "BookTitle": "عرب هذا الزمان: وطن بلا صاحب",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.CarabHadhaZaman.Hindawi30284964
+#META# Tags: philosophy
+#META# ID: 30284964
+#META# Title: عرب هذا الزمان: وطن بلا صاحب
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

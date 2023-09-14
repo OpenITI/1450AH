@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadFathiKhidr.AslihaNawawiyyaMuqaddimaQasira.Hindawi38063631",
-    "BookCats": "history",
-    "BookID": "38063631",
-    "BookTitle": "الأسلحة النووية: مقدمة قصيرة جدًّا",
-    "AuthorID": "13617518",
-    "AuthorNam": "جوزيف إم سيراكوسا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "18571738",
-    "TranslNam": "محمد فتحي خضر",
-    "BookRel": "1450JosephMSiracusa.NuclearWeaponsShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadFathiKhidr.AslihaNawawiyyaMuqaddimaQasira.Hindawi38063631
+#META# Tags: history
+#META# ID: 38063631
+#META# Title: الأسلحة النووية: مقدمة قصيرة جدًّا
+#META# AuthorID: 13617518
+#META# Author: جوزيف إم سيراكوسا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 18571738
+#META# Translator: محمد فتحي خضر
+#META# Related_books: 1450JosephMSiracusa.NuclearWeaponsShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.TurathTajdid.Hindawi81694941",
-    "BookCats": "philosophy",
-    "BookID": "81694941",
-    "BookTitle": "التراث والتجديد: موقفنا من التراث القديم",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.TurathTajdid.Hindawi81694941
+#META# Tags: philosophy
+#META# ID: 81694941
+#META# Title: التراث والتجديد: موقفنا من التراث القديم
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

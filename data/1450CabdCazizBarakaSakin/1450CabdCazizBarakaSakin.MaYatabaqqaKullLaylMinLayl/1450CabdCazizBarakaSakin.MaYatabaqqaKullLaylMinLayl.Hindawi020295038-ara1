@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.MaYatabaqqaKullLaylMinLayl.Hindawi20295038",
-    "BookCats": "literature",
-    "BookID": "20295038",
-    "BookTitle": "ما يتبقى كل ليلة من الليل",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.MaYatabaqqaKullLaylMinLayl.Hindawi20295038
+#META# Tags: literature
+#META# ID: 20295038
+#META# Title: ما يتبقى كل ليلة من الليل
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.HadathaMuqaddimaQasira.Hindawi61827296",
-    "BookCats": "philosophy",
-    "BookID": "61827296",
-    "BookTitle": "الحداثة: مقدمة قصيرة جدًّا",
-    "AuthorID": "14708026",
-    "AuthorNam": "كريستوفر باتلر",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1441ChristopherButler.ModernismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.HadathaMuqaddimaQasira.Hindawi61827296
+#META# Tags: philosophy
+#META# ID: 61827296
+#META# Title: الحداثة: مقدمة قصيرة جدًّا
+#META# AuthorID: 14708026
+#META# Author: كريستوفر باتلر
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1441ChristopherButler.ModernismShortIntro (TRANSL)
 
 #META#Header#End#
 

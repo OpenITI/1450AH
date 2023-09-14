@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SaraTahaCallam.Rajnaruk.Hindawi28648582",
-    "BookCats": "literature",
-    "BookID": "28648582",
-    "BookTitle": "راجناروك: نهاية الآلهة",
-    "AuthorID": "92537057",
-    "AuthorNam": "أنتونيا سوزان بيات",
-    "EditorID": "35803081",
-    "EditorNam": "محمد يحيى",
-    "TranslID": "50307169",
-    "TranslNam": "سارة طه علام",
-    "BookRel": "1450AntoniaSusanByatt.Ragnarok (TRANSL)"
-}
-
+#META# URI: 1450SaraTahaCallam.Rajnaruk.Hindawi28648582
+#META# Tags: literature
+#META# ID: 28648582
+#META# Title: راجناروك: نهاية الآلهة
+#META# AuthorID: 92537057
+#META# Author: أنتونيا سوزان بيات
+#META# EditorID: 35803081
+#META# Editor: محمد يحيى
+#META# TranslatorID: 50307169
+#META# Translator: سارة طه علام
+#META# Related_books: 1450AntoniaSusanByatt.Ragnarok (TRANSL)
 
 #META#Header#End#
 

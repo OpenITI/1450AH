@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSacdTantawi.MasiratHubb.Hindawi74940307",
-    "BookCats": "literature",
-    "BookID": "74940307",
-    "BookTitle": "مسيرة الحب",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "52050270",
-    "TranslNam": "محمد سعد طنطاوي",
-    "BookRel": "1450AliceMunro.ProgressOfLove (TRANSL)"
-}
-
+#META# URI: 1450MuhammadSacdTantawi.MasiratHubb.Hindawi74940307
+#META# Tags: literature
+#META# ID: 74940307
+#META# Title: مسيرة الحب
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 52050270
+#META# Translator: محمد سعد طنطاوي
+#META# Related_books: 1450AliceMunro.ProgressOfLove (TRANSL)
 
 #META#Header#End#
 

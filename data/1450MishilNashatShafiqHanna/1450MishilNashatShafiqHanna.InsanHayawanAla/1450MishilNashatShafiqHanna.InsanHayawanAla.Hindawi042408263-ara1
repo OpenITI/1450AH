@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MishilNashatShafiqHanna.InsanHayawanAla.Hindawi42408263",
-    "BookCats": "science",
-    "BookID": "42408263",
-    "BookTitle": "الإنسان والحيوان والآلة: إعادة تعريف مستمرة للطبيعة الإنسانية",
-    "AuthorID": "14719730 :: 37164648",
-    "AuthorNam": "فريدريك كابلن :: جورج شابوتييه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24648291",
-    "TranslNam": "ميشيل نشأت شفيق حنا",
-    "BookRel": "1450FredericKaplan.HommeAnimalMachine (TRANSL)"
-}
-
+#META# URI: 1450MishilNashatShafiqHanna.InsanHayawanAla.Hindawi42408263
+#META# Tags: science
+#META# ID: 42408263
+#META# Title: الإنسان والحيوان والآلة: إعادة تعريف مستمرة للطبيعة الإنسانية
+#META# AuthorID: 14719730 :: 37164648
+#META# Author: فريدريك كابلن :: جورج شابوتييه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24648291
+#META# Translator: ميشيل نشأت شفيق حنا
+#META# Related_books: 1450FredericKaplan.HommeAnimalMachine (TRANSL)
 
 #META#Header#End#
 

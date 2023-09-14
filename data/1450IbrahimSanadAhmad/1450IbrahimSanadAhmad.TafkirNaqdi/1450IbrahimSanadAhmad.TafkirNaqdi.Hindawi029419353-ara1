@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450IbrahimSanadAhmad.TafkirNaqdi.Hindawi29419353",
-    "BookCats": "philosophy",
-    "BookID": "29419353",
-    "BookTitle": "التفكير النقدي",
-    "AuthorID": "51730853",
-    "AuthorNam": "جوناثان هابر",
-    "EditorID": "83840647",
-    "EditorNam": "الزهراء سامي",
-    "TranslID": "48097460",
-    "TranslNam": "إبراهيم سند أحمد",
-    "BookRel": "1450JonathanHaber.CriticalThinking (TRANSL)"
-}
-
+#META# URI: 1450IbrahimSanadAhmad.TafkirNaqdi.Hindawi29419353
+#META# Tags: philosophy
+#META# ID: 29419353
+#META# Title: التفكير النقدي
+#META# AuthorID: 51730853
+#META# Author: جوناثان هابر
+#META# EditorID: 83840647
+#META# Editor: الزهراء سامي
+#META# TranslatorID: 48097460
+#META# Translator: إبراهيم سند أحمد
+#META# Related_books: 1450JonathanHaber.CriticalThinking (TRANSL)
 
 #META#Header#End#
 

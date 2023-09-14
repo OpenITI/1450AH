@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450LubnaCimadTurki.HindMaBacdGhandi.Hindawi53617036",
-    "BookCats": "history :: social.sciences",
-    "BookID": "53617036",
-    "BookTitle": "الهند ما بعد غاندي: تاريخ أكبر ديمقراطية في العالم",
-    "AuthorID": "86462497",
-    "AuthorNam": "راماتشاندرا جوها",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "96841939",
-    "TranslNam": "لبنى عماد تركي",
-    "BookRel": "1450RamachandraGuha.IndiaAfterGandhi (TRANSL)"
-}
-
+#META# URI: 1450LubnaCimadTurki.HindMaBacdGhandi.Hindawi53617036
+#META# Tags: history :: social.sciences
+#META# ID: 53617036
+#META# Title: الهند ما بعد غاندي: تاريخ أكبر ديمقراطية في العالم
+#META# AuthorID: 86462497
+#META# Author: راماتشاندرا جوها
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 96841939
+#META# Translator: لبنى عماد تركي
+#META# Related_books: 1450RamachandraGuha.IndiaAfterGandhi (TRANSL)
 
 #META#Header#End#
 

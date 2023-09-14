@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.FaylusufWaFannMusiqa.Hindawi83516135",
-    "BookCats": "philosophy :: arts",
-    "BookID": "83516135",
-    "BookTitle": "الفيلسوف وفن الموسيقى",
-    "AuthorID": "97917158",
-    "AuthorNam": "جوليوس بورتنوي",
-    "EditorID": "86302574",
-    "EditorNam": "حسين فوزي",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1450JuliusPortnoy.PhilosopherAndMusic (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.FaylusufWaFannMusiqa.Hindawi83516135
+#META# Tags: philosophy :: arts
+#META# ID: 83516135
+#META# Title: الفيلسوف وفن الموسيقى
+#META# AuthorID: 97917158
+#META# Author: جوليوس بورتنوي
+#META# EditorID: 86302574
+#META# Editor: حسين فوزي
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1450JuliusPortnoy.PhilosopherAndMusic (TRANSL)
 
 #META#Header#End#
 

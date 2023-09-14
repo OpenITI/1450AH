@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.FilmWathaiqiMuqaddimaQasira.Hindawi37969426",
-    "BookCats": "arts",
-    "BookID": "37969426",
-    "BookTitle": "الفيلم الوثائقي: مقدمة قصيرة جدًّا",
-    "AuthorID": "48397253",
-    "AuthorNam": "باتريشيا أوفدرهايدي",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450PatriciaAufderheide.DocumentaryFilmShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.FilmWathaiqiMuqaddimaQasira.Hindawi37969426
+#META# Tags: arts
+#META# ID: 37969426
+#META# Title: الفيلم الوثائقي: مقدمة قصيرة جدًّا
+#META# AuthorID: 48397253
+#META# Author: باتريشيا أوفدرهايدي
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450PatriciaAufderheide.DocumentaryFilmShortIntro (TRANSL)
 
 #META#Header#End#
 

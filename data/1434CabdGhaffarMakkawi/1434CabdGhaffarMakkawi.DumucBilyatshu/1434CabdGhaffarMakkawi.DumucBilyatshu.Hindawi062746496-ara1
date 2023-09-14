@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.DumucBilyatshu.Hindawi62746496",
-    "BookCats": "literature",
-    "BookID": "62746496",
-    "BookTitle": "دموع البلياتشو: مجموعة قصصية تُنشر لأول مرة",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.DumucBilyatshu.Hindawi62746496
+#META# Tags: literature
+#META# ID: 62746496
+#META# Title: دموع البلياتشو: مجموعة قصصية تُنشر لأول مرة
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

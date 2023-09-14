@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.SabahWard.Hindawi17908281",
-    "BookCats": "novels",
-    "BookID": "17908281",
-    "BookTitle": "صباح الورد",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.SabahWard.Hindawi17908281
+#META# Tags: novels
+#META# ID: 17908281
+#META# Title: صباح الورد
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

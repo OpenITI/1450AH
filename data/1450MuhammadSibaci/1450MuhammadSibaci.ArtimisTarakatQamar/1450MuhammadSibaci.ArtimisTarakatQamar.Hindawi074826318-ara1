@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSibaci.ArtimisTarakatQamar.Hindawi74826318",
-    "BookCats": "novels",
-    "BookID": "74826318",
-    "BookTitle": "أرتيميس تركت القمر",
-    "AuthorID": "38240275",
-    "AuthorNam": "محمد السِّباعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadSibaci.ArtimisTarakatQamar.Hindawi74826318
+#META# Tags: novels
+#META# ID: 74826318
+#META# Title: أرتيميس تركت القمر
+#META# AuthorID: 38240275
+#META# Author: محمد السِّباعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

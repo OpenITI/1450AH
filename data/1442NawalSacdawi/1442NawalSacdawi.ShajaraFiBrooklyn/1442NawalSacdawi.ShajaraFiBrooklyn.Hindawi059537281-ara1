@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.ShajaraFiBrooklyn.Hindawi59537281",
-    "BookCats": "novels",
-    "BookID": "59537281",
-    "BookTitle": "شجرة تنمو في بروكلين",
-    "AuthorID": "84839251 :: 15259139",
-    "AuthorNam": "بيتي سميث :: حلمي مراد #تقديم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84163053",
-    "TranslNam": "نوال السعداوي",
-    "BookRel": "1391BettySmith.TreeGrowsInBrooklyn (TRANSL)"
-}
-
+#META# URI: 1442NawalSacdawi.ShajaraFiBrooklyn.Hindawi59537281
+#META# Tags: novels
+#META# ID: 59537281
+#META# Title: شجرة تنمو في بروكلين
+#META# AuthorID: 84839251 :: 15259139
+#META# Author: بيتي سميث :: حلمي مراد #تقديم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84163053
+#META# Translator: نوال السعداوي
+#META# Related_books: 1391BettySmith.TreeGrowsInBrooklyn (TRANSL)
 
 #META#Header#End#
 

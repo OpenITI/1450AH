@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.Spinoza.Hindawi30620851",
-    "BookCats": "philosophy :: biographies",
-    "BookID": "30620851",
-    "BookTitle": "اسپينوزا",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.Spinoza.Hindawi30620851
+#META# Tags: philosophy :: biographies
+#META# ID: 30620851
+#META# Title: اسپينوزا
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

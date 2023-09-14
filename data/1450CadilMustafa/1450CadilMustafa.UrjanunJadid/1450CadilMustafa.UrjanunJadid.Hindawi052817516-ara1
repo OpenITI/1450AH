@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.UrjanunJadid.Hindawi52817516",
-    "BookCats": "philosophy",
-    "BookID": "52817516",
-    "BookTitle": "الأورجانون الجديد: إرشادات صادقة في تفسير الطبيعة",
-    "AuthorID": "18486316",
-    "AuthorNam": "فرانسيس بيكون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "1035FrancisBacon.NovumOrganum (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.UrjanunJadid.Hindawi52817516
+#META# Tags: philosophy
+#META# ID: 52817516
+#META# Title: الأورجانون الجديد: إرشادات صادقة في تفسير الطبيعة
+#META# AuthorID: 18486316
+#META# Author: فرانسيس بيكون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 1035FrancisBacon.NovumOrganum (TRANSL)
 
 #META#Header#End#
 

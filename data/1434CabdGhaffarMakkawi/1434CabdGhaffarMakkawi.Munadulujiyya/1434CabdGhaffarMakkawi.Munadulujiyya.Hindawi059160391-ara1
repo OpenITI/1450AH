@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Munadulujiyya.Hindawi59160391",
-    "BookCats": "philosophy",
-    "BookID": "59160391",
-    "BookTitle": "المونادولوجيا والمبادئ العقلية للطبيعة والفضل الإلهي",
-    "AuthorID": "81529172",
-    "AuthorNam": "ليبنتز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1128Leibniz.Monadologia (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Munadulujiyya.Hindawi59160391
+#META# Tags: philosophy
+#META# ID: 59160391
+#META# Title: المونادولوجيا والمبادئ العقلية للطبيعة والفضل الإلهي
+#META# AuthorID: 81529172
+#META# Author: ليبنتز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1128Leibniz.Monadologia (TRANSL)
 
 #META#Header#End#
 

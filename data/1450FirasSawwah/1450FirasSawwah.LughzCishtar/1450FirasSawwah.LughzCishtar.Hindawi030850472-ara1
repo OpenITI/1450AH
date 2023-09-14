@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.LughzCishtar.Hindawi30850472",
-    "BookCats": "religions :: philosophy",
-    "BookID": "30850472",
-    "BookTitle": "لغز عشتار: الألوهة المؤنثة وأصل الدين والأسطورة",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.LughzCishtar.Hindawi30850472
+#META# Tags: religions :: philosophy
+#META# ID: 30850472
+#META# Title: لغز عشتار: الألوهة المؤنثة وأصل الدين والأسطورة
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

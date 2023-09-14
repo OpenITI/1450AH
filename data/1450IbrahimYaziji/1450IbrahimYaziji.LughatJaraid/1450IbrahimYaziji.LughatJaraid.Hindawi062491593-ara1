@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450IbrahimYaziji.LughatJaraid.Hindawi62491593",
-    "BookCats": "linguistics",
-    "BookID": "62491593",
-    "BookTitle": "لغة الجرائد",
-    "AuthorID": "60830250",
-    "AuthorNam": "إبراهيم اليازجي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450IbrahimYaziji.LughatJaraid.Hindawi62491593
+#META# Tags: linguistics
+#META# ID: 62491593
+#META# Title: لغة الجرائد
+#META# AuthorID: 60830250
+#META# Author: إبراهيم اليازجي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

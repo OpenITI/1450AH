@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.HakimBiAmrAllah.Hindawi57049738",
-    "BookCats": "arts :: plays",
-    "BookID": "57049738",
-    "BookTitle": "الحاكم بأمر الله",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.HakimBiAmrAllah.Hindawi57049738
+#META# Tags: arts :: plays
+#META# ID: 57049738
+#META# Title: الحاكم بأمر الله
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

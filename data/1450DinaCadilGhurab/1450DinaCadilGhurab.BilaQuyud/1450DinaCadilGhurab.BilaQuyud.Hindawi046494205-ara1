@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450DinaCadilGhurab.BilaQuyud.Hindawi46494205",
-    "BookCats": "history",
-    "BookID": "46494205",
-    "BookTitle": "بلا قيود: تقنيات حرَّرت البشر ودفعتهم لحافة الهاوية",
-    "AuthorID": "50637395",
-    "AuthorNam": "ريتشارد إل كوريير",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "79161826",
-    "TranslNam": "دينا عادل غراب",
-    "BookRel": "1450RichardLCurrier.Unbound (TRANSL)"
-}
-
+#META# URI: 1450DinaCadilGhurab.BilaQuyud.Hindawi46494205
+#META# Tags: history
+#META# ID: 46494205
+#META# Title: بلا قيود: تقنيات حرَّرت البشر ودفعتهم لحافة الهاوية
+#META# AuthorID: 50637395
+#META# Author: ريتشارد إل كوريير
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 79161826
+#META# Translator: دينا عادل غراب
+#META# Related_books: 1450RichardLCurrier.Unbound (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.JughrafiyaIqtisadiyya.Hindawi71741496",
-    "BookCats": "geography :: economics",
-    "BookID": "71741496",
-    "BookTitle": "الجغرافيا الاقتصادية وجغرافية الإنتاج الحيوي",
-    "AuthorID": "19152686 :: 40620386",
-    "AuthorNam": "محمد رياض :: كوثر عبد الرسول",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.JughrafiyaIqtisadiyya.Hindawi71741496
+#META# Tags: geography :: economics
+#META# ID: 71741496
+#META# Title: الجغرافيا الاقتصادية وجغرافية الإنتاج الحيوي
+#META# AuthorID: 19152686 :: 40620386
+#META# Author: محمد رياض :: كوثر عبد الرسول
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

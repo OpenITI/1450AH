@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SaraYaqut.CajalatHazz.Hindawi57316482",
-    "BookCats": "novels",
-    "BookID": "57316482",
-    "BookTitle": "عجلة الحظ",
-    "AuthorID": "1379FarajJibran",
-    "AuthorNam": "إثيل لينا وايت",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "86936095",
-    "TranslNam": "سارة ياقوت",
-    "BookRel": "1363EthelLenaWhite.WheelSpins (TRANSL)"
-}
-
+#META# URI: 1450SaraYaqut.CajalatHazz.Hindawi57316482
+#META# Tags: novels
+#META# ID: 57316482
+#META# Title: عجلة الحظ
+#META# AuthorID: 1379FarajJibran
+#META# Author: إثيل لينا وايت
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 86936095
+#META# Translator: سارة ياقوت
+#META# Related_books: 1363EthelLenaWhite.WheelSpins (TRANSL)
 
 #META#Header#End#
 

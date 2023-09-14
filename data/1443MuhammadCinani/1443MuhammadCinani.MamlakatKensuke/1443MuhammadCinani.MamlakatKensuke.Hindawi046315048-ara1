@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.MamlakatKensuke.Hindawi46315048",
-    "BookCats": "novels",
-    "BookID": "46315048",
-    "BookTitle": "مملكة كنسوكي",
-    "AuthorID": "38058074",
-    "AuthorNam": "مايكل موربورجو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1450MichaelMorpurgo.KensukesKingdom (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.MamlakatKensuke.Hindawi46315048
+#META# Tags: novels
+#META# ID: 46315048
+#META# Title: مملكة كنسوكي
+#META# AuthorID: 38058074
+#META# Author: مايكل موربورجو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1450MichaelMorpurgo.KensukesKingdom (TRANSL)
 
 #META#Header#End#
 

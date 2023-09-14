@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450RiyadHammadi.LaYaftahunTabwibat.Hindawi96293159",
-    "BookCats": "literature",
-    "BookID": "96293159",
-    "BookTitle": "لا يفتحون التوابيت",
-    "AuthorID": "19315353",
-    "AuthorNam": "رياض حمَّادي‎",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450RiyadHammadi.LaYaftahunTabwibat.Hindawi96293159
+#META# Tags: literature
+#META# ID: 96293159
+#META# Title: لا يفتحون التوابيت
+#META# AuthorID: 19315353
+#META# Author: رياض حمَّادي‎
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

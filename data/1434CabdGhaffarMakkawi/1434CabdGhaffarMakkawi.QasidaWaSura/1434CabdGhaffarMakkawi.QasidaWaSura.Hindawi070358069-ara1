@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.QasidaWaSura.Hindawi70358069",
-    "BookCats": "poetry :: arts",
-    "BookID": "70358069",
-    "BookTitle": "قصيدة وصورة: الشعر والتصوير عبر العصور",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.QasidaWaSura.Hindawi70358069
+#META# Tags: poetry :: arts
+#META# ID: 70358069
+#META# Title: قصيدة وصورة: الشعر والتصوير عبر العصور
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

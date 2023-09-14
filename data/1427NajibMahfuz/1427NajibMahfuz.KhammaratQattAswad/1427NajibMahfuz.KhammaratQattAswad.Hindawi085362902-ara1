@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.KhammaratQattAswad.Hindawi85362902",
-    "BookCats": "novels",
-    "BookID": "85362902",
-    "BookTitle": "خمارة القط الأسود",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.KhammaratQattAswad.Hindawi85362902
+#META# Tags: novels
+#META# ID: 85362902
+#META# Title: خمارة القط الأسود
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

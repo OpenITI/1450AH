@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShahabYasin.HayatSabayaWaNisa.Hindawi73153790",
-    "BookCats": "literature",
-    "BookID": "73153790",
-    "BookTitle": "حياة الصبايا والنساء",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "53609040",
-    "EditorNam": "هبة نجيب مغربي",
-    "TranslID": "31862463 :: 20926903",
-    "TranslNam": "شهاب ياسين :: سهى الشامي",
-    "BookRel": "1450AliceMunro.LivesOfGirlsAndWomen (TRANSL)"
-}
-
+#META# URI: 1450ShahabYasin.HayatSabayaWaNisa.Hindawi73153790
+#META# Tags: literature
+#META# ID: 73153790
+#META# Title: حياة الصبايا والنساء
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 53609040
+#META# Editor: هبة نجيب مغربي
+#META# TranslatorID: 31862463 :: 20926903
+#META# Translator: شهاب ياسين :: سهى الشامي
+#META# Related_books: 1450AliceMunro.LivesOfGirlsAndWomen (TRANSL)
 
 #META#Header#End#
 

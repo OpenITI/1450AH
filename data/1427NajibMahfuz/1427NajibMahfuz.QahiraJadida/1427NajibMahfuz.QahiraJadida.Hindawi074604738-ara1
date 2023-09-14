@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.QahiraJadida.Hindawi74604738",
-    "BookCats": "novels",
-    "BookID": "74604738",
-    "BookTitle": "القاهرة الجديدة",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.QahiraJadida.Hindawi74604738
+#META# Tags: novels
+#META# ID: 74604738
+#META# Title: القاهرة الجديدة
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

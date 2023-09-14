@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.SuraMumazzaqa.Hindawi19604807",
-    "BookCats": "novels",
-    "BookID": "19604807",
-    "BookTitle": "الصورة الممزقة: رواية تمثيلية",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.SuraMumazzaqa.Hindawi19604807
+#META# Tags: novels
+#META# ID: 19604807
+#META# Title: الصورة الممزقة: رواية تمثيلية
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

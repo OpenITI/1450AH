@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadFathiKhidr.UmamMuttahidaMuqaddimaQasira.Hindawi20480862",
-    "BookCats": "history :: social.sciences",
-    "BookID": "20480862",
-    "BookTitle": "الأمم المتحدة: مقدمة قصيرة جدًّا",
-    "AuthorID": "46825083",
-    "AuthorNam": "يوسي إم هانيماكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "18571738",
-    "TranslNam": "محمد فتحي خضر",
-    "BookRel": "1450JussiMHanhimaki.UnitedNationsShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadFathiKhidr.UmamMuttahidaMuqaddimaQasira.Hindawi20480862
+#META# Tags: history :: social.sciences
+#META# ID: 20480862
+#META# Title: الأمم المتحدة: مقدمة قصيرة جدًّا
+#META# AuthorID: 46825083
+#META# Author: يوسي إم هانيماكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 18571738
+#META# Translator: محمد فتحي خضر
+#META# Related_books: 1450JussiMHanhimaki.UnitedNationsShortIntro (TRANSL)
 
 #META#Header#End#
 

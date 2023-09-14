@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NahidHindi.MinShuquqZalam.Hindawi53539741",
-    "BookCats": "literature :: biographies",
-    "BookID": "53539741",
-    "BookTitle": "من شقوق الظلام: قصة سجين أكثر ما يؤرق فيها أنها لم تنته بعد",
-    "AuthorID": "26138528",
-    "AuthorNam": "ناهض الهندي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450NahidHindi.MinShuquqZalam.Hindawi53539741
+#META# Tags: literature :: biographies
+#META# ID: 53539741
+#META# Title: من شقوق الظلام: قصة سجين أكثر ما يؤرق فيها أنها لم تنته بعد
+#META# AuthorID: 26138528
+#META# Author: ناهض الهندي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

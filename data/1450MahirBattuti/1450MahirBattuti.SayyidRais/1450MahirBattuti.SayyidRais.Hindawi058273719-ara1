@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahirBattuti.SayyidRais.Hindawi58273719",
-    "BookCats": "novels",
-    "BookID": "58273719",
-    "BookTitle": "السيد الرئيس",
-    "AuthorID": "58460413",
-    "AuthorNam": "ميغل أنخل أستورياس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27040363",
-    "TranslNam": "ماهر البطوطي",
-    "BookRel": "1394MiguelAngelAsturias.SenorPresidente (TRANSL)"
-}
-
+#META# URI: 1450MahirBattuti.SayyidRais.Hindawi58273719
+#META# Tags: novels
+#META# ID: 58273719
+#META# Title: السيد الرئيس
+#META# AuthorID: 58460413
+#META# Author: ميغل أنخل أستورياس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27040363
+#META# Translator: ماهر البطوطي
+#META# Related_books: 1394MiguelAngelAsturias.SenorPresidente (TRANSL)
 
 #META#Header#End#
 

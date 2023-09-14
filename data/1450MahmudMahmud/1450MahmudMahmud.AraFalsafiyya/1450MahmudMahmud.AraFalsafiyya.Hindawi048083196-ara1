@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.AraFalsafiyya.Hindawi48083196",
-    "BookCats": "philosophy",
-    "BookID": "48083196",
-    "BookTitle": "آراء فلسفية في أزمة العصر",
-    "AuthorID": "72825037",
-    "AuthorNam": "أدريين كوخ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1391AdrienneKoch.PhilosophyForTimeOfCrisis (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.AraFalsafiyya.Hindawi48083196
+#META# Tags: philosophy
+#META# ID: 48083196
+#META# Title: آراء فلسفية في أزمة العصر
+#META# AuthorID: 72825037
+#META# Author: أدريين كوخ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1391AdrienneKoch.PhilosophyForTimeOfCrisis (TRANSL)
 
 #META#Header#End#
 

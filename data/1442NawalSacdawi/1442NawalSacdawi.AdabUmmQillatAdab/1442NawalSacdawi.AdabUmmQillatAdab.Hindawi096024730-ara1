@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.AdabUmmQillatAdab.Hindawi96024730",
-    "BookCats": "novels",
-    "BookID": "96024730",
-    "BookTitle": "أدب أم قلة أدب",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.AdabUmmQillatAdab.Hindawi96024730
+#META# Tags: novels
+#META# ID: 96024730
+#META# Title: أدب أم قلة أدب
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

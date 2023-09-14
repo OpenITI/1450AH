@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Tacbiriyya.Hindawi70615919",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "70615919",
-    "BookTitle": "التعبيرية في الشعر والقصة والمسرح",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Tacbiriyya.Hindawi70615919
+#META# Tags: literary.criticism :: literature
+#META# ID: 70615919
+#META# Title: التعبيرية في الشعر والقصة والمسرح
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

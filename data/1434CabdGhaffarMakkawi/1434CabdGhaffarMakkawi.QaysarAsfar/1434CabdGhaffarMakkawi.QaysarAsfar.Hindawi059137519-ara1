@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.QaysarAsfar.Hindawi59137519",
-    "BookCats": "plays",
-    "BookID": "59137519",
-    "BookTitle": "القيصر الأصفر: ومسرحيات أخرى شرقية",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.QaysarAsfar.Hindawi59137519
+#META# Tags: plays
+#META# ID: 59137519
+#META# Title: القيصر الأصفر: ومسرحيات أخرى شرقية
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

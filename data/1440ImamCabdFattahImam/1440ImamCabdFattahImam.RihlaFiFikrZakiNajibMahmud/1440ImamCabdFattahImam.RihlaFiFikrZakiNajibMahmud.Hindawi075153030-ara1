@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1440ImamCabdFattahImam.RihlaFiFikrZakiNajibMahmud.Hindawi75153030",
-    "BookCats": "philosophy",
-    "BookID": "75153030",
-    "BookTitle": "رحلة في فكر زكي نجيب محمود",
-    "AuthorID": "59792847",
-    "AuthorNam": "إمام عبد الفتاح إمام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1440ImamCabdFattahImam.RihlaFiFikrZakiNajibMahmud.Hindawi75153030
+#META# Tags: philosophy
+#META# ID: 75153030
+#META# Title: رحلة في فكر زكي نجيب محمود
+#META# AuthorID: 59792847
+#META# Author: إمام عبد الفتاح إمام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

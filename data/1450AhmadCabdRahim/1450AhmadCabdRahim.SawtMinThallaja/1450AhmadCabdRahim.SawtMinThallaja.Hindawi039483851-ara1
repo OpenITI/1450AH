@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadCabdRahim.SawtMinThallaja.Hindawi39483851",
-    "BookCats": "literature",
-    "BookID": "39483851",
-    "BookTitle": "الصوت المتحدث من الثلاجة: مجموعة قصصية",
-    "AuthorID": "85083639",
-    "AuthorNam": "أحمد عبد الرحيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450AhmadCabdRahim.SawtMinThallaja.Hindawi39483851
+#META# Tags: literature
+#META# ID: 39483851
+#META# Title: الصوت المتحدث من الثلاجة: مجموعة قصصية
+#META# AuthorID: 85083639
+#META# Author: أحمد عبد الرحيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

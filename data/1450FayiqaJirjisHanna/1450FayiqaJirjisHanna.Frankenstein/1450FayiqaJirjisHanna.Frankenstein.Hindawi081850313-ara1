@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.Frankenstein.Hindawi81850313",
-    "BookCats": "literature",
-    "BookID": "81850313",
-    "BookTitle": "فرانكنشتاين",
-    "AuthorID": "74027594",
-    "AuthorNam": "ماري شيلي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1267MaryShelley.Frankenstein (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.Frankenstein.Hindawi81850313
+#META# Tags: literature
+#META# ID: 81850313
+#META# Title: فرانكنشتاين
+#META# AuthorID: 74027594
+#META# Author: ماري شيلي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1267MaryShelley.Frankenstein (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.MadkhalIlaCilajNafsi.Hindawi40413942",
-    "BookCats": "philosophy",
-    "BookID": "40413942",
-    "BookTitle": "مدخل إلى العلاج النفسي الوجودي",
-    "AuthorID": "70291391 :: 92497271",
-    "AuthorNam": "رولو ماي :: إرفين يالوم",
-    "EditorID": "95024097",
-    "EditorNam": "غسان يعقوب",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "1450IrvinYalom (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.MadkhalIlaCilajNafsi.Hindawi40413942
+#META# Tags: philosophy
+#META# ID: 40413942
+#META# Title: مدخل إلى العلاج النفسي الوجودي
+#META# AuthorID: 70291391 :: 92497271
+#META# Author: رولو ماي :: إرفين يالوم
+#META# EditorID: 95024097
+#META# Editor: غسان يعقوب
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 1450IrvinYalom (TRANSL)
 
 #META#Header#End#
 

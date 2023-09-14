@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450RihabSalahDin.RaqsatZilalSacida.Hindawi69726069",
-    "BookCats": "literature",
-    "BookID": "69726069",
-    "BookTitle": "رقصة الظلال السعيدة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "39241484 :: 30648375",
-    "TranslNam": "رحاب صلاح الدين :: مروة عبد الفتاح شحاتة",
-    "BookRel": "1450AliceMunro.DanceOfHappyShades (TRANSL)"
-}
-
+#META# URI: 1450RihabSalahDin.RaqsatZilalSacida.Hindawi69726069
+#META# Tags: literature
+#META# ID: 69726069
+#META# Title: رقصة الظلال السعيدة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 39241484 :: 30648375
+#META# Translator: رحاب صلاح الدين :: مروة عبد الفتاح شحاتة
+#META# Related_books: 1450AliceMunro.DanceOfHappyShades (TRANSL)
 
 #META#Header#End#
 

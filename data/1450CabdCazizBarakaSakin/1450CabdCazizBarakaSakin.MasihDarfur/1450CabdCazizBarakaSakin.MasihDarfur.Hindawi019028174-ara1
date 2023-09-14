@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.MasihDarfur.Hindawi19028174",
-    "BookCats": "novels",
-    "BookID": "19028174",
-    "BookTitle": "مسيح دارفور",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.MasihDarfur.Hindawi19028174
+#META# Tags: novels
+#META# ID: 19028174
+#META# Title: مسيح دارفور
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

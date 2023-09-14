@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuncAllahIbrahim.Jalid.Hindawi62953639",
-    "BookCats": "novels",
-    "BookID": "62953639",
-    "BookTitle": "الجليد",
-    "AuthorID": "17162047",
-    "AuthorNam": "صنع الله إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SuncAllahIbrahim.Jalid.Hindawi62953639
+#META# Tags: novels
+#META# ID: 62953639
+#META# Title: الجليد
+#META# AuthorID: 17162047
+#META# Author: صنع الله إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadCabdNabi.KarahiyyaSadaqaGhazalHubbZawaj.Hindawi49060725",
-    "BookCats": "literature",
-    "BookID": "49060725",
-    "BookTitle": "كراهية وصداقة وغزل وحُب وزواج",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "16969020",
-    "TranslNam": "محمد عبد النبي",
-    "BookRel": "1450AliceMunro.HateshipFriendshipCourtshipLoveshipMarriage (TRANSL)"
-}
-
+#META# URI: 1450MuhammadCabdNabi.KarahiyyaSadaqaGhazalHubbZawaj.Hindawi49060725
+#META# Tags: literature
+#META# ID: 49060725
+#META# Title: كراهية وصداقة وغزل وحُب وزواج
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 16969020
+#META# Translator: محمد عبد النبي
+#META# Related_books: 1450AliceMunro.HateshipFriendshipCourtshipLoveshipMarriage (TRANSL)
 
 #META#Header#End#
 

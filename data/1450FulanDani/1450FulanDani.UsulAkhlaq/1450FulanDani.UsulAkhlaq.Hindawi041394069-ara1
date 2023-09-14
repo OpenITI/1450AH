@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FulanDani.UsulAkhlaq.Hindawi41394069",
-    "BookCats": "philosophy",
-    "BookID": "41394069",
-    "BookTitle": "أصول الأخلاق",
-    "AuthorID": "41836903",
-    "AuthorNam": "ي. دني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FulanDani.UsulAkhlaq.Hindawi41394069
+#META# Tags: philosophy
+#META# ID: 41394069
+#META# Title: أصول الأخلاق
+#META# AuthorID: 41836903
+#META# Author: ي. دني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

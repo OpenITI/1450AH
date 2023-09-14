@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MaysaraCafifi.MukhtaratQisasiyyaLiRyunosukeAkutagawa.Hindawi24602063",
-    "BookCats": "novels",
-    "BookID": "24602063",
-    "BookTitle": "١٩٢٧: مختارات قصصية لريونوسكيه أكوتاغاوا",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "20281749",
-    "TranslNam": "ميسرة عفيفي",
-    "BookRel": "1347RyunosukeAkutagawa (TRANSL)"
-}
-
+#META# URI: 1450MaysaraCafifi.MukhtaratQisasiyyaLiRyunosukeAkutagawa.Hindawi24602063
+#META# Tags: novels
+#META# ID: 24602063
+#META# Title: ١٩٢٧: مختارات قصصية لريونوسكيه أكوتاغاوا
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 20281749
+#META# Translator: ميسرة عفيفي
+#META# Related_books: 1347RyunosukeAkutagawa (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadHIndawi.Wacy.Hindawi75075250",
-    "BookCats": "philosophy",
-    "BookID": "75075250",
-    "BookTitle": "الوعي: دليل موجز للُّغز الجوهري للعقل",
-    "AuthorID": "36259464",
-    "AuthorNam": "آناكا هاريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "42809460",
-    "TranslNam": "أحمد هنداوي",
-    "BookRel": "1450AnnakaHarris.Conscious (TRANSL)"
-}
-
+#META# URI: 1450AhmadHIndawi.Wacy.Hindawi75075250
+#META# Tags: philosophy
+#META# ID: 75075250
+#META# Title: الوعي: دليل موجز للُّغز الجوهري للعقل
+#META# AuthorID: 36259464
+#META# Author: آناكا هاريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 42809460
+#META# Translator: أحمد هنداوي
+#META# Related_books: 1450AnnakaHarris.Conscious (TRANSL)
 
 #META#Header#End#
 

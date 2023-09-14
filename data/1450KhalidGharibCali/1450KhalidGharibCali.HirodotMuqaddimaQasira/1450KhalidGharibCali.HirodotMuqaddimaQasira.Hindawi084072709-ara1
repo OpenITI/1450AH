@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450KhalidGharibCali.HirodotMuqaddimaQasira.Hindawi84072709",
-    "BookCats": "history",
-    "BookID": "84072709",
-    "BookTitle": "هيرودوت: مقدمة قصيرة جدًّا",
-    "AuthorID": "74963695",
-    "AuthorNam": "جينيفر تي روبرتس",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "14163505",
-    "TranslNam": "خالد غريب علي",
-    "BookRel": "1450JenniferTRoberts.HerodotusShortIntro (TRANSL)"
-}
-
+#META# URI: 1450KhalidGharibCali.HirodotMuqaddimaQasira.Hindawi84072709
+#META# Tags: history
+#META# ID: 84072709
+#META# Title: هيرودوت: مقدمة قصيرة جدًّا
+#META# AuthorID: 74963695
+#META# Author: جينيفر تي روبرتس
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 14163505
+#META# Translator: خالد غريب علي
+#META# Related_books: 1450JenniferTRoberts.HerodotusShortIntro (TRANSL)
 
 #META#Header#End#
 

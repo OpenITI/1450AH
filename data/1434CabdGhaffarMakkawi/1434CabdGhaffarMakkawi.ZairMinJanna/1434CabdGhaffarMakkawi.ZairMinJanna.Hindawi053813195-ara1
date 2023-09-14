@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.ZairMinJanna.Hindawi53813195",
-    "BookCats": "plays",
-    "BookID": "53813195",
-    "BookTitle": "زائر من الجنة: ومسرحيات أخرى",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.ZairMinJanna.Hindawi53813195
+#META# Tags: plays
+#META# ID: 53813195
+#META# Title: زائر من الجنة: ومسرحيات أخرى
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

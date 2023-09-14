@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AmiraCaliCabdSaduq.AlfLaylaWaLayla.Hindawi13815802",
-    "BookCats": "literature",
-    "BookID": "13815802",
-    "BookTitle": "ألف ليلة وليلة",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27426846",
-    "TranslNam": "أميرة علي عبد الصادق",
-    "BookRel": "1093AntoineGalland.MilleEtUnNuits (TRANSL)"
-}
-
+#META# URI: 1450AmiraCaliCabdSaduq.AlfLaylaWaLayla.Hindawi13815802
+#META# Tags: literature
+#META# ID: 13815802
+#META# Title: ألف ليلة وليلة
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27426846
+#META# Translator: أميرة علي عبد الصادق
+#META# Related_books: 1093AntoineGalland.MilleEtUnNuits (TRANSL)
 
 #META#Header#End#
 

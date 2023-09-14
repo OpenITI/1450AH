@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SaharKhawatimi.Say.Hindawi80508137",
-    "BookCats": "novels",
-    "BookID": "80508137",
-    "BookTitle": "ساي",
-    "AuthorID": "40493752 :: 38696461 :: 40493752",
-    "AuthorNam": "سحر خواتمي :: هبة اعرابي :: سحر خواتمي #رسوم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SaharKhawatimi.Say.Hindawi80508137
+#META# Tags: novels
+#META# ID: 80508137
+#META# Title: ساي
+#META# AuthorID: 40493752 :: 38696461 :: 40493752
+#META# Author: سحر خواتمي :: هبة اعرابي :: سحر خواتمي #رسوم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

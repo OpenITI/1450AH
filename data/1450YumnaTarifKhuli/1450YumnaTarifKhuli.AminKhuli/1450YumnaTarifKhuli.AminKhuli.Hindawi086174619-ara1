@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.AminKhuli.Hindawi86174619",
-    "BookCats": "philosophy",
-    "BookID": "86174619",
-    "BookTitle": "أمين الخولي والأبعاد الفلسفية للتجديد",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.AminKhuli.Hindawi86174619
+#META# Tags: philosophy
+#META# ID: 86174619
+#META# Title: أمين الخولي والأبعاد الفلسفية للتجديد
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

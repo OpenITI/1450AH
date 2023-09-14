@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.MawtMacaliWazirSabiqan.Hindawi96869693",
-    "BookCats": "novels",
-    "BookID": "96869693",
-    "BookTitle": "موت معالي الوزير سابقًا",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.MawtMacaliWazirSabiqan.Hindawi96869693
+#META# Tags: novels
+#META# ID: 96869693
+#META# Title: موت معالي الوزير سابقًا
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

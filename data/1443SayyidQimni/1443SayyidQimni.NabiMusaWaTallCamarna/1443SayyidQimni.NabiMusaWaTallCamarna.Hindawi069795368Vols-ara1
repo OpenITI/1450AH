@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.NabiMusaWaTallCamarna01.Hindawi69795368",
-    "BookCats": "history",
-    "BookID": "69795368",
-    "BookTitle": "النبي موسى وآخر أيام تل العمارنة (الجزء الأول): موسوعة تاريخية جغرافية إثنية دينية",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.NabiMusaWaTallCamarna01.Hindawi69795368
+#META# Tags: history
+#META# ID: 69795368
+#META# Title: النبي موسى وآخر أيام تل العمارنة (الجزء الأول): موسوعة تاريخية جغرافية إثنية دينية
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

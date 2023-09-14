@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NurhanSurt.LuluatHubb.Hindawi13028368",
-    "BookCats": "science.fiction",
-    "BookID": "13028368",
-    "BookTitle": "لؤلؤة الحب",
-    "AuthorID": "83597359",
-    "AuthorNam": "هربرت جورج ويلز",
-    "EditorID": "37038490",
-    "EditorNam": "نيرة محمد صبري",
-    "TranslID": "38596081",
-    "TranslNam": "نورهان السُّرت",
-    "BookRel": "1365HerbertGeorgeWells.PearlOfLove (TRANSL)"
-}
-
+#META# URI: 1450NurhanSurt.LuluatHubb.Hindawi13028368
+#META# Tags: science.fiction
+#META# ID: 13028368
+#META# Title: لؤلؤة الحب
+#META# AuthorID: 83597359
+#META# Author: هربرت جورج ويلز
+#META# EditorID: 37038490
+#META# Editor: نيرة محمد صبري
+#META# TranslatorID: 38596081
+#META# Translator: نورهان السُّرت
+#META# Related_books: 1365HerbertGeorgeWells.PearlOfLove (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AnonymousTranslator.Mukhtarat.Hindawi37468682",
-    "BookCats": "philosophy",
-    "BookID": "37468682",
-    "BookTitle": "مختارات من مقالات أمرسن",
-    "AuthorID": "71316163",
-    "AuthorNam": "محمود محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "1299RalphWaldoEmerson.Mukhtarat (TRANSL)"
-}
-
+#META# URI: 1450AnonymousTranslator.Mukhtarat.Hindawi37468682
+#META# Tags: philosophy
+#META# ID: 37468682
+#META# Title: مختارات من مقالات أمرسن
+#META# AuthorID: 71316163
+#META# Author: محمود محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 1299RalphWaldoEmerson.Mukhtarat (TRANSL)
 
 #META#Header#End#
 

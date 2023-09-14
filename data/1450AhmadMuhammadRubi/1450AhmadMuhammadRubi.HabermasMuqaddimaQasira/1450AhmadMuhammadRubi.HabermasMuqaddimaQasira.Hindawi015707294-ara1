@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadMuhammadRubi.HabermasMuqaddimaQasira.Hindawi15707294",
-    "BookCats": "philosophy",
-    "BookID": "15707294",
-    "BookTitle": "يورجن هابرماس: مقدمة قصيرة جدًّا",
-    "AuthorID": "86135024",
-    "AuthorNam": "جيمس جوردن فينليسون",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "19607415",
-    "TranslNam": "أحمد محمد الروبي",
-    "BookRel": "1450JamesGordonFinlayson.HabermasShortIntro (TRANSL)"
-}
-
+#META# URI: 1450AhmadMuhammadRubi.HabermasMuqaddimaQasira.Hindawi15707294
+#META# Tags: philosophy
+#META# ID: 15707294
+#META# Title: يورجن هابرماس: مقدمة قصيرة جدًّا
+#META# AuthorID: 86135024
+#META# Author: جيمس جوردن فينليسون
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 19607415
+#META# Translator: أحمد محمد الروبي
+#META# Related_books: 1450JamesGordonFinlayson.HabermasShortIntro (TRANSL)
 
 #META#Header#End#
 

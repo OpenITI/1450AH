@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahirBattuti.FarashaWaDababa.Hindawi80924807",
-    "BookCats": "novels",
-    "BookID": "80924807",
-    "BookTitle": "الفراشة والدبابة وقصص أخرى: مختارات قصصية من الأعمال القصصية الكاملة لإرنست همنجواي",
-    "AuthorID": "27040363",
-    "AuthorNam": "ماهر البطوطي #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahirBattuti.FarashaWaDababa.Hindawi80924807
+#META# Tags: novels
+#META# ID: 80924807
+#META# Title: الفراشة والدبابة وقصص أخرى: مختارات قصصية من الأعمال القصصية الكاملة لإرنست همنجواي
+#META# AuthorID: 27040363
+#META# Author: ماهر البطوطي #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

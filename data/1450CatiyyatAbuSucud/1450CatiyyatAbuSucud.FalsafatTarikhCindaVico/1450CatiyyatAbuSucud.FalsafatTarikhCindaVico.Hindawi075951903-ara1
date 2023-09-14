@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CatiyyatAbuSucud.FalsafatTarikhCindaVico.Hindawi75951903",
-    "BookCats": "history :: philosophy",
-    "BookID": "75951903",
-    "BookTitle": "فلسفة التاريخ عند فيكو",
-    "AuthorID": "75058162",
-    "AuthorNam": "عطيات أبو السعود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CatiyyatAbuSucud.FalsafatTarikhCindaVico.Hindawi75951903
+#META# Tags: history :: philosophy
+#META# ID: 75951903
+#META# Title: فلسفة التاريخ عند فيكو
+#META# AuthorID: 75058162
+#META# Author: عطيات أبو السعود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

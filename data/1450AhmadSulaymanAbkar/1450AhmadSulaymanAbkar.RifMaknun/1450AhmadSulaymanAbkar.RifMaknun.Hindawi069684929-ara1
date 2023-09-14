@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadSulaymanAbkar.RifMaknun.Hindawi69684929",
-    "BookCats": "geography",
-    "BookID": "69684929",
-    "BookTitle": "الريف المكنون",
-    "AuthorID": "30418168",
-    "AuthorNam": "أحمد سليمان أبكر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450AhmadSulaymanAbkar.RifMaknun.Hindawi69684929
+#META# Tags: geography
+#META# ID: 69684929
+#META# Title: الريف المكنون
+#META# AuthorID: 30418168
+#META# Author: أحمد سليمان أبكر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

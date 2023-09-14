@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadMuhammadRubi.AwghustinusMuqaddimaQasira.Hindawi26428097",
-    "BookCats": "biographies",
-    "BookID": "26428097",
-    "BookTitle": "أوغسطينوس: مقدمة قصيرة جدًّا",
-    "AuthorID": "20413736",
-    "AuthorNam": "هنري تشادويك",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "19607415",
-    "TranslNam": "أحمد محمد الروبي",
-    "BookRel": "1429HenryChadwick.AugustineShortIntro (TRANSL)"
-}
-
+#META# URI: 1450AhmadMuhammadRubi.AwghustinusMuqaddimaQasira.Hindawi26428097
+#META# Tags: biographies
+#META# ID: 26428097
+#META# Title: أوغسطينوس: مقدمة قصيرة جدًّا
+#META# AuthorID: 20413736
+#META# Author: هنري تشادويك
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 19607415
+#META# Translator: أحمد محمد الروبي
+#META# Related_books: 1429HenryChadwick.AugustineShortIntro (TRANSL)
 
 #META#Header#End#
 

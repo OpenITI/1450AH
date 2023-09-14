@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450BilalQaidCumar.Wahduhum.Hindawi27519281",
-    "BookCats": "poetry",
-    "BookID": "27519281",
-    "BookTitle": "وحدهم",
-    "AuthorID": "60309148",
-    "AuthorNam": "بلال قائد عمر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450BilalQaidCumar.Wahduhum.Hindawi27519281
+#META# Tags: poetry
+#META# ID: 27519281
+#META# Title: وحدهم
+#META# AuthorID: 60309148
+#META# Author: بلال قائد عمر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

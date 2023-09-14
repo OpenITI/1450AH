@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.BudhiyyaMuqaddimaQasira.Hindawi61924240",
-    "BookCats": "philosophy",
-    "BookID": "61924240",
-    "BookTitle": "البوذية: مقدمة قصيرة جدًّا",
-    "AuthorID": "19792047",
-    "AuthorNam": "داميان كيون",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1450DamienKeown.BuddhismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.BudhiyyaMuqaddimaQasira.Hindawi61924240
+#META# Tags: philosophy
+#META# ID: 61924240
+#META# Title: البوذية: مقدمة قصيرة جدًّا
+#META# AuthorID: 19792047
+#META# Author: داميان كيون
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1450DamienKeown.BuddhismShortIntro (TRANSL)
 
 #META#Header#End#
 

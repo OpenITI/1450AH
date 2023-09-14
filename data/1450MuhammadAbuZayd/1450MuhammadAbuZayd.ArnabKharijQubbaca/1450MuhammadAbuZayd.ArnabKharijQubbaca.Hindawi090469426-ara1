@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadAbuZayd.ArnabKharijQubbaca.Hindawi90469426",
-    "BookCats": "literature",
-    "BookID": "90469426",
-    "BookTitle": "الأرنب خارج القبعة",
-    "AuthorID": "18413020",
-    "AuthorNam": "محمد أبو زيد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadAbuZayd.ArnabKharijQubbaca.Hindawi90469426
+#META# Tags: literature
+#META# ID: 90469426
+#META# Title: الأرنب خارج القبعة
+#META# AuthorID: 18413020
+#META# Author: محمد أبو زيد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

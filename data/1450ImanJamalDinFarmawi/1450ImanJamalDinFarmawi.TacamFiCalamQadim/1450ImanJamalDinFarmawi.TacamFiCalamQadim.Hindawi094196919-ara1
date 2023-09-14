@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ImanJamalDinFarmawi.TacamFiCalamQadim.Hindawi94196919",
-    "BookCats": "history :: social.sciences",
-    "BookID": "94196919",
-    "BookTitle": "الطعام في العالم القديم",
-    "AuthorID": "19259406 :: 35757502",
-    "AuthorNam": "جون إم ويلكنز :: شون هيل",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "69037363",
-    "TranslNam": "إيمان جمال الدين الفرماوي",
-    "BookRel": "1450JohnMWilkins.FoodInAncientWorld (TRANSL)"
-}
-
+#META# URI: 1450ImanJamalDinFarmawi.TacamFiCalamQadim.Hindawi94196919
+#META# Tags: history :: social.sciences
+#META# ID: 94196919
+#META# Title: الطعام في العالم القديم
+#META# AuthorID: 19259406 :: 35757502
+#META# Author: جون إم ويلكنز :: شون هيل
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 69037363
+#META# Translator: إيمان جمال الدين الفرماوي
+#META# Related_books: 1450JohnMWilkins.FoodInAncientWorld (TRANSL)
 
 #META#Header#End#
 

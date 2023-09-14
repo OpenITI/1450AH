@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZahraSami.MabarhanatFirmaAkhira.Hindawi84935850",
-    "BookCats": "biographies",
-    "BookID": "84935850",
-    "BookTitle": "مبرهنة فيرما الأخيرة: المعضلة التي حيَّرت عباقرة الرياضيات لقرون",
-    "AuthorID": "59319138",
-    "AuthorNam": "سايمون سينج",
-    "EditorID": "46097241",
-    "EditorNam": "هبة عبد العزيز غانم",
-    "TranslID": "83840647",
-    "TranslNam": "الزهراء سامي",
-    "BookRel": "1450SimonLehnaSingh.FermatsLastTheorem (TRANSL)"
-}
-
+#META# URI: 1450ZahraSami.MabarhanatFirmaAkhira.Hindawi84935850
+#META# Tags: biographies
+#META# ID: 84935850
+#META# Title: مبرهنة فيرما الأخيرة: المعضلة التي حيَّرت عباقرة الرياضيات لقرون
+#META# AuthorID: 59319138
+#META# Author: سايمون سينج
+#META# EditorID: 46097241
+#META# Editor: هبة عبد العزيز غانم
+#META# TranslatorID: 83840647
+#META# Translator: الزهراء سامي
+#META# Related_books: 1450SimonLehnaSingh.FermatsLastTheorem (TRANSL)
 
 #META#Header#End#
 

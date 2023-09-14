@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSalimCabada.AfanaytuCumriWaqifan.Hindawi19413607",
-    "BookCats": "poetry",
-    "BookID": "19413607",
-    "BookTitle": "أفنيتُ عمري واقفًا",
-    "AuthorID": "47090915",
-    "AuthorNam": "محمد سالم عبادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadSalimCabada.AfanaytuCumriWaqifan.Hindawi19413607
+#META# Tags: poetry
+#META# ID: 19413607
+#META# Title: أفنيتُ عمري واقفًا
+#META# AuthorID: 47090915
+#META# Author: محمد سالم عبادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

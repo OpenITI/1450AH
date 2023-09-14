@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.MinNaqlIlaIbdacTanzir.Hindawi13950949",
-    "BookCats": "philosophy",
-    "BookID": "13950949",
-    "BookTitle": "من النقل إلى الإبداع (المجلد الثاني التحول): (٣) التراكم: تنظير الموروث قبل تمثُّل الوافد - تنظير الموروث - الإبداع الخالص",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.MinNaqlIlaIbdacTanzir.Hindawi13950949
+#META# Tags: philosophy
+#META# ID: 13950949
+#META# Title: من النقل إلى الإبداع (المجلد الثاني التحول): (٣) التراكم: تنظير الموروث قبل تمثُّل الوافد - تنظير الموروث - الإبداع الخالص
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

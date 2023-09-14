@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadCatif.AdabiyyatLughaCarabiyya.Hindawi30807493",
-    "BookCats": "literature",
-    "BookID": "30807493",
-    "BookTitle": "أدبيات اللغة العربية",
-    "AuthorID": "20206046 :: 52960852 :: 16248492 :: 40571502",
-    "AuthorNam": "محمد عاطف :: محمد نصار :: عبد الجواد عبد المتعال :: أحمد إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadCatif.AdabiyyatLughaCarabiyya.Hindawi30807493
+#META# Tags: literature
+#META# ID: 30807493
+#META# Title: أدبيات اللغة العربية
+#META# AuthorID: 20206046 :: 52960852 :: 16248492 :: 40571502
+#META# Author: محمد عاطف :: محمد نصار :: عبد الجواد عبد المتعال :: أحمد إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

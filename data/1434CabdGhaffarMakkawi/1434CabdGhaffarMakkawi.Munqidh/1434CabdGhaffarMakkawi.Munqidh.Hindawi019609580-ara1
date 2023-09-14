@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Munqidh.Hindawi19609580",
-    "BookCats": "philosophy",
-    "BookID": "19609580",
-    "BookTitle": "المنقذ: قراءة لقلب أفلاطون (مع النص الكامل للرسالة السابعة)",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Munqidh.Hindawi19609580
+#META# Tags: philosophy
+#META# ID: 19609580
+#META# Title: المنقذ: قراءة لقلب أفلاطون (مع النص الكامل للرسالة السابعة)
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

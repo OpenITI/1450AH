@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.Qahira.Hindawi68184917",
-    "BookCats": "geography",
-    "BookID": "68184917",
-    "BookTitle": "القاهرة: نسيج الناس في المكان والزمان ومشكلاتها في الحاضر والمستقبل",
-    "AuthorID": "19152686",
-    "AuthorNam": "محمد رياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.Qahira.Hindawi68184917
+#META# Tags: geography
+#META# ID: 68184917
+#META# Title: القاهرة: نسيج الناس في المكان والزمان ومشكلاتها في الحاضر والمستقبل
+#META# AuthorID: 19152686
+#META# Author: محمد رياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

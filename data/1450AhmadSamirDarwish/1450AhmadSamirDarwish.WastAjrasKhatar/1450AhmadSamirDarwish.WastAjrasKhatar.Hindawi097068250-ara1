@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadSamirDarwish.WastAjrasKhatar.Hindawi97068250",
-    "BookCats": "literature",
-    "BookID": "97068250",
-    "BookTitle": "وسط أجراس الخطر",
-    "AuthorID": "80635283",
-    "AuthorNam": "روبرت بار",
-    "EditorID": "72975737",
-    "EditorNam": "شيماء طه الريدي",
-    "TranslID": "62858582",
-    "TranslNam": "أحمد سمير درويش",
-    "BookRel": "1330RobertBarr.InMidstOfAlarms (TRANSL)"
-}
-
+#META# URI: 1450AhmadSamirDarwish.WastAjrasKhatar.Hindawi97068250
+#META# Tags: literature
+#META# ID: 97068250
+#META# Title: وسط أجراس الخطر
+#META# AuthorID: 80635283
+#META# Author: روبرت بار
+#META# EditorID: 72975737
+#META# Editor: شيماء طه الريدي
+#META# TranslatorID: 62858582
+#META# Translator: أحمد سمير درويش
+#META# Related_books: 1330RobertBarr.InMidstOfAlarms (TRANSL)
 
 #META#Header#End#
 

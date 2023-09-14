@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZiyadIbrahim.MaHiyaSinima.Hindawi16426037",
-    "BookCats": "arts :: social.sciences",
-    "BookID": "16426037",
-    "BookTitle": "ما هي السينما!: من منظور أندريه بازان",
-    "AuthorID": "60839150",
-    "AuthorNam": "دادلي أندرو",
-    "EditorID": "92060751",
-    "EditorNam": "جلال الدين عز الدين علي",
-    "TranslID": "97286059",
-    "TranslNam": "زياد إبراهيم",
-    "BookRel": "1450DudleyAndrew.WhatCinemaIs (TRANSL)"
-}
-
+#META# URI: 1450ZiyadIbrahim.MaHiyaSinima.Hindawi16426037
+#META# Tags: arts :: social.sciences
+#META# ID: 16426037
+#META# Title: ما هي السينما!: من منظور أندريه بازان
+#META# AuthorID: 60839150
+#META# Author: دادلي أندرو
+#META# EditorID: 92060751
+#META# Editor: جلال الدين عز الدين علي
+#META# TranslatorID: 97286059
+#META# Translator: زياد إبراهيم
+#META# Related_books: 1450DudleyAndrew.WhatCinemaIs (TRANSL)
 
 #META#Header#End#
 

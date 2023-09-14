@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudKamilFarid.BuasaFiCusurIslam.Hindawi36050924",
-    "BookCats": "literature",
-    "BookID": "36050924",
-    "BookTitle": "البؤساء في عصور الإسلام",
-    "AuthorID": "59039539",
-    "AuthorNam": "محمود كامل فريد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahmudKamilFarid.BuasaFiCusurIslam.Hindawi36050924
+#META# Tags: literature
+#META# ID: 36050924
+#META# Title: البؤساء في عصور الإسلام
+#META# AuthorID: 59039539
+#META# Author: محمود كامل فريد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

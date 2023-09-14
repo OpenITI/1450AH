@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.CarabWaNamudhajAmriki.Hindawi84080974",
-    "BookCats": "philosophy :: history",
-    "BookID": "84080974",
-    "BookTitle": "العرب والنموذج الأمريكي",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.CarabWaNamudhajAmriki.Hindawi84080974
+#META# Tags: philosophy :: history
+#META# ID: 84080974
+#META# Title: العرب والنموذج الأمريكي
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

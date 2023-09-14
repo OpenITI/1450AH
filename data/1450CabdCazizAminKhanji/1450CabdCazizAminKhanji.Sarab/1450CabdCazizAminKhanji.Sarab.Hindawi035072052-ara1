@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizAminKhanji.Sarab.Hindawi35072052",
-    "BookCats": "literature",
-    "BookID": "35072052",
-    "BookTitle": "السراب",
-    "AuthorID": "47960284",
-    "AuthorNam": "قدرية حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "35930479",
-    "TranslNam": "عبد العزيز أمين الخانجي",
-    "BookRel": "1374QadriyyaHusayn.Sarab (TRANSL)"
-}
-
+#META# URI: 1450CabdCazizAminKhanji.Sarab.Hindawi35072052
+#META# Tags: literature
+#META# ID: 35072052
+#META# Title: السراب
+#META# AuthorID: 47960284
+#META# Author: قدرية حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 35930479
+#META# Translator: عبد العزيز أمين الخانجي
+#META# Related_books: 1374QadriyyaHusayn.Sarab (TRANSL)
 
 #META#Header#End#
 

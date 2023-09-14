@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahirBattuti.AlfLaylaWaLaylaFiAdab.Hindawi93949194",
-    "BookCats": "literature",
-    "BookID": "93949194",
-    "BookTitle": "الرواية الأم: ألف ليلة وليلة في الآداب العالمية ودراسة في الأدب المقارن",
-    "AuthorID": "27040363",
-    "AuthorNam": "ماهر البطوطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahirBattuti.AlfLaylaWaLaylaFiAdab.Hindawi93949194
+#META# Tags: literature
+#META# ID: 93949194
+#META# Title: الرواية الأم: ألف ليلة وليلة في الآداب العالمية ودراسة في الأدب المقارن
+#META# AuthorID: 27040363
+#META# Author: ماهر البطوطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

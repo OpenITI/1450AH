@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Bakaiyyat.Hindawi86206252",
-    "BookCats": "literature",
-    "BookID": "86206252",
-    "BookTitle": "بكائيات: ست دمعات على نفس عربية",
-    "AuthorID": "46308160 :: 85749291",
-    "AuthorNam": "عبد الغفار مكاوي :: حسن طلب #تقديم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Bakaiyyat.Hindawi86206252
+#META# Tags: literature
+#META# ID: 86206252
+#META# Title: بكائيات: ست دمعات على نفس عربية
+#META# AuthorID: 46308160 :: 85749291
+#META# Author: عبد الغفار مكاوي :: حسن طلب #تقديم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

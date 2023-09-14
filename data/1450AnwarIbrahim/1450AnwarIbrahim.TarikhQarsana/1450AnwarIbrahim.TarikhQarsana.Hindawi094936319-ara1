@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AnwarIbrahim.TarikhQarsana.Hindawi94936319",
-    "BookCats": "history",
-    "BookID": "94936319",
-    "BookTitle": "تاريخ القرصنة في العالم",
-    "AuthorID": "30572825",
-    "AuthorNam": "ياتسيك ماخوفسكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "82403864",
-    "TranslNam": "أنور إبراهيم",
-    "BookRel": "1450YatsiyekMachovski (TRANSL)"
-}
-
+#META# URI: 1450AnwarIbrahim.TarikhQarsana.Hindawi94936319
+#META# Tags: history
+#META# ID: 94936319
+#META# Title: تاريخ القرصنة في العالم
+#META# AuthorID: 30572825
+#META# Author: ياتسيك ماخوفسكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 82403864
+#META# Translator: أنور إبراهيم
+#META# Related_books: 1450YatsiyekMachovski (TRANSL)
 
 #META#Header#End#
 

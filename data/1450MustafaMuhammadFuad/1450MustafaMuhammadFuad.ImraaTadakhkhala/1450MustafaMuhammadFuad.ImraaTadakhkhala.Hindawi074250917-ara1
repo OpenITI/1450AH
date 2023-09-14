@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MustafaMuhammadFuad.ImraaTadakhkhala.Hindawi74250917",
-    "BookCats": "literature",
-    "BookID": "74250917",
-    "BookTitle": "تَدخُّل‎ امرأة",
-    "AuthorID": "80635283",
-    "AuthorNam": "روبرت بار",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "73586958",
-    "TranslNam": "مصطفى محمد فؤاد",
-    "BookRel": "1330RobertBarr.WomanIntervenes (TRANSL)"
-}
-
+#META# URI: 1450MustafaMuhammadFuad.ImraaTadakhkhala.Hindawi74250917
+#META# Tags: literature
+#META# ID: 74250917
+#META# Title: تَدخُّل‎ امرأة
+#META# AuthorID: 80635283
+#META# Author: روبرت بار
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 73586958
+#META# Translator: مصطفى محمد فؤاد
+#META# Related_books: 1330RobertBarr.WomanIntervenes (TRANSL)
 
 #META#Header#End#
 

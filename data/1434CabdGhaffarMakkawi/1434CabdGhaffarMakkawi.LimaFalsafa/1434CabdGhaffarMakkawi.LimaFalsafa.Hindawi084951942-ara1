@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.LimaFalsafa.Hindawi84951942",
-    "BookCats": "philosophy",
-    "BookID": "84951942",
-    "BookTitle": "لِمَ الفلسفة: مع لوحة زمنية بمعالم تاريخ الفلسفة",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.LimaFalsafa.Hindawi84951942
+#META# Tags: philosophy
+#META# ID: 84951942
+#META# Title: لِمَ الفلسفة: مع لوحة زمنية بمعالم تاريخ الفلسفة
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

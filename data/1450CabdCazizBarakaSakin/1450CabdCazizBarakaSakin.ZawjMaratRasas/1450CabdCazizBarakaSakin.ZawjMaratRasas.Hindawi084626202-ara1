@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.ZawjMaratRasas.Hindawi84626202",
-    "BookCats": "novels",
-    "BookID": "84626202",
-    "BookTitle": "زوج امرأة الرصاص وابنته الجميلة",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.ZawjMaratRasas.Hindawi84626202
+#META# Tags: novels
+#META# ID: 84626202
+#META# Title: زوج امرأة الرصاص وابنته الجميلة
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SayyidCaliIsmacil.MasrahCaliKassar.Hindawi39591358",
-    "BookCats": "plays",
-    "BookID": "39591358",
-    "BookTitle": "مسرح علي الكسار (الجزء الثاني): علي الكسار … ومرحلة التألق الفني",
-    "AuthorID": "91509525",
-    "AuthorNam": "سيد علي إسماعيل #دراسة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SayyidCaliIsmacil.MasrahCaliKassar.Hindawi39591358
+#META# Tags: plays
+#META# ID: 39591358
+#META# Title: مسرح علي الكسار (الجزء الثاني): علي الكسار … ومرحلة التألق الفني
+#META# AuthorID: 91509525
+#META# Author: سيد علي إسماعيل #دراسة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

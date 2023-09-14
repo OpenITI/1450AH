@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdRahmanMajdi.DamWaCadala.Hindawi38169130",
-    "BookCats": "science :: history",
-    "BookID": "38169130",
-    "BookTitle": "الدم والعدالة: قصة الطبيب الباريسي الذي سطر تاريخ نقل الدم في القرن السابع عشر",
-    "AuthorID": "26242748",
-    "AuthorNam": "بيت مور",
-    "EditorID": "75847252",
-    "EditorNam": "سارة عادل",
-    "TranslID": "28405095",
-    "TranslNam": "عبد الرحمن مجدي",
-    "BookRel": "1450PeteMoore.BloodAndJustice (TRANSL)"
-}
-
+#META# URI: 1450CabdRahmanMajdi.DamWaCadala.Hindawi38169130
+#META# Tags: science :: history
+#META# ID: 38169130
+#META# Title: الدم والعدالة: قصة الطبيب الباريسي الذي سطر تاريخ نقل الدم في القرن السابع عشر
+#META# AuthorID: 26242748
+#META# Author: بيت مور
+#META# EditorID: 75847252
+#META# Editor: سارة عادل
+#META# TranslatorID: 28405095
+#META# Translator: عبد الرحمن مجدي
+#META# Related_books: 1450PeteMoore.BloodAndJustice (TRANSL)
 
 #META#Header#End#
 

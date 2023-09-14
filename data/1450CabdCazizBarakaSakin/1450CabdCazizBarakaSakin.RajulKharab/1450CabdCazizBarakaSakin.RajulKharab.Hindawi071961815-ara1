@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.RajulKharab.Hindawi71961815",
-    "BookCats": "novels",
-    "BookID": "71961815",
-    "BookTitle": "الرجل الخراب",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.RajulKharab.Hindawi71961815
+#META# Tags: novels
+#META# ID: 71961815
+#META# Title: الرجل الخراب
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

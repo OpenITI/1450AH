@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450DinaCadilGhurab.AyyamFiBurma.Hindawi39525292",
-    "BookCats": "novels",
-    "BookID": "39525292",
-    "BookTitle": "أيام في بورما",
-    "AuthorID": "97186075",
-    "AuthorNam": "جورج أورويل",
-    "EditorID": "46097241",
-    "EditorNam": "هبة عبد العزيز غانم",
-    "TranslID": "79161826",
-    "TranslNam": "دينا عادل غراب",
-    "BookRel": "1369GeorgeOrwell.BurmeseDays (TRANSL)"
-}
-
+#META# URI: 1450DinaCadilGhurab.AyyamFiBurma.Hindawi39525292
+#META# Tags: novels
+#META# ID: 39525292
+#META# Title: أيام في بورما
+#META# AuthorID: 97186075
+#META# Author: جورج أورويل
+#META# EditorID: 46097241
+#META# Editor: هبة عبد العزيز غانم
+#META# TranslatorID: 79161826
+#META# Translator: دينا عادل غراب
+#META# Related_books: 1369GeorgeOrwell.BurmeseDays (TRANSL)
 
 #META#Header#End#
 

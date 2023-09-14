@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadMuhammadRubi.DescartesMuqaddimaQasira.Hindawi57970851",
-    "BookCats": "biographies",
-    "BookID": "57970851",
-    "BookTitle": "ديكارت: مقدمة قصيرة جدًّا",
-    "AuthorID": "97913616",
-    "AuthorNam": "توم سوريل",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "19607415",
-    "TranslNam": "أحمد محمد الروبي",
-    "BookRel": "1450TomSorrell.DescartesShortIntro (TRANSL)"
-}
-
+#META# URI: 1450AhmadMuhammadRubi.DescartesMuqaddimaQasira.Hindawi57970851
+#META# Tags: biographies
+#META# ID: 57970851
+#META# Title: ديكارت: مقدمة قصيرة جدًّا
+#META# AuthorID: 97913616
+#META# Author: توم سوريل
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 19607415
+#META# Translator: أحمد محمد الروبي
+#META# Related_books: 1450TomSorrell.DescartesShortIntro (TRANSL)
 
 #META#Header#End#
 

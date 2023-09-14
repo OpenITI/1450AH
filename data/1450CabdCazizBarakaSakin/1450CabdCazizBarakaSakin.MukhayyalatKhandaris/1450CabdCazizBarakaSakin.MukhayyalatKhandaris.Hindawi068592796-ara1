@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.MukhayyalatKhandaris.Hindawi68592796",
-    "BookCats": "novels",
-    "BookID": "68592796",
-    "BookTitle": "مخيلة الخندريس: ومن الذي يخاف عثمان بشري؟",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.MukhayyalatKhandaris.Hindawi68592796
+#META# Tags: novels
+#META# ID: 68592796
+#META# Title: مخيلة الخندريس: ومن الذي يخاف عثمان بشري؟
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

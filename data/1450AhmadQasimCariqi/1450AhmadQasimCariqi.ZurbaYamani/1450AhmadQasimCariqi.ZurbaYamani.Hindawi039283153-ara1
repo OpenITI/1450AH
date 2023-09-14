@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadQasimCariqi.ZurbaYamani.Hindawi39283153",
-    "BookCats": "novels",
-    "BookID": "39283153",
-    "BookTitle": "زُربة اليمني",
-    "AuthorID": "72836424",
-    "AuthorNam": "أحمد قاسم العريقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450AhmadQasimCariqi.ZurbaYamani.Hindawi39283153
+#META# Tags: novels
+#META# ID: 39283153
+#META# Title: زُربة اليمني
+#META# AuthorID: 72836424
+#META# Author: أحمد قاسم العريقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

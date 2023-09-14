@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.MinNaqlIlaIbdacNass.Hindawi80404260",
-    "BookCats": "philosophy",
-    "BookID": "80404260",
-    "BookTitle": "من النقل إلى الإبداع (المجلد الأول النقل): (٢) النص: الترجمة – المصطلح – التعليق",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.MinNaqlIlaIbdacNass.Hindawi80404260
+#META# Tags: philosophy
+#META# ID: 80404260
+#META# Title: من النقل إلى الإبداع (المجلد الأول النقل): (٢) النص: الترجمة – المصطلح – التعليق
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

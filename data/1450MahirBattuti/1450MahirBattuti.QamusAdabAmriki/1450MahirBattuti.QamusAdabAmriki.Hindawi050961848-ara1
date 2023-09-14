@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahirBattuti.QamusAdabAmriki.Hindawi50961848",
-    "BookCats": "literature",
-    "BookID": "50961848",
-    "BookTitle": "قاموس الأدب الأمريكي",
-    "AuthorID": "27040363",
-    "AuthorNam": "ماهر البطوطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahirBattuti.QamusAdabAmriki.Hindawi50961848
+#META# Tags: literature
+#META# ID: 50961848
+#META# Title: قاموس الأدب الأمريكي
+#META# AuthorID: 27040363
+#META# Author: ماهر البطوطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

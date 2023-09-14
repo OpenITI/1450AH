@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.NiswiyyaWaFalsafatCilm.Hindawi82603615",
-    "BookCats": "philosophy",
-    "BookID": "82603615",
-    "BookTitle": "النسوية وفلسفة العلم",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.NiswiyyaWaFalsafatCilm.Hindawi82603615
+#META# Tags: philosophy
+#META# ID: 82603615
+#META# Title: النسوية وفلسفة العلم
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

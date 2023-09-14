@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.GeorgBuchner.Hindawi37025927",
-    "BookCats": "plays",
-    "BookID": "37025927",
-    "BookTitle": "جورج بُشنر: الأعمال المسرحية الكاملة",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "1252GeorgBuchner (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.GeorgBuchner.Hindawi37025927
+#META# Tags: plays
+#META# ID: 37025927
+#META# Title: جورج بُشنر: الأعمال المسرحية الكاملة
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 1252GeorgBuchner (TRANSL)
 
 #META#Header#End#
 

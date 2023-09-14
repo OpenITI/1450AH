@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MaysaraCafifi.MukhtaratQisasiyyaLiYukiyoMishima.Hindawi80292068",
-    "BookCats": "novels",
-    "BookID": "80292068",
-    "BookTitle": "البحر والغروب وقصص أخرى: مختارات قصصية ليوكيو ميشيما",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "20281749",
-    "TranslNam": "ميسرة عفيفي",
-    "BookRel": "1390YukioMishima (TRANSL)"
-}
-
+#META# URI: 1450MaysaraCafifi.MukhtaratQisasiyyaLiYukiyoMishima.Hindawi80292068
+#META# Tags: novels
+#META# ID: 80292068
+#META# Title: البحر والغروب وقصص أخرى: مختارات قصصية ليوكيو ميشيما
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 20281749
+#META# Translator: ميسرة عفيفي
+#META# Related_books: 1390YukioMishima (TRANSL)
 
 #META#Header#End#
 

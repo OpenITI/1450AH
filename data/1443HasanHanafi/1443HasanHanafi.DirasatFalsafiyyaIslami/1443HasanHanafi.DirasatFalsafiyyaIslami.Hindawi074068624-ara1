@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.DirasatFalsafiyyaIslami.Hindawi74068624",
-    "BookCats": "philosophy",
-    "BookID": "74068624",
-    "BookTitle": "دراسات فلسفية (الجزء الأول): في الفكر الإسلامي المعاصر",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.DirasatFalsafiyyaIslami.Hindawi74068624
+#META# Tags: philosophy
+#META# ID: 74068624
+#META# Title: دراسات فلسفية (الجزء الأول): في الفكر الإسلامي المعاصر
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

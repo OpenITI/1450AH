@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.AlbertCamus.Hindawi90920380",
-    "BookCats": "philosophy",
-    "BookID": "90920380",
-    "BookTitle": "ألبير كامي: محاولة لدراسة فكره الفلسفي",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.AlbertCamus.Hindawi90920380
+#META# Tags: philosophy
+#META# ID: 90920380
+#META# Title: ألبير كامي: محاولة لدراسة فكره الفلسفي
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

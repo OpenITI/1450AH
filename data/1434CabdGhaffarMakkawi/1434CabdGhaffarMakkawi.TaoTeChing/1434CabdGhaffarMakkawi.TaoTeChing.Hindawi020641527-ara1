@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.TaoTeChing.Hindawi20641527",
-    "BookCats": "philosophy",
-    "BookID": "20641527",
-    "BookTitle": "تاو-تي-كنج: كتاب الطريق والفضيلة",
-    "AuthorID": "79528529 :: 46308160",
-    "AuthorNam": "لاو تسي :: عبد الغفار مكاوي #تقديم وترجمة#",
-    "EditorID": "73939472",
-    "EditorNam": "مصطفى ماهر",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "0001LaoTsu.TaoTeChing (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.TaoTeChing.Hindawi20641527
+#META# Tags: philosophy
+#META# ID: 20641527
+#META# Title: تاو-تي-كنج: كتاب الطريق والفضيلة
+#META# AuthorID: 79528529 :: 46308160
+#META# Author: لاو تسي :: عبد الغفار مكاوي #تقديم وترجمة#
+#META# EditorID: 73939472
+#META# Editor: مصطفى ماهر
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 0001LaoTsu.TaoTeChing (TRANSL)
 
 #META#Header#End#
 

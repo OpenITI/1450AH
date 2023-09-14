@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.Faust.Hindawi69750574",
-    "BookCats": "poetry :: plays",
-    "BookID": "69750574",
-    "BookTitle": "فاوست: ‏صورة مسرحية شعرية للشاعر جوته وقصائد متفرقة للمترجم‏",
-    "AuthorID": "41795037",
-    "AuthorNam": "يوهان فولفجانج جوته",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1247JohannWolfgangGoethe.Faust (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.Faust.Hindawi69750574
+#META# Tags: poetry :: plays
+#META# ID: 69750574
+#META# Title: فاوست: ‏صورة مسرحية شعرية للشاعر جوته وقصائد متفرقة للمترجم‏
+#META# AuthorID: 41795037
+#META# Author: يوهان فولفجانج جوته
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1247JohannWolfgangGoethe.Faust (TRANSL)
 
 #META#Header#End#
 

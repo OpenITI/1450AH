@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.RabbThawra.Hindawi26319263",
-    "BookCats": "history",
-    "BookID": "26319263",
-    "BookTitle": "رب الثورة: أوزيريس وعقيدة الخلود في مصر القديمة",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.RabbThawra.Hindawi26319263
+#META# Tags: history
+#META# ID: 26319263
+#META# Title: رب الثورة: أوزيريس وعقيدة الخلود في مصر القديمة
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

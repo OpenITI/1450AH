@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.MafhumManhajCilmi.Hindawi26386930",
-    "BookCats": "philosophy",
-    "BookID": "26386930",
-    "BookTitle": "مفهوم المنهج العلمي",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.MafhumManhajCilmi.Hindawi26386930
+#META# Tags: philosophy
+#META# ID: 26386930
+#META# Title: مفهوم المنهج العلمي
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

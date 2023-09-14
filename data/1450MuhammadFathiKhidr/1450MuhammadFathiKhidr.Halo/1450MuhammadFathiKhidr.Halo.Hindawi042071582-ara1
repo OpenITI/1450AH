@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadFathiKhidr.Halo.Hindawi42071582",
-    "BookCats": "novels",
-    "BookID": "42071582",
-    "BookTitle": "هالو",
-    "AuthorID": "92958172",
-    "AuthorNam": "توم مادوكس",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "18571738",
-    "TranslNam": "محمد فتحي خضر",
-    "BookRel": "1444TomMaddox.Halo (TRANSL)"
-}
-
+#META# URI: 1450MuhammadFathiKhidr.Halo.Hindawi42071582
+#META# Tags: novels
+#META# ID: 42071582
+#META# Title: هالو
+#META# AuthorID: 92958172
+#META# Author: توم مادوكس
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 18571738
+#META# Translator: محمد فتحي خضر
+#META# Related_books: 1444TomMaddox.Halo (TRANSL)
 
 #META#Header#End#
 

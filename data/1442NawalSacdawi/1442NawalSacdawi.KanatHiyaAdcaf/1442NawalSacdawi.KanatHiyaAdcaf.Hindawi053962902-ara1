@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.KanatHiyaAdcaf.Hindawi53962902",
-    "BookCats": "novels",
-    "BookID": "53962902",
-    "BookTitle": "كانت هي الأضعف",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.KanatHiyaAdcaf.Hindawi53962902
+#META# Tags: novels
+#META# ID: 53962902
+#META# Title: كانت هي الأضعف
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

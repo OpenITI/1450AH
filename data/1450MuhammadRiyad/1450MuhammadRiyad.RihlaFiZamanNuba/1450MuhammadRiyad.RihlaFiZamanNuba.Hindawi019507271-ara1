@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.RihlaFiZamanNuba.Hindawi19507271",
-    "BookCats": "travel.literature :: geography",
-    "BookID": "19507271",
-    "BookTitle": "رحلة في زمان النوبة: دراسة للنوبة القديمة ومؤشرات التنمية المستقبلية",
-    "AuthorID": "19152686 :: 40620386",
-    "AuthorNam": "محمد رياض :: كوثر عبد الرسول",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.RihlaFiZamanNuba.Hindawi19507271
+#META# Tags: travel.literature :: geography
+#META# ID: 19507271
+#META# Title: رحلة في زمان النوبة: دراسة للنوبة القديمة ومؤشرات التنمية المستقبلية
+#META# AuthorID: 19152686 :: 40620386
+#META# Author: محمد رياض :: كوثر عبد الرسول
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

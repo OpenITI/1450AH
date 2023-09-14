@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZaynabCatif.JawharInsaniyya.Hindawi28473624",
-    "BookCats": "science :: philosophy :: social.sciences",
-    "BookID": "28473624",
-    "BookTitle": "جوهرُ الإنسانية: سَعيٌ لا ينتهي وحَرَاكٌ لا يتوقف",
-    "AuthorID": "93952483",
-    "AuthorNam": "تشارلز باسترناك",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "58038048",
-    "TranslNam": "زينب عاطف",
-    "BookRel": "1450CharlesPasternak.EssenceOfHumanity (TRANSL)"
-}
-
+#META# URI: 1450ZaynabCatif.JawharInsaniyya.Hindawi28473624
+#META# Tags: science :: philosophy :: social.sciences
+#META# ID: 28473624
+#META# Title: جوهرُ الإنسانية: سَعيٌ لا ينتهي وحَرَاكٌ لا يتوقف
+#META# AuthorID: 93952483
+#META# Author: تشارلز باسترناك
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 58038048
+#META# Translator: زينب عاطف
+#META# Related_books: 1450CharlesPasternak.EssenceOfHumanity (TRANSL)
 
 #META#Header#End#
 

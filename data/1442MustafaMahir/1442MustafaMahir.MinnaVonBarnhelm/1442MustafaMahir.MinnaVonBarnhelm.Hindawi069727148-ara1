@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442MustafaMahir.MinnaVonBarnhelm.Hindawi69727148",
-    "BookCats": "plays",
-    "BookID": "69727148",
-    "BookTitle": "مينا فون بارنهلم",
-    "AuthorID": "49141758",
-    "AuthorNam": "جوتهولد إفرايم ليسنج#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "73939472",
-    "TranslNam": "مصطفى ماهر",
-    "BookRel": "1195GottholdEphraimLessing.MinnaVonBarnhelm (TRANSL)"
-}
-
+#META# URI: 1442MustafaMahir.MinnaVonBarnhelm.Hindawi69727148
+#META# Tags: plays
+#META# ID: 69727148
+#META# Title: مينا فون بارنهلم
+#META# AuthorID: 49141758
+#META# Author: جوتهولد إفرايم ليسنج#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 73939472
+#META# Translator: مصطفى ماهر
+#META# Related_books: 1195GottholdEphraimLessing.MinnaVonBarnhelm (TRANSL)
 
 #META#Header#End#
 

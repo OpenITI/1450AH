@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.Suqrat.Hindawi19405037",
-    "BookCats": "philosophy :: biographies",
-    "BookID": "19405037",
-    "BookTitle": "سقراط: الرجل الذي جرؤ على السؤال",
-    "AuthorID": "15039283",
-    "AuthorNam": "كورا ميسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1379CoraMason.Socrates (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.Suqrat.Hindawi19405037
+#META# Tags: philosophy :: biographies
+#META# ID: 19405037
+#META# Title: سقراط: الرجل الذي جرؤ على السؤال
+#META# AuthorID: 15039283
+#META# Author: كورا ميسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1379CoraMason.Socrates (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadTalbaNassar.HilmCaql.Hindawi41928480",
-    "BookCats": "philosophy",
-    "BookID": "41928480",
-    "BookTitle": "حلم العقل: تاريخ الفلسفة من عصر اليونان إلى عصر النهضة",
-    "AuthorID": "69425960",
-    "AuthorNam": "أنتوني جوتليب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "25925035",
-    "TranslNam": "محمد طلبة نصار",
-    "BookRel": "1450AnthonyGottlieb.DreamOfReason (TRANSL)"
-}
-
+#META# URI: 1450MuhammadTalbaNassar.HilmCaql.Hindawi41928480
+#META# Tags: philosophy
+#META# ID: 41928480
+#META# Title: حلم العقل: تاريخ الفلسفة من عصر اليونان إلى عصر النهضة
+#META# AuthorID: 69425960
+#META# Author: أنتوني جوتليب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 25925035
+#META# Translator: محمد طلبة نصار
+#META# Related_books: 1450AnthonyGottlieb.DreamOfReason (TRANSL)
 
 #META#Header#End#
 

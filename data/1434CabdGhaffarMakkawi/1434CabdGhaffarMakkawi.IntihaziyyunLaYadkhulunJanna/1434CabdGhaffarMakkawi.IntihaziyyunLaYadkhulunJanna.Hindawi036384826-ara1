@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.IntihaziyyunLaYadkhulunJanna.Hindawi36384826",
-    "BookCats": "plays",
-    "BookID": "36384826",
-    "BookTitle": "الانتهازيون لا يدخلون الجنة: مسرحيات مختارة",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.IntihaziyyunLaYadkhulunJanna.Hindawi36384826
+#META# Tags: plays
+#META# ID: 36384826
+#META# Title: الانتهازيون لا يدخلون الجنة: مسرحيات مختارة
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

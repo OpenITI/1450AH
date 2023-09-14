@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSalimCabada.DarbatMishrat.Hindawi62796937",
-    "BookCats": "poetry",
-    "BookID": "62796937",
-    "BookTitle": "ديوانان من الشعر‎: ضربةُ مِشرَط وأواثقٌ أنتَ أنَّك تريدُ الخروج؟",
-    "AuthorID": "47090915",
-    "AuthorNam": "محمد سالم عبادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadSalimCabada.DarbatMishrat.Hindawi62796937
+#META# Tags: poetry
+#META# ID: 62796937
+#META# Title: ديوانان من الشعر‎: ضربةُ مِشرَط وأواثقٌ أنتَ أنَّك تريدُ الخروج؟
+#META# AuthorID: 47090915
+#META# Author: محمد سالم عبادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

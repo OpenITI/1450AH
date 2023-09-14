@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.TahtMazalla.Hindawi84616493",
-    "BookCats": "plays :: novels",
-    "BookID": "84616493",
-    "BookTitle": "تحت المظلة",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.TahtMazalla.Hindawi84616493
+#META# Tags: plays :: novels
+#META# ID: 84616493
+#META# Title: تحت المظلة
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

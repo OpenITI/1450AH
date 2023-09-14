@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.UghniyyaDairiyya.Hindawi79175947",
-    "BookCats": "literature",
-    "BookID": "79175947",
-    "BookTitle": "الأغنية الدائرية",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.UghniyyaDairiyya.Hindawi79175947
+#META# Tags: literature
+#META# ID: 79175947
+#META# Title: الأغنية الدائرية
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

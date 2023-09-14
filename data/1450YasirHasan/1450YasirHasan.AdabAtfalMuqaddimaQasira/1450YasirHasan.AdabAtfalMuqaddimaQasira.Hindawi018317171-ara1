@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasirHasan.AdabAtfalMuqaddimaQasira.Hindawi18317171",
-    "BookCats": "literature",
-    "BookID": "18317171",
-    "BookTitle": "أدب الأطفال: مقدمة قصيرة جدًّا",
-    "AuthorID": "53724960",
-    "AuthorNam": "كيمبرلي رينولدز",
-    "EditorID": "53609040",
-    "EditorNam": "هبة نجيب مغربي",
-    "TranslID": "58205826",
-    "TranslNam": "ياسر حسن",
-    "BookRel": "1450KimberleyReynolds.ChildrensLiteratureShortIntro (TRANSL)"
-}
-
+#META# URI: 1450YasirHasan.AdabAtfalMuqaddimaQasira.Hindawi18317171
+#META# Tags: literature
+#META# ID: 18317171
+#META# Title: أدب الأطفال: مقدمة قصيرة جدًّا
+#META# AuthorID: 53724960
+#META# Author: كيمبرلي رينولدز
+#META# EditorID: 53609040
+#META# Editor: هبة نجيب مغربي
+#META# TranslatorID: 58205826
+#META# Translator: ياسر حسن
+#META# Related_books: 1450KimberleyReynolds.ChildrensLiteratureShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HibaCabdCazizGhanim.IghwaTavernake.Hindawi81964971",
-    "BookCats": "literature",
-    "BookID": "81964971",
-    "BookTitle": "إغواء تافرنيك",
-    "AuthorID": "19690629",
-    "AuthorNam": "إدوارد فيليبس أوبنهايم",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "46097241",
-    "TranslNam": "هبة عبد العزيز غانم",
-    "BookRel": "1365EdwardPhillipsOppenheim.TemptingOfTavernake (TRANSL)"
-}
-
+#META# URI: 1450HibaCabdCazizGhanim.IghwaTavernake.Hindawi81964971
+#META# Tags: literature
+#META# ID: 81964971
+#META# Title: إغواء تافرنيك
+#META# AuthorID: 19690629
+#META# Author: إدوارد فيليبس أوبنهايم
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 46097241
+#META# Translator: هبة عبد العزيز غانم
+#META# Related_books: 1365EdwardPhillipsOppenheim.TemptingOfTavernake (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadCabdNabi.HikayaWaMaFiha.Hindawi41862715",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "41862715",
-    "BookTitle": "الحكاية وما فيها: السرد (مبادئ وأسرار وتمارين)",
-    "AuthorID": "16969020",
-    "AuthorNam": "محمد عبد النبي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadCabdNabi.HikayaWaMaFiha.Hindawi41862715
+#META# Tags: literary.criticism :: literature
+#META# ID: 41862715
+#META# Title: الحكاية وما فيها: السرد (مبادئ وأسرار وتمارين)
+#META# AuthorID: 16969020
+#META# Author: محمد عبد النبي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

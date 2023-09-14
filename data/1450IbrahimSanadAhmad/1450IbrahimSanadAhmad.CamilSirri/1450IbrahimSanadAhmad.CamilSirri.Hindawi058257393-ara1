@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450IbrahimSanadAhmad.CamilSirri.Hindawi58257393",
-    "BookCats": "novels",
-    "BookID": "58257393",
-    "BookTitle": "العميل السري: حكاية بسيطة",
-    "AuthorID": "39190742",
-    "AuthorNam": "جوزيف كونراد",
-    "EditorID": "51613802",
-    "EditorNam": "محمد حامد درويش",
-    "TranslID": "48097460",
-    "TranslNam": "إبراهيم سند أحمد",
-    "BookRel": "1343JosephConrad.SecretAgent (TRANSL)"
-}
-
+#META# URI: 1450IbrahimSanadAhmad.CamilSirri.Hindawi58257393
+#META# Tags: novels
+#META# ID: 58257393
+#META# Title: العميل السري: حكاية بسيطة
+#META# AuthorID: 39190742
+#META# Author: جوزيف كونراد
+#META# EditorID: 51613802
+#META# Editor: محمد حامد درويش
+#META# TranslatorID: 48097460
+#META# Translator: إبراهيم سند أحمد
+#META# Related_books: 1343JosephConrad.SecretAgent (TRANSL)
 
 #META#Header#End#
 

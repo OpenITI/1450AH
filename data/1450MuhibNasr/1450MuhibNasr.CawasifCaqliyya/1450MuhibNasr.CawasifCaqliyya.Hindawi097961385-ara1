@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhibNasr.CawasifCaqliyya.Hindawi97961385",
-    "BookCats": "literature :: philosophy",
-    "BookID": "97961385",
-    "BookTitle": "العواصف العقلية",
-    "AuthorID": "14251814",
-    "AuthorNam": "مهيب نصر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhibNasr.CawasifCaqliyya.Hindawi97961385
+#META# Tags: literature :: philosophy
+#META# ID: 97961385
+#META# Title: العواصف العقلية
+#META# AuthorID: 14251814
+#META# Author: مهيب نصر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.MughalatatLughawiyya.Hindawi90281793",
-    "BookCats": "linguistics",
-    "BookID": "90281793",
-    "BookTitle": "مغالطات لغوية: الطريق الثالث إلى فصحى جديدة",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.MughalatatLughawiyya.Hindawi90281793
+#META# Tags: linguistics
+#META# ID: 90281793
+#META# Title: مغالطات لغوية: الطريق الثالث إلى فصحى جديدة
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SayyidCaliIsmacil.IsmacilCasim.Hindawi91974839",
-    "BookCats": "literary.criticism",
-    "BookID": "91974839",
-    "BookTitle": "إسماعيل عاصم في موكب الحياة والأدب",
-    "AuthorID": "91509525",
-    "AuthorNam": "سيد علي إسماعيل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SayyidCaliIsmacil.IsmacilCasim.Hindawi91974839
+#META# Tags: literary.criticism
+#META# ID: 91974839
+#META# Title: إسماعيل عاصم في موكب الحياة والأدب
+#META# AuthorID: 91509525
+#META# Author: سيد علي إسماعيل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizAminKhanji.SawanihAmira.Hindawi52020249",
-    "BookCats": "travel.literature",
-    "BookID": "52020249",
-    "BookTitle": "سوانح الأميرة",
-    "AuthorID": "47960284",
-    "AuthorNam": "قدرية حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "35930479",
-    "TranslNam": "عبد العزيز أمين الخانجي",
-    "BookRel": "1374QadriyyaHusayn.SawanihAmira (TRANSL)"
-}
-
+#META# URI: 1450CabdCazizAminKhanji.SawanihAmira.Hindawi52020249
+#META# Tags: travel.literature
+#META# ID: 52020249
+#META# Title: سوانح الأميرة
+#META# AuthorID: 47960284
+#META# Author: قدرية حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 35930479
+#META# Translator: عبد العزيز أمين الخانجي
+#META# Related_books: 1374QadriyyaHusayn.SawanihAmira (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.EngelsMuqaddimaQasira.Hindawi92495959",
-    "BookCats": "philosophy",
-    "BookID": "92495959",
-    "BookTitle": "إنجلز: مقدمة قصيرة جدًّا",
-    "AuthorID": "40206159",
-    "AuthorNam": "تيريل كارفر",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1450TerrellCarver.EngelsShortIntro (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.EngelsMuqaddimaQasira.Hindawi92495959
+#META# Tags: philosophy
+#META# ID: 92495959
+#META# Title: إنجلز: مقدمة قصيرة جدًّا
+#META# AuthorID: 40206159
+#META# Author: تيريل كارفر
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1450TerrellCarver.EngelsShortIntro (TRANSL)
 
 #META#Header#End#
 

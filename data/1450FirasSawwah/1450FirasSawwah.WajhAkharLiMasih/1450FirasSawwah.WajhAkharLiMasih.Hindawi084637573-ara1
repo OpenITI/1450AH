@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.WajhAkharLiMasih.Hindawi84637573",
-    "BookCats": "religions",
-    "BookID": "84637573",
-    "BookTitle": "الوجه الآخر للمسيح: موقف يسوع من اليهودية – مقدمة في الغنوصية",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.WajhAkharLiMasih.Hindawi84637573
+#META# Tags: religions
+#META# ID: 84637573
+#META# Title: الوجه الآخر للمسيح: موقف يسوع من اليهودية – مقدمة في الغنوصية
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

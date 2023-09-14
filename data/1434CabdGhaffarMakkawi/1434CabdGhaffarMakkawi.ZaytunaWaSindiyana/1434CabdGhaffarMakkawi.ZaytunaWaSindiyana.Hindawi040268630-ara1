@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.ZaytunaWaSindiyana.Hindawi40268630",
-    "BookCats": "biographies :: poetry",
-    "BookID": "40268630",
-    "BookTitle": "الزيتونة والسنديانة: مدخل إلى حياة وشعر عادل قرشولي مع النص الكامل لديوانه: هكذا تكلم عبد الله",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.ZaytunaWaSindiyana.Hindawi40268630
+#META# Tags: biographies :: poetry
+#META# ID: 40268630
+#META# Title: الزيتونة والسنديانة: مدخل إلى حياة وشعر عادل قرشولي مع النص الكامل لديوانه: هكذا تكلم عبد الله
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

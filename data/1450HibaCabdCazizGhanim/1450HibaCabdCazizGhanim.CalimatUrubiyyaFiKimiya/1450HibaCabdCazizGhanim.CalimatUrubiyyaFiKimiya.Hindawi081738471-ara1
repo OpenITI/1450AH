@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HibaCabdCazizGhanim.CalimatUrubiyyaFiKimiya.Hindawi81738471",
-    "BookCats": "science :: history",
-    "BookID": "81738471",
-    "BookTitle": "عالمات أوروبيات في الكيمياء",
-    "AuthorID": "62816315 :: 31316042",
-    "AuthorNam": "يان أبوتيكر :: ليفيا سايمون ساركادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46097241",
-    "TranslNam": "هبة عبد العزيز غانم",
-    "BookRel": "1450JanApotheker.EuropeanWomenInChemistry (TRANSL)"
-}
-
+#META# URI: 1450HibaCabdCazizGhanim.CalimatUrubiyyaFiKimiya.Hindawi81738471
+#META# Tags: science :: history
+#META# ID: 81738471
+#META# Title: عالمات أوروبيات في الكيمياء
+#META# AuthorID: 62816315 :: 31316042
+#META# Author: يان أبوتيكر :: ليفيا سايمون ساركادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46097241
+#META# Translator: هبة عبد العزيز غانم
+#META# Related_books: 1450JanApotheker.EuropeanWomenInChemistry (TRANSL)
 
 #META#Header#End#
 

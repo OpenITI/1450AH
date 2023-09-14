@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.MisrQadima.Hindawi59607051",
-    "BookCats": "history",
-    "BookID": "59607051",
-    "BookTitle": "مصر القديمة",
-    "AuthorID": "71579642",
-    "AuthorNam": "جيمس بيكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71616385",
-    "TranslNam": "نجيب محفوظ",
-    "BookRel": "1349JamesBaikie.AncientEgypt (TRANSL)"
-}
-
+#META# URI: 1427NajibMahfuz.MisrQadima.Hindawi59607051
+#META# Tags: history
+#META# ID: 59607051
+#META# Title: مصر القديمة
+#META# AuthorID: 71579642
+#META# Author: جيمس بيكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71616385
+#META# Translator: نجيب محفوظ
+#META# Related_books: 1349JamesBaikie.AncientEgypt (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SaraCadil.FannKimiya.Hindawi17582731",
-    "BookCats": "history",
-    "BookID": "17582731",
-    "BookTitle": "فن الكيمياء: ما بين الخرافات والعلاجات والمواد",
-    "AuthorID": "20753158",
-    "AuthorNam": "آرثر جرينبرج",
-    "EditorID": "72975737",
-    "EditorNam": "شيماء طه الريدي",
-    "TranslID": "75847252 :: 58038048",
-    "TranslNam": "سارة عادل :: زينب عاطف",
-    "BookRel": "1450ArthurGreenberg.ArtOfChemistry (TRANSL)"
-}
-
+#META# URI: 1450SaraCadil.FannKimiya.Hindawi17582731
+#META# Tags: history
+#META# ID: 17582731
+#META# Title: فن الكيمياء: ما بين الخرافات والعلاجات والمواد
+#META# AuthorID: 20753158
+#META# Author: آرثر جرينبرج
+#META# EditorID: 72975737
+#META# Editor: شيماء طه الريدي
+#META# TranslatorID: 75847252 :: 58038048
+#META# Translator: سارة عادل :: زينب عاطف
+#META# Related_books: 1450ArthurGreenberg.ArtOfChemistry (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.CasrAydiyulujiyya.Hindawi80850730",
-    "BookCats": "philosophy",
-    "BookID": "80850730",
-    "BookTitle": "عصر الأيديولوجية",
-    "AuthorID": "37940460",
-    "AuthorNam": "هنري د. أيكن",
-    "EditorID": "92815162",
-    "EditorNam": "عبد الرحمن بدوي",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1402HenryDavidAiken.AgeOfIdeology (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.CasrAydiyulujiyya.Hindawi80850730
+#META# Tags: philosophy
+#META# ID: 80850730
+#META# Title: عصر الأيديولوجية
+#META# AuthorID: 37940460
+#META# Author: هنري د. أيكن
+#META# EditorID: 92815162
+#META# Editor: عبد الرحمن بدوي
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1402HenryDavidAiken.AgeOfIdeology (TRANSL)
 
 #META#Header#End#
 

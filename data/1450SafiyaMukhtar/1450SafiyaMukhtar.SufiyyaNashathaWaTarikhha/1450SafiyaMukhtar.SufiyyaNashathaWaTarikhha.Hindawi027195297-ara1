@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.SufiyyaNashathaWaTarikhha.Hindawi27195297",
-    "BookCats": "history :: social.sciences",
-    "BookID": "27195297",
-    "BookTitle": "الصوفية: نشأتها وتاريخها",
-    "AuthorID": "73950692",
-    "AuthorNam": "نايل جرين",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1450NileGreen.Sufism (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.SufiyyaNashathaWaTarikhha.Hindawi27195297
+#META# Tags: history :: social.sciences
+#META# ID: 27195297
+#META# Title: الصوفية: نشأتها وتاريخها
+#META# AuthorID: 73950692
+#META# Author: نايل جرين
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1450NileGreen.Sufism (TRANSL)
 
 #META#Header#End#
 

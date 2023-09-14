@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.HikayatHaratna.Hindawi27250583",
-    "BookCats": "novels",
-    "BookID": "27250583",
-    "BookTitle": "حكايات حارتنا",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.HikayatHaratna.Hindawi27250583
+#META# Tags: novels
+#META# ID: 27250583
+#META# Title: حكايات حارتنا
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

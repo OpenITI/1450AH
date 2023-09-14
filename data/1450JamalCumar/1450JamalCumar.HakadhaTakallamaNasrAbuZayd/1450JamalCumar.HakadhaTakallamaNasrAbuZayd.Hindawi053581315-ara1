@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450JamalCumar.HakadhaTakallamaNasrAbuZayd.Hindawi53581315",
-    "BookCats": "biographies :: philosophy",
-    "BookID": "53581315",
-    "BookTitle": "هكذا تكلم نصر أبو زيد (الجزء الأول): من نص المصحف إلى خطابات القرآن",
-    "AuthorID": "51939462",
-    "AuthorNam": "جمال عمر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450JamalCumar.HakadhaTakallamaNasrAbuZayd.Hindawi53581315
+#META# Tags: biographies :: philosophy
+#META# ID: 53581315
+#META# Title: هكذا تكلم نصر أبو زيد (الجزء الأول): من نص المصحف إلى خطابات القرآن
+#META# AuthorID: 51939462
+#META# Author: جمال عمر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MujahidAbuFadl.SabiFiWajhQamr.Hindawi63097917",
-    "BookCats": "biographies",
-    "BookID": "63097917",
-    "BookTitle": "الصبي في وجه القمر: رحلة استكشاف أب لحياة ابنه المعاق",
-    "AuthorID": "59591626",
-    "AuthorNam": "إين براون",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "18308428",
-    "TranslNam": "مجاهد أبو الفضل",
-    "BookRel": "1450IanBrown.BoyInTheMoon (TRANSL)"
-}
-
+#META# URI: 1450MujahidAbuFadl.SabiFiWajhQamr.Hindawi63097917
+#META# Tags: biographies
+#META# ID: 63097917
+#META# Title: الصبي في وجه القمر: رحلة استكشاف أب لحياة ابنه المعاق
+#META# AuthorID: 59591626
+#META# Author: إين براون
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 18308428
+#META# Translator: مجاهد أبو الفضل
+#META# Related_books: 1450IanBrown.BoyInTheMoon (TRANSL)
 
 #META#Header#End#
 

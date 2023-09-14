@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Mahagonny.Hindawi84031590",
-    "BookCats": "plays",
-    "BookID": "84031590",
-    "BookTitle": "أوبرا ماهاجوني",
-    "AuthorID": "85861914",
-    "AuthorNam": "برتولد برشت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1376BertholdBrecht.Mahagonny (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Mahagonny.Hindawi84031590
+#META# Tags: plays
+#META# ID: 84031590
+#META# Title: أوبرا ماهاجوني
+#META# AuthorID: 85861914
+#META# Author: برتولد برشت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1376BertholdBrecht.Mahagonny (TRANSL)
 
 #META#Header#End#
 

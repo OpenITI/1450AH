@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.ZawjatCraig.Hindawi18060693",
-    "BookCats": "plays",
-    "BookID": "18060693",
-    "BookTitle": "زوجة كريج",
-    "AuthorID": "47048282 :: 26083637",
-    "AuthorNam": "جورج كيلي :: أنيس منصور #تقديم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1394GeorgeEdwardKelly.CraigsWife (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.ZawjatCraig.Hindawi18060693
+#META# Tags: plays
+#META# ID: 18060693
+#META# Title: زوجة كريج
+#META# AuthorID: 47048282 :: 26083637
+#META# Author: جورج كيلي :: أنيس منصور #تقديم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1394GeorgeEdwardKelly.CraigsWife (TRANSL)
 
 #META#Header#End#
 

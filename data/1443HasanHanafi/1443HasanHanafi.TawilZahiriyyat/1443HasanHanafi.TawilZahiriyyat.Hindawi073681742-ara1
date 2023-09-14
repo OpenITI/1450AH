@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.TawilZahiriyyat.Hindawi73681742",
-    "BookCats": "philosophy",
-    "BookID": "73681742",
-    "BookTitle": "تأويل الظاهريات: الحالة الراهنة للمنهج الظاهرياتي وتطبيقه في ظاهرة الدين",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.TawilZahiriyyat.Hindawi73681742
+#META# Tags: philosophy
+#META# ID: 73681742
+#META# Title: تأويل الظاهريات: الحالة الراهنة للمنهج الظاهرياتي وتطبيقه في ظاهرة الدين
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.Misr.Hindawi17061374",
-    "BookCats": "geography",
-    "BookID": "17061374",
-    "BookTitle": "مصر: نسيج الناس والمكان والزمان",
-    "AuthorID": "19152686",
-    "AuthorNam": "محمد رياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.Misr.Hindawi17061374
+#META# Tags: geography
+#META# ID: 17061374
+#META# Title: مصر: نسيج الناس والمكان والزمان
+#META# AuthorID: 19152686
+#META# Author: محمد رياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

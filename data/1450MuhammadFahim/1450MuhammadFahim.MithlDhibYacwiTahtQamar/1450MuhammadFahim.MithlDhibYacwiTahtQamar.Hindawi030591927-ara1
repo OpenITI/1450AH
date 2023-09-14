@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadFahim.MithlDhibYacwiTahtQamar.Hindawi30591927",
-    "BookCats": "literature :: philosophy :: poetry",
-    "BookID": "30591927",
-    "BookTitle": "مثل ذئب يعوي تحت القمر: نصوص شعرية فلسفية",
-    "AuthorID": "85815813",
-    "AuthorNam": "محمد الفاهم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadFahim.MithlDhibYacwiTahtQamar.Hindawi30591927
+#META# Tags: literature :: philosophy :: poetry
+#META# ID: 30591927
+#META# Title: مثل ذئب يعوي تحت القمر: نصوص شعرية فلسفية
+#META# AuthorID: 85815813
+#META# Author: محمد الفاهم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

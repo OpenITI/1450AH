@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadTawfiqSahli.MawsucatAmthalShacbiyyaFalastiniyya.Hindawi19363759",
-    "BookCats": "literature",
-    "BookID": "19363759",
-    "BookTitle": "موسوعة الأمثال الشعبية الفلسطينية",
-    "AuthorID": "85269609",
-    "AuthorNam": "محمد توفيق السهلي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadTawfiqSahli.MawsucatAmthalShacbiyyaFalastiniyya.Hindawi19363759
+#META# Tags: literature
+#META# ID: 19363759
+#META# Title: موسوعة الأمثال الشعبية الفلسطينية
+#META# AuthorID: 85269609
+#META# Author: محمد توفيق السهلي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

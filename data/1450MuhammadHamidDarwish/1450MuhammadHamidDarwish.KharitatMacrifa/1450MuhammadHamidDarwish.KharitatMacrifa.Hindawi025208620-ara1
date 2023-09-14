@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadHamidDarwish.KharitatMacrifa.Hindawi25208620",
-    "BookCats": "history",
-    "BookID": "25208620",
-    "BookTitle": "خريطة المعرفة: كيف فقد العالم أفكار العصر الكلاسيكي وكيف استعادها: تاريخ سبع مدن",
-    "AuthorID": "60827205",
-    "AuthorNam": "فيوليت مولر",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "51613802",
-    "TranslNam": "محمد حامد درويش",
-    "BookRel": "1450VioletMoller.MapOfKnowledge (TRANSL)"
-}
-
+#META# URI: 1450MuhammadHamidDarwish.KharitatMacrifa.Hindawi25208620
+#META# Tags: history
+#META# ID: 25208620
+#META# Title: خريطة المعرفة: كيف فقد العالم أفكار العصر الكلاسيكي وكيف استعادها: تاريخ سبع مدن
+#META# AuthorID: 60827205
+#META# Author: فيوليت مولر
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 51613802
+#META# Translator: محمد حامد درويش
+#META# Related_books: 1450VioletMoller.MapOfKnowledge (TRANSL)
 
 #META#Header#End#
 

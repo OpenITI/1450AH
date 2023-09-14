@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.NewtonMuqaddimaQasira.Hindawi49075716",
-    "BookCats": "biographies",
-    "BookID": "49075716",
-    "BookTitle": "نيوتن: مقدمة قصيرة جدًّا",
-    "AuthorID": "96951404",
-    "AuthorNam": "روب أيلف",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450RobertIliffe.NewtonShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.NewtonMuqaddimaQasira.Hindawi49075716
+#META# Tags: biographies
+#META# ID: 49075716
+#META# Title: نيوتن: مقدمة قصيرة جدًّا
+#META# AuthorID: 96951404
+#META# Author: روب أيلف
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450RobertIliffe.NewtonShortIntro (TRANSL)
 
 #META#Header#End#
 

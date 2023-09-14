@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.NashatFalsafaCilmiyya.Hindawi69242084",
-    "BookCats": "philosophy",
-    "BookID": "69242084",
-    "BookTitle": "نشأة الفلسفة العلمية",
-    "AuthorID": "48042697",
-    "AuthorNam": "هانز ريشنباخ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1372HansReichenbach.RiseOfScientificPhilosophy (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.NashatFalsafaCilmiyya.Hindawi69242084
+#META# Tags: philosophy
+#META# ID: 69242084
+#META# Title: نشأة الفلسفة العلمية
+#META# AuthorID: 48042697
+#META# Author: هانز ريشنباخ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1372HansReichenbach.RiseOfScientificPhilosophy (TRANSL)
 
 #META#Header#End#
 

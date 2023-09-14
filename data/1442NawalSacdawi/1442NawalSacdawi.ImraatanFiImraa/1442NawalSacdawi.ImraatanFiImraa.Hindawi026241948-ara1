@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.ImraatanFiImraa.Hindawi26241948",
-    "BookCats": "novels",
-    "BookID": "26241948",
-    "BookTitle": "امرأتان في امرأة",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.ImraatanFiImraa.Hindawi26241948
+#META# Tags: novels
+#META# ID: 26241948
+#META# Title: امرأتان في امرأة
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

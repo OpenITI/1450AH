@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZahraSami.CharlesDarwin01.Hindawi30713151",
-    "BookCats": "biographies",
-    "BookID": "30713151",
-    "BookTitle": "تشارلز داروين: حياته وخطاباته (الجزء الأول): مع فصل سيرة ذاتية بقلم تشارلز داروين",
-    "AuthorID": "86406130",
-    "AuthorNam": "فرانسيس داروين",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "83840647",
-    "TranslNam": "الزهراء سامي",
-    "BookRel": "1344FrancisDarwin.CharlesDarwinLifeAndLetters (TRANSL)"
-}
-
+#META# URI: 1450ZahraSami.CharlesDarwin01.Hindawi30713151
+#META# Tags: biographies
+#META# ID: 30713151
+#META# Title: تشارلز داروين: حياته وخطاباته (الجزء الأول): مع فصل سيرة ذاتية بقلم تشارلز داروين
+#META# AuthorID: 86406130
+#META# Author: فرانسيس داروين
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 83840647
+#META# Translator: الزهراء سامي
+#META# Related_books: 1344FrancisDarwin.CharlesDarwinLifeAndLetters (TRANSL)
 
 #META#Header#End#
 

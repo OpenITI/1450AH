@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CaliCabdAllahBarakat.NayazikFiTarikh.Hindawi70749395",
-    "BookCats": "history",
-    "BookID": "70749395",
-    "BookTitle": "النيازك في التاريخ الإنساني",
-    "AuthorID": "40515035",
-    "AuthorNam": "علي عبد الله بركات",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CaliCabdAllahBarakat.NayazikFiTarikh.Hindawi70749395
+#META# Tags: history
+#META# ID: 70749395
+#META# Title: النيازك في التاريخ الإنساني
+#META# AuthorID: 40515035
+#META# Author: علي عبد الله بركات
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

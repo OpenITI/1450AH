@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.MacnaHayatMuqaddimaQasira.Hindawi31581306",
-    "BookCats": "philosophy",
-    "BookID": "31581306",
-    "BookTitle": "معنى الحياة: مقدمة قصيرة جدًّا",
-    "AuthorID": "30406272",
-    "AuthorNam": "تيري إيجلتون",
-    "EditorID": "53609040",
-    "EditorNam": "هبة نجيب مغربي",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450TerryEagleton.MeaningOfLifeShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.MacnaHayatMuqaddimaQasira.Hindawi31581306
+#META# Tags: philosophy
+#META# ID: 31581306
+#META# Title: معنى الحياة: مقدمة قصيرة جدًّا
+#META# AuthorID: 30406272
+#META# Author: تيري إيجلتون
+#META# EditorID: 53609040
+#META# Editor: هبة نجيب مغربي
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450TerryEagleton.MeaningOfLifeShortIntro (TRANSL)
 
 #META#Header#End#
 

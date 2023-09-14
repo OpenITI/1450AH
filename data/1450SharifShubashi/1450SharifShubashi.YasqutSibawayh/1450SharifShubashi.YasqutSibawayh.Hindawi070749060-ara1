@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SharifShubashi.YasqutSibawayh.Hindawi70749060",
-    "BookCats": "linguistics",
-    "BookID": "70749060",
-    "BookTitle": "لتحيا اللغة العربية يسقط سيبويه",
-    "AuthorID": "15792825",
-    "AuthorNam": "شريف الشوباشي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SharifShubashi.YasqutSibawayh.Hindawi70749060
+#META# Tags: linguistics
+#META# ID: 70749060
+#META# Title: لتحيا اللغة العربية يسقط سيبويه
+#META# AuthorID: 15792825
+#META# Author: شريف الشوباشي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

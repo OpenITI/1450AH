@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HusaynMihran.SanawatThaqbAswad.Hindawi50246818",
-    "BookCats": "novels",
-    "BookID": "50246818",
-    "BookTitle": "سنوات الثقب الأسود",
-    "AuthorID": "30382579",
-    "AuthorNam": "حسين مهران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450HusaynMihran.SanawatThaqbAswad.Hindawi50246818
+#META# Tags: novels
+#META# ID: 50246818
+#META# Title: سنوات الثقب الأسود
+#META# AuthorID: 30382579
+#META# Author: حسين مهران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AmiraCaliCabdSaduq.HubbImraaTayyiba.Hindawi51693975",
-    "BookCats": "literature",
-    "BookID": "51693975",
-    "BookTitle": "حب امرأة طيبة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "27426846 :: 31862463",
-    "TranslNam": "أميرة علي عبد الصادق :: شهاب ياسين",
-    "BookRel": "1450AliceMunro.LoveOfGoodWoman (TRANSL)"
-}
-
+#META# URI: 1450AmiraCaliCabdSaduq.HubbImraaTayyiba.Hindawi51693975
+#META# Tags: literature
+#META# ID: 51693975
+#META# Title: حب امرأة طيبة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 27426846 :: 31862463
+#META# Translator: أميرة علي عبد الصادق :: شهاب ياسين
+#META# Related_books: 1450AliceMunro.LoveOfGoodWoman (TRANSL)
 
 #META#Header#End#
 

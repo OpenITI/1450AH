@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhafarMakkawi.MalhamatGilgamesh.Hindawi51830595",
-    "BookCats": "literature",
-    "BookID": "51830595",
-    "BookTitle": "ملحمة جلجاميش",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "92468530",
-    "EditorNam": "عوني عبد الرؤوف",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "0001Anonymous.Gilgamesh (TRANSL)"
-}
-
+#META# URI: 1434CabdGhafarMakkawi.MalhamatGilgamesh.Hindawi51830595
+#META# Tags: literature
+#META# ID: 51830595
+#META# Title: ملحمة جلجاميش
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: 92468530
+#META# Editor: عوني عبد الرؤوف
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 0001Anonymous.Gilgamesh (TRANSL)
 
 #META#Header#End#
 

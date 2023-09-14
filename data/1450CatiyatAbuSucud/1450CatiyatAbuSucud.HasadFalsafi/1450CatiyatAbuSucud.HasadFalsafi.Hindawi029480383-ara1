@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CatiyatAbuSucud.HasadFalsafi.Hindawi29480383",
-    "BookCats": "philosophy",
-    "BookID": "29480383",
-    "BookTitle": "الحصاد الفلسفي للقرن العشرين : وبحوث فلسفية أخرى",
-    "AuthorID": "75058162",
-    "AuthorNam": "عطيات أبو السعود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CatiyatAbuSucud.HasadFalsafi.Hindawi29480383
+#META# Tags: philosophy
+#META# ID: 29480383
+#META# Title: الحصاد الفلسفي للقرن العشرين : وبحوث فلسفية أخرى
+#META# AuthorID: 75058162
+#META# Author: عطيات أبو السعود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YusufNabil.QamusVoltaireFalsafi.Hindawi69159020",
-    "BookCats": "philosophy",
-    "BookID": "69159020",
-    "BookTitle": "قاموس فولتير الفلسفي",
-    "AuthorID": "70507046",
-    "AuthorNam": "فولتير",
-    "EditorID": "92060751",
-    "EditorNam": "جلال الدين عز الدين علي",
-    "TranslID": "81372581",
-    "TranslNam": "يوسف نبيل",
-    "BookRel": "1192Voltaire.DictionnairePhilosophique (TRANSL)"
-}
-
+#META# URI: 1450YusufNabil.QamusVoltaireFalsafi.Hindawi69159020
+#META# Tags: philosophy
+#META# ID: 69159020
+#META# Title: قاموس فولتير الفلسفي
+#META# AuthorID: 70507046
+#META# Author: فولتير
+#META# EditorID: 92060751
+#META# Editor: جلال الدين عز الدين علي
+#META# TranslatorID: 81372581
+#META# Translator: يوسف نبيل
+#META# Related_books: 1192Voltaire.DictionnairePhilosophique (TRANSL)
 
 #META#Header#End#
 

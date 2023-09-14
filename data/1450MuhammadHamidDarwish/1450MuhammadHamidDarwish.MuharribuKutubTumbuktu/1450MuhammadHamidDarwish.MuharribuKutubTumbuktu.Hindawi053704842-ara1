@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadHamidDarwish.MuharribuKutubTumbuktu.Hindawi53704842",
-    "BookCats": "history",
-    "BookID": "53704842",
-    "BookTitle": "مهربو كتب تمبكتو: السعي للوصول إلى المدينة التاريخية والسباق من أجل إنقاذ كنوزها",
-    "AuthorID": "96971494",
-    "AuthorNam": "تشارلي إنجليش",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "51613802",
-    "TranslNam": "محمد حامد درويش",
-    "BookRel": "1450CharlieEnglish.BookSmugglersOfTimbuktu (TRANSL)"
-}
-
+#META# URI: 1450MuhammadHamidDarwish.MuharribuKutubTumbuktu.Hindawi53704842
+#META# Tags: history
+#META# ID: 53704842
+#META# Title: مهربو كتب تمبكتو: السعي للوصول إلى المدينة التاريخية والسباق من أجل إنقاذ كنوزها
+#META# AuthorID: 96971494
+#META# Author: تشارلي إنجليش
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 51613802
+#META# Translator: محمد حامد درويش
+#META# Related_books: 1450CharlieEnglish.BookSmugglersOfTimbuktu (TRANSL)
 
 #META#Header#End#
 

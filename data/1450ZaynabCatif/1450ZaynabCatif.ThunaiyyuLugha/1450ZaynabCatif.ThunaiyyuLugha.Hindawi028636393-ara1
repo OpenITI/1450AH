@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZaynabCatif.ThunaiyyuLugha.Hindawi28636393",
-    "BookCats": "social.sciences",
-    "BookID": "28636393",
-    "BookTitle": "ثنائيو اللغة",
-    "AuthorID": "19753130",
-    "AuthorNam": "فرانسوا جروجون",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "58038048",
-    "TranslNam": "زينب عاطف",
-    "BookRel": "1450FrancoisGrosjean.LifeWithTwoLanguages (TRANSL)"
-}
-
+#META# URI: 1450ZaynabCatif.ThunaiyyuLugha.Hindawi28636393
+#META# Tags: social.sciences
+#META# ID: 28636393
+#META# Title: ثنائيو اللغة
+#META# AuthorID: 19753130
+#META# Author: فرانسوا جروجون
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 58038048
+#META# Translator: زينب عاطف
+#META# Related_books: 1450FrancoisGrosjean.LifeWithTwoLanguages (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AmiraCaliCabdSaduq.HindusiyyaMuqaddimaQasira.Hindawi42747920",
-    "BookCats": "philosophy",
-    "BookID": "42747920",
-    "BookTitle": "الهندوسية: مقدمة قصيرة جدًّا",
-    "AuthorID": "28136141",
-    "AuthorNam": "كيم نوت",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "27426846",
-    "TranslNam": "أميرة علي عبد الصادق",
-    "BookRel": "1450KimKnott.HinduismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450AmiraCaliCabdSaduq.HindusiyyaMuqaddimaQasira.Hindawi42747920
+#META# Tags: philosophy
+#META# ID: 42747920
+#META# Title: الهندوسية: مقدمة قصيرة جدًّا
+#META# AuthorID: 28136141
+#META# Author: كيم نوت
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 27426846
+#META# Translator: أميرة علي عبد الصادق
+#META# Related_books: 1450KimKnott.HinduismShortIntro (TRANSL)
 
 #META#Header#End#
 

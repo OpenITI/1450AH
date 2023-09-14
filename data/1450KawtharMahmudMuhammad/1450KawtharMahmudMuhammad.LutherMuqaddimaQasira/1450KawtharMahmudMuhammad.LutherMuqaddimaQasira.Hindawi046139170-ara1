@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450KawtharMahmudMuhammad.LutherMuqaddimaQasira.Hindawi46139170",
-    "BookCats": "biographies",
-    "BookID": "46139170",
-    "BookTitle": "مارتن لوثر: مقدمة قصيرة جدًّا",
-    "AuthorID": "35862919",
-    "AuthorNam": "سكوت إتش هندريكس",
-    "EditorID": "46097241",
-    "EditorNam": "هبة عبد العزيز غانم",
-    "TranslID": "73037135",
-    "TranslNam": "كوثر محمود محمد",
-    "BookRel": "1450ScottHHendrix.LutherShortIntro (TRANSL)"
-}
-
+#META# URI: 1450KawtharMahmudMuhammad.LutherMuqaddimaQasira.Hindawi46139170
+#META# Tags: biographies
+#META# ID: 46139170
+#META# Title: مارتن لوثر: مقدمة قصيرة جدًّا
+#META# AuthorID: 35862919
+#META# Author: سكوت إتش هندريكس
+#META# EditorID: 46097241
+#META# Editor: هبة عبد العزيز غانم
+#META# TranslatorID: 73037135
+#META# Translator: كوثر محمود محمد
+#META# Related_books: 1450ScottHHendrix.LutherShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.NidaHaqiqa.Hindawi18140352",
-    "BookCats": "philosophy",
-    "BookID": "18140352",
-    "BookTitle": "نداء الحقيقة: مع ثلاثة نصوص عن الحقيقة لهيدجر",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي #دراسة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1396Heidegger (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.NidaHaqiqa.Hindawi18140352
+#META# Tags: philosophy
+#META# ID: 18140352
+#META# Title: نداء الحقيقة: مع ثلاثة نصوص عن الحقيقة لهيدجر
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي #دراسة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1396Heidegger (TRANSL)
 
 #META#Header#End#
 

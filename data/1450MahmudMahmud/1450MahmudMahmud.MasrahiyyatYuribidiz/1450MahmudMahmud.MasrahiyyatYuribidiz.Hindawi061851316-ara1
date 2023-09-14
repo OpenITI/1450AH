@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.MasrahiyyatYuribidiz.Hindawi61851316",
-    "BookCats": "plays",
-    "BookID": "61851316",
-    "BookTitle": "مسرحيات يوربديز",
-    "AuthorID": "71316163",
-    "AuthorNam": "محمود محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "0001Euripides.Masrahiyat (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.MasrahiyyatYuribidiz.Hindawi61851316
+#META# Tags: plays
+#META# ID: 61851316
+#META# Title: مسرحيات يوربديز
+#META# AuthorID: 71316163
+#META# Author: محمود محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 0001Euripides.Masrahiyat (TRANSL)
 
 #META#Header#End#
 

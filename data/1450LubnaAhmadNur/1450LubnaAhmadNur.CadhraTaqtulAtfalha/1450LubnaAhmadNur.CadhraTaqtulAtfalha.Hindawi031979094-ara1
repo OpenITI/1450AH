@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450LubnaAhmadNur.CadhraTaqtulAtfalha.Hindawi31979094",
-    "BookCats": "poetry",
-    "BookID": "31979094",
-    "BookTitle": "العذراء تقتل أطفالها",
-    "AuthorID": "97536146",
-    "AuthorNam": "لبنى أحمد نور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450LubnaAhmadNur.CadhraTaqtulAtfalha.Hindawi31979094
+#META# Tags: poetry
+#META# ID: 31979094
+#META# Title: العذراء تقتل أطفالها
+#META# AuthorID: 97536146
+#META# Author: لبنى أحمد نور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

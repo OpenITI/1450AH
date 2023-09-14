@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.RomeoWaJuliet.Hindawi52807474",
-    "BookCats": "plays",
-    "BookID": "52807474",
-    "BookTitle": "روميو وجوليت",
-    "AuthorID": "51483537",
-    "AuthorNam": "وليم شيكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1024WilliamShakespeare.RomeoJuliet (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.RomeoWaJuliet.Hindawi52807474
+#META# Tags: plays
+#META# ID: 52807474
+#META# Title: روميو وجوليت
+#META# AuthorID: 51483537
+#META# Author: وليم شيكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1024WilliamShakespeare.RomeoJuliet (TRANSL)
 
 #META#Header#End#
 

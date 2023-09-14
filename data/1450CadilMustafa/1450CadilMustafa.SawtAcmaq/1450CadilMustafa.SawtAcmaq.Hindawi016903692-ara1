@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.SawtAcmaq.Hindawi16903692",
-    "BookCats": "philosophy",
-    "BookID": "16903692",
-    "BookTitle": "صوت الأعماق: قراءات ودراسات في الفلسفة والنفس",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.SawtAcmaq.Hindawi16903692
+#META# Tags: philosophy
+#META# ID: 16903692
+#META# Title: صوت الأعماق: قراءات ودراسات في الفلسفة والنفس
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

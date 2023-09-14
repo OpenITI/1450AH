@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NirminSharqawi.TathirLutus.Hindawi71409391",
-    "BookCats": "novels",
-    "BookID": "71409391",
-    "BookTitle": "تأثير اللوتس: رواية عن جزيئات النانو في أبحاث الطب الحيوي",
-    "AuthorID": "79463915",
-    "AuthorNam": "أنتونيا فيرينباخ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "74695058",
-    "TranslNam": "نيرمين الشرقاوي",
-    "BookRel": "1450AntoniaFehrenbach.DerLotusEffekt (TRANSL)"
-}
-
+#META# URI: 1450NirminSharqawi.TathirLutus.Hindawi71409391
+#META# Tags: novels
+#META# ID: 71409391
+#META# Title: تأثير اللوتس: رواية عن جزيئات النانو في أبحاث الطب الحيوي
+#META# AuthorID: 79463915
+#META# Author: أنتونيا فيرينباخ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 74695058
+#META# Translator: نيرمين الشرقاوي
+#META# Related_books: 1450AntoniaFehrenbach.DerLotusEffekt (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NajlaLutfi.IlaAbi.Hindawi84707240",
-    "BookCats": "novels",
-    "BookID": "84707240",
-    "BookTitle": "إلى أبي",
-    "AuthorID": "41318319",
-    "AuthorNam": "نجلاء لطفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450NajlaLutfi.IlaAbi.Hindawi84707240
+#META# Tags: novels
+#META# ID: 84707240
+#META# Title: إلى أبي
+#META# AuthorID: 41318319
+#META# Author: نجلاء لطفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

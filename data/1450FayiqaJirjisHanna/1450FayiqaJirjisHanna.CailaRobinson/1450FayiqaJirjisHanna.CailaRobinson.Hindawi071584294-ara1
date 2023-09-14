@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.CailaRobinson.Hindawi71584294",
-    "BookCats": "literature",
-    "BookID": "71584294",
-    "BookTitle": "عائلة روبنسون السويسرية",
-    "AuthorID": "53928627",
-    "AuthorNam": "يوهان ديفيد فيس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1233JohannDavidWyss.SchweizerFamilieRobinson (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.CailaRobinson.Hindawi71584294
+#META# Tags: literature
+#META# ID: 71584294
+#META# Title: عائلة روبنسون السويسرية
+#META# AuthorID: 53928627
+#META# Author: يوهان ديفيد فيس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1233JohannDavidWyss.SchweizerFamilieRobinson (TRANSL)
 
 #META#Header#End#
 

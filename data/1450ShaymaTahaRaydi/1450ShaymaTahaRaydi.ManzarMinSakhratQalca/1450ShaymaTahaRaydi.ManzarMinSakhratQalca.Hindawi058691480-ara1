@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.ManzarMinSakhratQalca.Hindawi58691480",
-    "BookCats": "literature",
-    "BookID": "58691480",
-    "BookTitle": "المنظر من صخرة القلعة",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "72975737 :: 81305726",
-    "TranslNam": "شيماء طه الريدي :: محمد  جبريل زناتي",
-    "BookRel": "1450AliceMunro.ViewFromCastleRock (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.ManzarMinSakhratQalca.Hindawi58691480
+#META# Tags: literature
+#META# ID: 58691480
+#META# Title: المنظر من صخرة القلعة
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 72975737 :: 81305726
+#META# Translator: شيماء طه الريدي :: محمد  جبريل زناتي
+#META# Related_books: 1450AliceMunro.ViewFromCastleRock (TRANSL)
 
 #META#Header#End#
 

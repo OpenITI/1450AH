@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CumarMajid.FalsafatCilmAhyaMuqqadimaQasira.Hindawi41750246",
-    "BookCats": "philosophy",
-    "BookID": "41750246",
-    "BookTitle": "فلسفة علم الأحياء: مقدمة قصيرة جدًّا",
-    "AuthorID": "70618613",
-    "AuthorNam": "سمير عكاشة",
-    "EditorID": "86936095",
-    "EditorNam": "سارة ياقوت",
-    "TranslID": "50696031",
-    "TranslNam": "عمر ماجد",
-    "BookRel": "1450SamirOkasha.HistoryOfScienceShortIntro.Book (TRANSL)"
-}
-
+#META# URI: 1450CumarMajid.FalsafatCilmAhyaMuqqadimaQasira.Hindawi41750246
+#META# Tags: philosophy
+#META# ID: 41750246
+#META# Title: فلسفة علم الأحياء: مقدمة قصيرة جدًّا
+#META# AuthorID: 70618613
+#META# Author: سمير عكاشة
+#META# EditorID: 86936095
+#META# Editor: سارة ياقوت
+#META# TranslatorID: 50696031
+#META# Translator: عمر ماجد
+#META# Related_books: 1450SamirOkasha.HistoryOfScienceShortIntro.Book (TRANSL)
 
 #META#Header#End#
 

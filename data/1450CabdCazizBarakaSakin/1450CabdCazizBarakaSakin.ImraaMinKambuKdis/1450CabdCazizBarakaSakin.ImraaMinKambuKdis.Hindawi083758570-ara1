@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.ImraaMinKambuKdis.Hindawi83758570",
-    "BookCats": "literature",
-    "BookID": "83758570",
-    "BookTitle": "امرأة من كمبو كديس",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.ImraaMinKambuKdis.Hindawi83758570
+#META# Tags: literature
+#META# ID: 83758570
+#META# Title: امرأة من كمبو كديس
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.FalsafaIngliziyyaFiMiatCam01.Hindawi25747374",
-    "BookCats": "philosophy",
-    "BookID": "25747374",
-    "BookTitle": "الفلسفة الإنجليزية في مائة عام (الجزء الأول)",
-    "AuthorID": "46481903",
-    "AuthorNam": "رودلف متس",
-    "EditorID": "64904748",
-    "EditorNam": "زكي نجيب محمود",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1363RudolfMetz.HundredYearsEnglishPhilosophy (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.FalsafaIngliziyyaFiMiatCam01.Hindawi25747374
+#META# Tags: philosophy
+#META# ID: 25747374
+#META# Title: الفلسفة الإنجليزية في مائة عام (الجزء الأول)
+#META# AuthorID: 46481903
+#META# Author: رودلف متس
+#META# EditorID: 64904748
+#META# Editor: زكي نجيب محمود
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1363RudolfMetz.HundredYearsEnglishPhilosophy (TRANSL)
 
 #META#Header#End#
 

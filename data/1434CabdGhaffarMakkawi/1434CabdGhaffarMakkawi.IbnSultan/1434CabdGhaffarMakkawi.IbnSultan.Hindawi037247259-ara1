@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.IbnSultan.Hindawi37247259",
-    "BookCats": "novels",
-    "BookID": "37247259",
-    "BookTitle": "ابن السلطان: وقصص أخرى",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.IbnSultan.Hindawi37247259
+#META# Tags: novels
+#META# ID: 37247259
+#META# Title: ابن السلطان: وقصص أخرى
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

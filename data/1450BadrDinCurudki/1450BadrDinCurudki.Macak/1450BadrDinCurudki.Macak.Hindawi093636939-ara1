@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450BadrDinCurudki.Macak.Hindawi93636939",
-    "BookCats": "biographies",
-    "BookID": "93636939",
-    "BookTitle": "مَعَك",
-    "AuthorID": "74097968",
-    "AuthorNam": "سوزان طه حسين",
-    "EditorID": "73580971",
-    "EditorNam": "محمود أمين العالم",
-    "TranslID": "75153159",
-    "TranslNam": "بدر الدين عرودكي",
-    "BookRel": "1409SusanneTahaHussayn.AvecToi (TRANSL)"
-}
-
+#META# URI: 1450BadrDinCurudki.Macak.Hindawi93636939
+#META# Tags: biographies
+#META# ID: 93636939
+#META# Title: مَعَك
+#META# AuthorID: 74097968
+#META# Author: سوزان طه حسين
+#META# EditorID: 73580971
+#META# Editor: محمود أمين العالم
+#META# TranslatorID: 75153159
+#META# Translator: بدر الدين عرودكي
+#META# Related_books: 1409SusanneTahaHussayn.AvecToi (TRANSL)
 
 #META#Header#End#
 

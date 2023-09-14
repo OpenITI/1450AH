@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.TariqIkhwanSafa.Hindawi50597179",
-    "BookCats": "philosophy",
-    "BookID": "50597179",
-    "BookTitle": "طريق إخوان الصفا: المدخل إلى الغنوصية الإسلامية",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.TariqIkhwanSafa.Hindawi50597179
+#META# Tags: philosophy
+#META# ID: 50597179
+#META# Title: طريق إخوان الصفا: المدخل إلى الغنوصية الإسلامية
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

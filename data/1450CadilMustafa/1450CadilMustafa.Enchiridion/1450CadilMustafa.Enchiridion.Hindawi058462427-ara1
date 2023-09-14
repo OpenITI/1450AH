@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.Enchiridion.Hindawi58462427",
-    "BookCats": "philosophy",
-    "BookID": "58462427",
-    "BookTitle": "المختصَر",
-    "AuthorID": "46820825 :: 24079572",
-    "AuthorNam": "إبكتيتوس :: عادل مصطفى #دراسة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "0001Epictetus.Enchiridion (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.Enchiridion.Hindawi58462427
+#META# Tags: philosophy
+#META# ID: 58462427
+#META# Title: المختصَر
+#META# AuthorID: 46820825 :: 24079572
+#META# Author: إبكتيتوس :: عادل مصطفى #دراسة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 0001Epictetus.Enchiridion (TRANSL)
 
 #META#Header#End#
 

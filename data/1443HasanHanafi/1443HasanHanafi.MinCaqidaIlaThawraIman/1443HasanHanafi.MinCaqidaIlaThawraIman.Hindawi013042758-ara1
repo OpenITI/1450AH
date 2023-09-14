@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.MinCaqidaIlaThawraIman.Hindawi13042758",
-    "BookCats": "philosophy",
-    "BookID": "13042758",
-    "BookTitle": "من العقيدة  إلى الثورة (٥): الإيمان والعمل - الإمامة",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.MinCaqidaIlaThawraIman.Hindawi13042758
+#META# Tags: philosophy
+#META# ID: 13042758
+#META# Title: من العقيدة  إلى الثورة (٥): الإيمان والعمل - الإمامة
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

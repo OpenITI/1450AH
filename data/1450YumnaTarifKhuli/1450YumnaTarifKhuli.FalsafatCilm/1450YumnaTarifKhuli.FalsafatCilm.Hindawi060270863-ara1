@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.FalsafatCilm.Hindawi60270863",
-    "BookCats": "philosophy",
-    "BookID": "60270863",
-    "BookTitle": "فلسفة العلم في القرن العشرين: الأصول – الحصاد – الآفاق المستقبلية",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.FalsafatCilm.Hindawi60270863
+#META# Tags: philosophy
+#META# ID: 60270863
+#META# Title: فلسفة العلم في القرن العشرين: الأصول – الحصاد – الآفاق المستقبلية
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

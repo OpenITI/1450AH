@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudHadiya.IqtisadNasij.Hindawi52829692",
-    "BookCats": "history",
-    "BookID": "52829692",
-    "BookTitle": "اقتصاد النسيج في الغرب الإسلامي في العصر الوسيط",
-    "AuthorID": "31619616",
-    "AuthorNam": "محمود هدية",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahmudHadiya.IqtisadNasij.Hindawi52829692
+#META# Tags: history
+#META# ID: 52829692
+#META# Title: اقتصاد النسيج في الغرب الإسلامي في العصر الوسيط
+#META# AuthorID: 31619616
+#META# Author: محمود هدية
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1430MuhammadMuhammadMuhsin.LayaliCanqa.Hindawi24795152",
-    "BookCats": "poetry",
-    "BookID": "24795152",
-    "BookTitle": "ليالي العنقاء",
-    "AuthorID": "24829517",
-    "AuthorNam": "محمد محسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1430MuhammadMuhammadMuhsin.LayaliCanqa.Hindawi24795152
+#META# Tags: poetry
+#META# ID: 24795152
+#META# Title: ليالي العنقاء
+#META# AuthorID: 24829517
+#META# Author: محمد محسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.HikayatAysub.Hindawi96318248",
-    "BookCats": "children.stories",
-    "BookID": "96318248",
-    "BookTitle": "حِكَايَاتُ إِيسُوب",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "0001Aesop.Fables (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.HikayatAysub.Hindawi96318248
+#META# Tags: children.stories
+#META# ID: 96318248
+#META# Title: حِكَايَاتُ إِيسُوب
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 0001Aesop.Fables (TRANSL)
 
 #META#Header#End#
 

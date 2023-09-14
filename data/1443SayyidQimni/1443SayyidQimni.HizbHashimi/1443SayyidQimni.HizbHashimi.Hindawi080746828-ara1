@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.HizbHashimi.Hindawi80746828",
-    "BookCats": "history",
-    "BookID": "80746828",
-    "BookTitle": "الحزب الهاشمي وتأسيس الدولة الإسلامية",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.HizbHashimi.Hindawi80746828
+#META# Tags: history
+#META# ID: 80746828
+#META# Title: الحزب الهاشمي وتأسيس الدولة الإسلامية
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

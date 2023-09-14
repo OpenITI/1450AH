@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.CawdatMawtAswad.Hindawi60284826",
-    "BookCats": "history",
-    "BookID": "60284826",
-    "BookTitle": "عودة الموت الأسود: أخطر قاتل على مر العصور",
-    "AuthorID": "46909074 :: 68074142",
-    "AuthorNam": "سوزان سكوت :: كريستوفر دنكان",
-    "EditorID": "29797462 :: 75847252",
-    "EditorNam": "هاني فتحي سليمان :: سارة عادل",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1450SusanScott.ReturnOfBlackDeath (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.CawdatMawtAswad.Hindawi60284826
+#META# Tags: history
+#META# ID: 60284826
+#META# Title: عودة الموت الأسود: أخطر قاتل على مر العصور
+#META# AuthorID: 46909074 :: 68074142
+#META# Author: سوزان سكوت :: كريستوفر دنكان
+#META# EditorID: 29797462 :: 75847252
+#META# Editor: هاني فتحي سليمان :: سارة عادل
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1450SusanScott.ReturnOfBlackDeath (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.AfkarWaRijal.Hindawi49271737",
-    "BookCats": "philosophy",
-    "BookID": "49271737",
-    "BookTitle": "أفكار ورجال: قصة الفكر الغربي",
-    "AuthorID": "64693936",
-    "AuthorNam": "كرين برنتن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1388CraneBrinton.IdeasAndMen (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.AfkarWaRijal.Hindawi49271737
+#META# Tags: philosophy
+#META# ID: 49271737
+#META# Title: أفكار ورجال: قصة الفكر الغربي
+#META# AuthorID: 64693936
+#META# Author: كرين برنتن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1388CraneBrinton.IdeasAndMen (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CatiyatAbuSucud.MadinaFadilaCabrTarikh.Hindawi51584158",
-    "BookCats": "philosophy",
-    "BookID": "51584158",
-    "BookTitle": "المدينة الفاضلة عبر التاريخ",
-    "AuthorID": "38058085",
-    "AuthorNam": "ماريا لويزا برنيري",
-    "EditorID": "46308160",
-    "EditorNam": "عبد الغفار مكاوي",
-    "TranslID": "75058162",
-    "TranslNam": "عطيات أبو السعود",
-    "BookRel": "1368MarieLouiseBerneri.JourneyThroughUtopia (TRANSL)"
-}
-
+#META# URI: 1450CatiyatAbuSucud.MadinaFadilaCabrTarikh.Hindawi51584158
+#META# Tags: philosophy
+#META# ID: 51584158
+#META# Title: المدينة الفاضلة عبر التاريخ
+#META# AuthorID: 38058085
+#META# Author: ماريا لويزا برنيري
+#META# EditorID: 46308160
+#META# Editor: عبد الغفار مكاوي
+#META# TranslatorID: 75058162
+#META# Translator: عطيات أبو السعود
+#META# Related_books: 1368MarieLouiseBerneri.JourneyThroughUtopia (TRANSL)
 
 #META#Header#End#
 

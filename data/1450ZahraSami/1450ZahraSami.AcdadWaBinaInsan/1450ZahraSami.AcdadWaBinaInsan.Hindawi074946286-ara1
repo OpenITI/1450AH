@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZahraSami.AcdadWaBinaInsan.Hindawi74946286",
-    "BookCats": "linguistics",
-    "BookID": "74946286",
-    "BookTitle": "الأعداد وبناء الإنسان: العد ومسار الحضارات الإنسانية",
-    "AuthorID": "16251950",
-    "AuthorNam": "كيليب إفريت",
-    "EditorID": "46097241",
-    "EditorNam": "هبة عبد العزيز غانم",
-    "TranslID": "83840647",
-    "TranslNam": "الزهراء سامي",
-    "BookRel": "1450CalebEverett.NumbersMakingUs (TRANSL)"
-}
-
+#META# URI: 1450ZahraSami.AcdadWaBinaInsan.Hindawi74946286
+#META# Tags: linguistics
+#META# ID: 74946286
+#META# Title: الأعداد وبناء الإنسان: العد ومسار الحضارات الإنسانية
+#META# AuthorID: 16251950
+#META# Author: كيليب إفريت
+#META# EditorID: 46097241
+#META# Editor: هبة عبد العزيز غانم
+#META# TranslatorID: 83840647
+#META# Translator: الزهراء سامي
+#META# Related_books: 1450CalebEverett.NumbersMakingUs (TRANSL)
 
 #META#Header#End#
 

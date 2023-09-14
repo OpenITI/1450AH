@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuncAllahIbrahim.TajribaUnthawiyya.Hindawi86168075",
-    "BookCats": "literature",
-    "BookID": "86168075",
-    "BookTitle": "التجربة الأنثوية: مختارات من الأدب النسائي العالمي",
-    "AuthorID": "17162047",
-    "AuthorNam": "صنع الله إبراهيم #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SuncAllahIbrahim.TajribaUnthawiyya.Hindawi86168075
+#META# Tags: literature
+#META# ID: 86168075
+#META# Title: التجربة الأنثوية: مختارات من الأدب النسائي العالمي
+#META# AuthorID: 17162047
+#META# Author: صنع الله إبراهيم #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

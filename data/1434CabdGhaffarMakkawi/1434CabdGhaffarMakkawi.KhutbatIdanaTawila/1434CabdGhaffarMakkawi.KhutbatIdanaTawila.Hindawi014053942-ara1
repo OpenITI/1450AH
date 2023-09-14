@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.KhutbatIdanaTawila.Hindawi14053942",
-    "BookCats": "plays",
-    "BookID": "14053942",
-    "BookTitle": "خطبة الإدانة الطويلة عند سور المدينة وفرناندو كراب أرسل إليَّ هذا الخطاب",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.KhutbatIdanaTawila.Hindawi14053942
+#META# Tags: plays
+#META# ID: 14053942
+#META# Title: خطبة الإدانة الطويلة عند سور المدينة وفرناندو كراب أرسل إليَّ هذا الخطاب
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

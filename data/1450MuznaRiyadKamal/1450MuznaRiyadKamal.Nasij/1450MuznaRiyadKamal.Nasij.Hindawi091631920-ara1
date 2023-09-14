@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuznaRiyadKamal.Nasij.Hindawi91631920",
-    "BookCats": "novels",
-    "BookID": "91631920",
-    "BookTitle": "نسيج",
-    "AuthorID": "30284751",
-    "AuthorNam": "مُزنة رياض كمال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuznaRiyadKamal.Nasij.Hindawi91631920
+#META# Tags: novels
+#META# ID: 91631920
+#META# Title: نسيج
+#META# AuthorID: 30284751
+#META# Author: مُزنة رياض كمال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuminMahmudRamadanAhmad.AlbertCamusMuqaddimaQasira.Hindawi31607195",
-    "BookCats": "philosophy :: biographies",
-    "BookID": "31607195",
-    "BookTitle": "ألبير كامو: مقدمة قصيرة جدًّا",
-    "AuthorID": "31947058",
-    "AuthorNam": "أوليفر جلوج",
-    "EditorID": "73637907",
-    "EditorNam": "عبد الفتاح عبد الله",
-    "TranslID": "97024913",
-    "TranslNam": "مؤمن محمود رمضان أحمد",
-    "BookRel": "1450OliverGlaug.AlbertCamusShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuminMahmudRamadanAhmad.AlbertCamusMuqaddimaQasira.Hindawi31607195
+#META# Tags: philosophy :: biographies
+#META# ID: 31607195
+#META# Title: ألبير كامو: مقدمة قصيرة جدًّا
+#META# AuthorID: 31947058
+#META# Author: أوليفر جلوج
+#META# EditorID: 73637907
+#META# Editor: عبد الفتاح عبد الله
+#META# TranslatorID: 97024913
+#META# Translator: مؤمن محمود رمضان أحمد
+#META# Related_books: 1450OliverGlaug.AlbertCamusShortIntro (TRANSL)
 
 #META#Header#End#
 

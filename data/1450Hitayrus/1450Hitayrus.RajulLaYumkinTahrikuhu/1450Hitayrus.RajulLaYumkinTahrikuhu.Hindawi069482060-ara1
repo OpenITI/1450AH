@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450Hitayrus.RajulLaYumkinTahrikuhu.Hindawi69482060",
-    "BookCats": "novels",
-    "BookID": "69482060",
-    "BookTitle": "الرجل الذي لا يمكن تحريكه",
-    "AuthorID": "19419242",
-    "AuthorNam": "هيتايروس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450Hitayrus.RajulLaYumkinTahrikuhu.Hindawi69482060
+#META# Tags: novels
+#META# ID: 69482060
+#META# Title: الرجل الذي لا يمكن تحريكه
+#META# AuthorID: 19419242
+#META# Author: هيتايروس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

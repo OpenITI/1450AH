@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.QissatKhalq.Hindawi73626284",
-    "BookCats": "history",
-    "BookID": "73626284",
-    "BookTitle": "قصة الخلق: منابع سفر التكوين",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.QissatKhalq.Hindawi73626284
+#META# Tags: history
+#META# ID: 73626284
+#META# Title: قصة الخلق: منابع سفر التكوين
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

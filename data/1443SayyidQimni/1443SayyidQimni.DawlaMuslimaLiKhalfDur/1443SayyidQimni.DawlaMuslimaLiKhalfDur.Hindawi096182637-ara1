@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.DawlaMuslimaLiKhalfDur.Hindawi96182637",
-    "BookCats": "history",
-    "BookID": "96182637",
-    "BookTitle": "الدولة المسلمة للخلف دُر",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.DawlaMuslimaLiKhalfDur.Hindawi96182637
+#META# Tags: history
+#META# ID: 96182637
+#META# Title: الدولة المسلمة للخلف دُر
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

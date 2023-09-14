@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AnwarIbrahim.NisaFiHayatDustuyivski.Hindawi95190363",
-    "BookCats": "biographies",
-    "BookID": "95190363",
-    "BookTitle": "نساء في حياة دستويفسكي",
-    "AuthorID": "50258407",
-    "AuthorNam": "ليونيد جروسمان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "82403864",
-    "TranslNam": "أنور إبراهيم",
-    "BookRel": "1385LeonidGrossman (TRANSL)"
-}
-
+#META# URI: 1450AnwarIbrahim.NisaFiHayatDustuyivski.Hindawi95190363
+#META# Tags: biographies
+#META# ID: 95190363
+#META# Title: نساء في حياة دستويفسكي
+#META# AuthorID: 50258407
+#META# Author: ليونيد جروسمان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 82403864
+#META# Translator: أنور إبراهيم
+#META# Related_books: 1385LeonidGrossman (TRANSL)
 
 #META#Header#End#
 

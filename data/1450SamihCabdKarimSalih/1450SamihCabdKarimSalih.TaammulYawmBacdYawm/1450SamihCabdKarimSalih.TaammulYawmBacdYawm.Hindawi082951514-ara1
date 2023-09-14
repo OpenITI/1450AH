@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SamihCabdKarimSalih.TaammulYawmBacdYawm.Hindawi82951514",
-    "BookCats": "arts",
-    "BookID": "82951514",
-    "BookTitle": "تأمَّل يومًا بعد يوم: ٢٥ درسًا للعيش بوعي كامل",
-    "AuthorID": "59279313",
-    "AuthorNam": "كريستوف أندريه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "15869491",
-    "TranslNam": "سامح عبد الكريم صالح",
-    "BookRel": "1450ChristopheAndre.MediterJourApresJour (TRANSL)"
-}
-
+#META# URI: 1450SamihCabdKarimSalih.TaammulYawmBacdYawm.Hindawi82951514
+#META# Tags: arts
+#META# ID: 82951514
+#META# Title: تأمَّل يومًا بعد يوم: ٢٥ درسًا للعيش بوعي كامل
+#META# AuthorID: 59279313
+#META# Author: كريستوف أندريه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 15869491
+#META# Translator: سامح عبد الكريم صالح
+#META# Related_books: 1450ChristopheAndre.MediterJourApresJour (TRANSL)
 
 #META#Header#End#
 

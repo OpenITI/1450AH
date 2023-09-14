@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadHadari.FarFiMataha.Hindawi29203637",
-    "BookCats": "literature",
-    "BookID": "29203637",
-    "BookTitle": "الفأر في المتاهة",
-    "AuthorID": "36086813",
-    "AuthorNam": "أحمد ع. الحضري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450AhmadHadari.FarFiMataha.Hindawi29203637
+#META# Tags: literature
+#META# ID: 29203637
+#META# Title: الفأر في المتاهة
+#META# AuthorID: 36086813
+#META# Author: أحمد ع. الحضري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

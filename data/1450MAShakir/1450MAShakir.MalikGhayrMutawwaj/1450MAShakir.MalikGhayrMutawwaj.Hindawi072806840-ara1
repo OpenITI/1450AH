@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MAShakir.MalikGhayrMutawwaj.Hindawi72806840",
-    "BookCats": "novels",
-    "BookID": "72806840",
-    "BookTitle": "ملك غير متوج",
-    "AuthorID": "75062806",
-    "AuthorNam": "إيما أوركزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "63795171",
-    "TranslNam": "م. أ. شاكر",
-    "BookRel": "1366EmmaOrczy.UncrownedKing (TRANSL)"
-}
-
+#META# URI: 1450MAShakir.MalikGhayrMutawwaj.Hindawi72806840
+#META# Tags: novels
+#META# ID: 72806840
+#META# Title: ملك غير متوج
+#META# AuthorID: 75062806
+#META# Author: إيما أوركزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 63795171
+#META# Translator: م. أ. شاكر
+#META# Related_books: 1366EmmaOrczy.UncrownedKing (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMahmud.Madaniyya.Hindawi82461796",
-    "BookCats": "philosophy",
-    "BookID": "82461796",
-    "BookTitle": "المدنية",
-    "AuthorID": "46850295",
-    "AuthorNam": "كلايف بل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71316163",
-    "TranslNam": "محمود محمود",
-    "BookRel": "1384CliveBell.Civilization (TRANSL)"
-}
-
+#META# URI: 1450MahmudMahmud.Madaniyya.Hindawi82461796
+#META# Tags: philosophy
+#META# ID: 82461796
+#META# Title: المدنية
+#META# AuthorID: 46850295
+#META# Author: كلايف بل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71316163
+#META# Translator: محمود محمود
+#META# Related_books: 1384CliveBell.Civilization (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450RihabSalahDin.MachiavelliMuqaddimaQasira.Hindawi85095829",
-    "BookCats": "biographies",
-    "BookID": "85095829",
-    "BookTitle": "مكيافيللي: مقدمة قصيرة جدًّا",
-    "AuthorID": "52419186",
-    "AuthorNam": "كوينتن سكينر",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "39241484",
-    "TranslNam": "رحاب صلاح الدين",
-    "BookRel": "1450QuentinSkinner.MachiavelliShortIntro (TRANSL)"
-}
-
+#META# URI: 1450RihabSalahDin.MachiavelliMuqaddimaQasira.Hindawi85095829
+#META# Tags: biographies
+#META# ID: 85095829
+#META# Title: مكيافيللي: مقدمة قصيرة جدًّا
+#META# AuthorID: 52419186
+#META# Author: كوينتن سكينر
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 39241484
+#META# Translator: رحاب صلاح الدين
+#META# Related_books: 1450QuentinSkinner.MachiavelliShortIntro (TRANSL)
 
 #META#Header#End#
 

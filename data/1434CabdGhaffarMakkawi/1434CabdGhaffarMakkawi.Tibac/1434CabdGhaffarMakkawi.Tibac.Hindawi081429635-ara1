@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Tibac.Hindawi81429635",
-    "BookCats": "philosophy",
-    "BookID": "81429635",
-    "BookTitle": "كتاب الطباع",
-    "AuthorID": "47052524",
-    "AuthorNam": "ثيوفراسط",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "0001Theophrastus.MetaTaPhysika (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Tibac.Hindawi81429635
+#META# Tags: philosophy
+#META# ID: 81429635
+#META# Title: كتاب الطباع
+#META# AuthorID: 47052524
+#META# Author: ثيوفراسط
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 0001Theophrastus.MetaTaPhysika (TRANSL)
 
 #META#Header#End#
 

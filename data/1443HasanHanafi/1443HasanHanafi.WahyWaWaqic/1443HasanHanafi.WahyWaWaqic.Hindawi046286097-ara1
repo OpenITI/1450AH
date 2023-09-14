@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.WahyWaWaqic.Hindawi46286097",
-    "BookCats": "philosophy",
-    "BookID": "46286097",
-    "BookTitle": "الوحي والواقع: تحليل المضمون",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.WahyWaWaqic.Hindawi46286097
+#META# Tags: philosophy
+#META# ID: 46286097
+#META# Title: الوحي والواقع: تحليل المضمون
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizAminKhanji.ShahiratNisaFiCalamIslami.Hindawi93681649",
-    "BookCats": "biographies",
-    "BookID": "93681649",
-    "BookTitle": "شهيرات النساء في العالم الإسلامي",
-    "AuthorID": "47960284",
-    "AuthorNam": "قدرية حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "35930479",
-    "TranslNam": "عبد العزيز أمين الخانجي",
-    "BookRel": "1374QadriyyaHusayn (TRANSL)"
-}
-
+#META# URI: 1450CabdCazizAminKhanji.ShahiratNisaFiCalamIslami.Hindawi93681649
+#META# Tags: biographies
+#META# ID: 93681649
+#META# Title: شهيرات النساء في العالم الإسلامي
+#META# AuthorID: 47960284
+#META# Author: قدرية حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 35930479
+#META# Translator: عبد العزيز أمين الخانجي
+#META# Related_books: 1374QadriyyaHusayn (TRANSL)
 
 #META#Header#End#
 

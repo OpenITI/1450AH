@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasirHasan.KhususiyyaMuqaddimaQasira.Hindawi59624090",
-    "BookCats": "philosophy",
-    "BookID": "59624090",
-    "BookTitle": "الخصوصية: مقدمة قصيرة جدًّا",
-    "AuthorID": "18037259",
-    "AuthorNam": "ريموند واكس",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "58205826",
-    "TranslNam": "ياسر حسن",
-    "BookRel": "1450RaymondWacks.PrivacyShortIntro (TRANSL)"
-}
-
+#META# URI: 1450YasirHasan.KhususiyyaMuqaddimaQasira.Hindawi59624090
+#META# Tags: philosophy
+#META# ID: 59624090
+#META# Title: الخصوصية: مقدمة قصيرة جدًّا
+#META# AuthorID: 18037259
+#META# Author: ريموند واكس
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 58205826
+#META# Translator: ياسر حسن
+#META# Related_books: 1450RaymondWacks.PrivacyShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.TacbirMusiqi.Hindawi53972717",
-    "BookCats": "arts",
-    "BookID": "53972717",
-    "BookTitle": "التعبير الموسيقي",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.TacbirMusiqi.Hindawi53972717
+#META# Tags: arts
+#META# ID: 53972717
+#META# Title: التعبير الموسيقي
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

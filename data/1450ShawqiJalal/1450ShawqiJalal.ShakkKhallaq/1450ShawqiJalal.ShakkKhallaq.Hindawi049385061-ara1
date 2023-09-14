@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShawqiJalal.ShakkKhallaq.Hindawi49385061",
-    "BookCats": "philosophy",
-    "BookID": "49385061",
-    "BookTitle": "الشك الخلاق: في حوار مع السلف",
-    "AuthorID": "90631535",
-    "AuthorNam": "شوقي جلال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450ShawqiJalal.ShakkKhallaq.Hindawi49385061
+#META# Tags: philosophy
+#META# ID: 49385061
+#META# Title: الشك الخلاق: في حوار مع السلف
+#META# AuthorID: 90631535
+#META# Author: شوقي جلال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

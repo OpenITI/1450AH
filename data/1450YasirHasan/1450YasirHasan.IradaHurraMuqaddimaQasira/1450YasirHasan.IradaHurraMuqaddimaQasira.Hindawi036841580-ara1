@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasirHasan.IradaHurraMuqaddimaQasira.Hindawi36841580",
-    "BookCats": "philosophy",
-    "BookID": "36841580",
-    "BookTitle": "الإرادة الحرة: مقدمة قصيرة جدًّا",
-    "AuthorID": "35357308",
-    "AuthorNam": "توماس بينك",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "58205826",
-    "TranslNam": "ياسر حسن",
-    "BookRel": "1450ThomasPink.FreeWillShortIntro (TRANSL)"
-}
-
+#META# URI: 1450YasirHasan.IradaHurraMuqaddimaQasira.Hindawi36841580
+#META# Tags: philosophy
+#META# ID: 36841580
+#META# Title: الإرادة الحرة: مقدمة قصيرة جدًّا
+#META# AuthorID: 35357308
+#META# Author: توماس بينك
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 58205826
+#META# Translator: ياسر حسن
+#META# Related_books: 1450ThomasPink.FreeWillShortIntro (TRANSL)
 
 #META#Header#End#
 

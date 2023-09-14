@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadQasimCariqi.YawmMatShaytan.Hindawi93136462",
-    "BookCats": "novels",
-    "BookID": "93136462",
-    "BookTitle": "يوم مات الشيطان",
-    "AuthorID": "72836424",
-    "AuthorNam": "أحمد قاسم العريقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450AhmadQasimCariqi.YawmMatShaytan.Hindawi93136462
+#META# Tags: novels
+#META# ID: 93136462
+#META# Title: يوم مات الشيطان
+#META# AuthorID: 72836424
+#META# Author: أحمد قاسم العريقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

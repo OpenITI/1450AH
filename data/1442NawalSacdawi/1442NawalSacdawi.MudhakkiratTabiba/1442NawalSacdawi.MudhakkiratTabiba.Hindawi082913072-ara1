@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.MudhakkiratTabiba.Hindawi82913072",
-    "BookCats": "novels",
-    "BookID": "82913072",
-    "BookTitle": "مذكرات طبيبة",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.MudhakkiratTabiba.Hindawi82913072
+#META# Tags: novels
+#META# ID: 82913072
+#META# Title: مذكرات طبيبة
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

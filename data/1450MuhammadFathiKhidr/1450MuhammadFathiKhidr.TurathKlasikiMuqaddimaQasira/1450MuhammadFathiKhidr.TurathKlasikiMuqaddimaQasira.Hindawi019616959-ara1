@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadFathiKhidr.TurathKlasikiMuqaddimaQasira.Hindawi19616959",
-    "BookCats": "history",
-    "BookID": "19616959",
-    "BookTitle": "التراث الكلاسيكي: مقدمة قصيرة جدًّا",
-    "AuthorID": "46051936 :: 13796902",
-    "AuthorNam": "ماري بيرد :: جون جراهام هندرسون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "18571738",
-    "TranslNam": "محمد فتحي خضر",
-    "BookRel": "1450MaryBeard.ClassicsShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadFathiKhidr.TurathKlasikiMuqaddimaQasira.Hindawi19616959
+#META# Tags: history
+#META# ID: 19616959
+#META# Title: التراث الكلاسيكي: مقدمة قصيرة جدًّا
+#META# AuthorID: 46051936 :: 13796902
+#META# Author: ماري بيرد :: جون جراهام هندرسون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 18571738
+#META# Translator: محمد فتحي خضر
+#META# Related_books: 1450MaryBeard.ClassicsShortIntro (TRANSL)
 
 #META#Header#End#
 

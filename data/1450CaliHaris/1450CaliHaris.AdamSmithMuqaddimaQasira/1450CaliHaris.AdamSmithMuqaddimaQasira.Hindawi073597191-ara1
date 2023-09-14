@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CaliHaris.AdamSmithMuqaddimaQasira.Hindawi73597191",
-    "BookCats": "biographies",
-    "BookID": "73597191",
-    "BookTitle": "آدم سميث: مقدمة موجزة",
-    "AuthorID": "36247316",
-    "AuthorNam": "إيمون باتلر",
-    "EditorID": "59292641",
-    "EditorNam": "إيمان عبد الغني نجم",
-    "TranslID": "59706202",
-    "TranslNam": "علي الحارس",
-    "BookRel": "1450ChristopherJBerry.AdamSmithShortIntro (TRANSL)"
-}
-
+#META# URI: 1450CaliHaris.AdamSmithMuqaddimaQasira.Hindawi73597191
+#META# Tags: biographies
+#META# ID: 73597191
+#META# Title: آدم سميث: مقدمة موجزة
+#META# AuthorID: 36247316
+#META# Author: إيمون باتلر
+#META# EditorID: 59292641
+#META# Editor: إيمان عبد الغني نجم
+#META# TranslatorID: 59706202
+#META# Translator: علي الحارس
+#META# Related_books: 1450ChristopherJBerry.AdamSmithShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuhaShami.CarrafatIstanbul.Hindawi72836402",
-    "BookCats": "literature",
-    "BookID": "72836402",
-    "BookTitle": "عرَّافة إسطنبول",
-    "AuthorID": "92949694",
-    "AuthorNam": "مايكل ديفيد لوكاس",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "20926903",
-    "TranslNam": "سهى الشامي",
-    "BookRel": "1450MichaelDavidLukas.OracleOfStamboul (TRANSL)"
-}
-
+#META# URI: 1450SuhaShami.CarrafatIstanbul.Hindawi72836402
+#META# Tags: literature
+#META# ID: 72836402
+#META# Title: عرَّافة إسطنبول
+#META# AuthorID: 92949694
+#META# Author: مايكل ديفيد لوكاس
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 20926903
+#META# Translator: سهى الشامي
+#META# Related_books: 1450MichaelDavidLukas.OracleOfStamboul (TRANSL)
 
 #META#Header#End#
 

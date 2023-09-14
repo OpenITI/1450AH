@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.DirasatFalsafiyyaGharbiyya.Hindawi95020529",
-    "BookCats": "philosophy",
-    "BookID": "95020529",
-    "BookTitle": "دراسات فلسفية (الجزء الثاني): في الفلسفة الغربية الحديثة والمعاصرة",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.DirasatFalsafiyyaGharbiyya.Hindawi95020529
+#META# Tags: philosophy
+#META# ID: 95020529
+#META# Title: دراسات فلسفية (الجزء الثاني): في الفلسفة الغربية الحديثة والمعاصرة
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

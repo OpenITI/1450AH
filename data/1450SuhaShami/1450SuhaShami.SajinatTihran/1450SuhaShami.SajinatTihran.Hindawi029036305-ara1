@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuhaShami.SajinatTihran.Hindawi29036305",
-    "BookCats": "biographies",
-    "BookID": "29036305",
-    "BookTitle": "سجينة طهران: قصة نجاة امرأة داخل أحد السجون الإيرانية",
-    "AuthorID": "26852930",
-    "AuthorNam": "مارينا نعمت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "20926903",
-    "TranslNam": "سهى الشامي",
-    "BookRel": "1450MarinaNemat.PrisonerOfTehran (TRANSL)"
-}
-
+#META# URI: 1450SuhaShami.SajinatTihran.Hindawi29036305
+#META# Tags: biographies
+#META# ID: 29036305
+#META# Title: سجينة طهران: قصة نجاة امرأة داخل أحد السجون الإيرانية
+#META# AuthorID: 26852930
+#META# Author: مارينا نعمت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 20926903
+#META# Translator: سهى الشامي
+#META# Related_books: 1450MarinaNemat.PrisonerOfTehran (TRANSL)
 
 #META#Header#End#
 

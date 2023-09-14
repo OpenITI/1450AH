@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.NaqlIlaIbdacCard.Hindawi57193724",
-    "BookCats": "philosophy",
-    "BookID": "57193724",
-    "BookTitle": "من النقل إلى الإبداع (المجلد الثاني التحول): (١) العرض: الجزئي والكلي – النسقي – الأدبي",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.NaqlIlaIbdacCard.Hindawi57193724
+#META# Tags: philosophy
+#META# ID: 57193724
+#META# Title: من النقل إلى الإبداع (المجلد الثاني التحول): (١) العرض: الجزئي والكلي – النسقي – الأدبي
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

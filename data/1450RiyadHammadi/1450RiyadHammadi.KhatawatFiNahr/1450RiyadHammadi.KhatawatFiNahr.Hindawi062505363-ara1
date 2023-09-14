@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450RiyadHammadi.KhatawatFiNahr.Hindawi62505363",
-    "BookCats": "literature",
-    "BookID": "62505363",
-    "BookTitle": "خطوات في النهر نفسه",
-    "AuthorID": "19315353",
-    "AuthorNam": "رياض حمَّادي‎",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450RiyadHammadi.KhatawatFiNahr.Hindawi62505363
+#META# Tags: literature
+#META# ID: 62505363
+#META# Title: خطوات في النهر نفسه
+#META# AuthorID: 19315353
+#META# Author: رياض حمَّادي‎
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

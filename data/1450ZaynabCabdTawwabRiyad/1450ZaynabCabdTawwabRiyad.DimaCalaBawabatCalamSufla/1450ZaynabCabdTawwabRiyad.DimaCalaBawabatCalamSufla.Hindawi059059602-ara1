@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZaynabCabdTawwabRiyad.DimaCalaBawabatCalamSufla.Hindawi59059602",
-    "BookCats": "history",
-    "BookID": "59059602",
-    "BookTitle": "دماء على بوابات العالم السفلي: دراسة أثرية حضارية",
-    "AuthorID": "61520746",
-    "AuthorNam": "زينب عبد التواب رياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450ZaynabCabdTawwabRiyad.DimaCalaBawabatCalamSufla.Hindawi59059602
+#META# Tags: history
+#META# ID: 59059602
+#META# Title: دماء على بوابات العالم السفلي: دراسة أثرية حضارية
+#META# AuthorID: 61520746
+#META# Author: زينب عبد التواب رياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

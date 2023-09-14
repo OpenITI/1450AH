@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuncAllahIbrahim.BayrutBayrut.Hindawi39426136",
-    "BookCats": "novels",
-    "BookID": "39426136",
-    "BookTitle": "بيروت بيروت",
-    "AuthorID": "17162047",
-    "AuthorNam": "صنع الله إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SuncAllahIbrahim.BayrutBayrut.Hindawi39426136
+#META# Tags: novels
+#META# ID: 39426136
+#META# Title: بيروت بيروت
+#META# AuthorID: 17162047
+#META# Author: صنع الله إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

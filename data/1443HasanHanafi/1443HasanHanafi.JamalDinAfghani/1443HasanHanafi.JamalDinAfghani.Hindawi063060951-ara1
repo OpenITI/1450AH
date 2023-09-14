@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.JamalDinAfghani.Hindawi63060951",
-    "BookCats": "biographies",
-    "BookID": "63060951",
-    "BookTitle": "جمال الدين الأفغاني: المئوية الأولى ١٨٩٧–١٩٩٧",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.JamalDinAfghani.Hindawi63060951
+#META# Tags: biographies
+#META# ID: 63060951
+#META# Title: جمال الدين الأفغاني: المئوية الأولى ١٨٩٧–١٩٩٧
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450QustandiRizq.MusiqaSharqiyya.Hindawi25183963",
-    "BookCats": "arts",
-    "BookID": "25183963",
-    "BookTitle": "الموسيقى الشرقية والغناء العربي",
-    "AuthorID": "83806048",
-    "AuthorNam": "قسطندي رزق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450QustandiRizq.MusiqaSharqiyya.Hindawi25183963
+#META# Tags: arts
+#META# ID: 25183963
+#META# Title: الموسيقى الشرقية والغناء العربي
+#META# AuthorID: 83806048
+#META# Author: قسطندي رزق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

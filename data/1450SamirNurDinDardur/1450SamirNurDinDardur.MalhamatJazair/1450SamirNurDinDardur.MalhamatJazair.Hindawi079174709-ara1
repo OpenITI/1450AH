@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SamirNurDinDardur.MalhamatJazair.Hindawi79174709",
-    "BookCats": "history :: literature",
-    "BookID": "79174709",
-    "BookTitle": "ملحمة الجزائر: شرح تاريخي لإلياذة الجزائر لشاعر الثورة مفدي زكريا",
-    "AuthorID": "81480259",
-    "AuthorNam": "سمير نور الدين دردور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SamirNurDinDardur.MalhamatJazair.Hindawi79174709
+#META# Tags: history :: literature
+#META# ID: 79174709
+#META# Title: ملحمة الجزائر: شرح تاريخي لإلياذة الجزائر لشاعر الثورة مفدي زكريا
+#META# AuthorID: 81480259
+#META# Author: سمير نور الدين دردور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

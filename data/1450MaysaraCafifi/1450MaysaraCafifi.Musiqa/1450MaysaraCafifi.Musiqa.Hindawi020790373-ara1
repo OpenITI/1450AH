@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MaysaraCafifi.Musiqa.Hindawi20790373",
-    "BookCats": "novels",
-    "BookID": "20790373",
-    "BookTitle": "الموسيقى",
-    "AuthorID": "79629091",
-    "AuthorNam": "يوكيو ميشيما",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "20281749",
-    "TranslNam": "ميسرة عفيفي",
-    "BookRel": "1390YukioMishima.Ongaku (TRANSL)"
-}
-
+#META# URI: 1450MaysaraCafifi.Musiqa.Hindawi20790373
+#META# Tags: novels
+#META# ID: 20790373
+#META# Title: الموسيقى
+#META# AuthorID: 79629091
+#META# Author: يوكيو ميشيما
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 20281749
+#META# Translator: ميسرة عفيفي
+#META# Related_books: 1390YukioMishima.Ongaku (TRANSL)
 
 #META#Header#End#
 

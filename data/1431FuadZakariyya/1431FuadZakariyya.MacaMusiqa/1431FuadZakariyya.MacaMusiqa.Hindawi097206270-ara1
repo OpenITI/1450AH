@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.MacaMusiqa.Hindawi97206270",
-    "BookCats": "arts",
-    "BookID": "97206270",
-    "BookTitle": "مع الموسيقى: ذكريات ودراسات",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.MacaMusiqa.Hindawi97206270
+#META# Tags: arts
+#META# ID: 97206270
+#META# Title: مع الموسيقى: ذكريات ودراسات
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

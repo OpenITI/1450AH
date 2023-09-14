@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadIbrahimJundi.RichardFeynmann.Hindawi36962731",
-    "BookCats": "biographies",
-    "BookID": "36962731",
-    "BookTitle": "ريتشارد فاينمان: حياته في العلم",
-    "AuthorID": "38620868",
-    "AuthorNam": "لورنس إم كراوس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "53746192",
-    "TranslNam": "محمد إبراهيم الجندي",
-    "BookRel": "1450LawrenceMKrauss.QuantumMan (TRANSL)"
-}
-
+#META# URI: 1450MuhammadIbrahimJundi.RichardFeynmann.Hindawi36962731
+#META# Tags: biographies
+#META# ID: 36962731
+#META# Title: ريتشارد فاينمان: حياته في العلم
+#META# AuthorID: 38620868
+#META# Author: لورنس إم كراوس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 53746192
+#META# Translator: محمد إبراهيم الجندي
+#META# Related_books: 1450LawrenceMKrauss.QuantumMan (TRANSL)
 
 #META#Header#End#
 

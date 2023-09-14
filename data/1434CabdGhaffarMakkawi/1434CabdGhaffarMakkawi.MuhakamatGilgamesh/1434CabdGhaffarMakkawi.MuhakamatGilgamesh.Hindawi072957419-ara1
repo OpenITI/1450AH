@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.MuhakamatGilgamesh.Hindawi72957419",
-    "BookCats": "plays",
-    "BookID": "72957419",
-    "BookTitle": "هو الذي طغى: محاكمة جلجاميش: في عشر لوحات درامية",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.MuhakamatGilgamesh.Hindawi72957419
+#META# Tags: plays
+#META# ID: 72957419
+#META# Title: هو الذي طغى: محاكمة جلجاميش: في عشر لوحات درامية
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

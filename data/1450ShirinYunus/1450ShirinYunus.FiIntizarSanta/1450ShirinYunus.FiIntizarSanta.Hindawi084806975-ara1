@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShirinYunus.FiIntizarSanta.Hindawi84806975",
-    "BookCats": "literature",
-    "BookID": "84806975",
-    "BookTitle": "في انتظار سانتا",
-    "AuthorID": "86069048",
-    "AuthorNam": "شرين يونس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450ShirinYunus.FiIntizarSanta.Hindawi84806975
+#META# Tags: literature
+#META# ID: 84806975
+#META# Title: في انتظار سانتا
+#META# AuthorID: 86069048
+#META# Author: شرين يونس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

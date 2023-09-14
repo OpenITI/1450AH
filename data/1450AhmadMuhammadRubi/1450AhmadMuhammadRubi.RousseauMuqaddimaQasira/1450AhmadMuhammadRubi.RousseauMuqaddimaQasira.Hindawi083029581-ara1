@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadMuhammadRubi.RousseauMuqaddimaQasira.Hindawi83029581",
-    "BookCats": "biographies",
-    "BookID": "83029581",
-    "BookTitle": "روسو: مقدمة قصيرة جدًّا",
-    "AuthorID": "59275091",
-    "AuthorNam": "روبرت ووكلر",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "19607415",
-    "TranslNam": "أحمد محمد الروبي",
-    "BookRel": "1427RobertWokler.RousseauShortIntro (TRANSL)"
-}
-
+#META# URI: 1450AhmadMuhammadRubi.RousseauMuqaddimaQasira.Hindawi83029581
+#META# Tags: biographies
+#META# ID: 83029581
+#META# Title: روسو: مقدمة قصيرة جدًّا
+#META# AuthorID: 59275091
+#META# Author: روبرت ووكلر
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 19607415
+#META# Translator: أحمد محمد الروبي
+#META# Related_books: 1427RobertWokler.RousseauShortIntro (TRANSL)
 
 #META#Header#End#
 

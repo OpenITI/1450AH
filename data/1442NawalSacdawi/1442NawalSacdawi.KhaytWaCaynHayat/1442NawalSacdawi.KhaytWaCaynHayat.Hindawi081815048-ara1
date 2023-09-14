@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.KhaytWaCaynHayat.Hindawi81815048",
-    "BookCats": "novels",
-    "BookID": "81815048",
-    "BookTitle": "الخيط وعين الحياة",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.KhaytWaCaynHayat.Hindawi81815048
+#META# Tags: novels
+#META# ID: 81815048
+#META# Title: الخيط وعين الحياة
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

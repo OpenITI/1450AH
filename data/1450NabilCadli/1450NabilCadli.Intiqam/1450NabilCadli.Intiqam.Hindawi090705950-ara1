@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NabilCadli.Intiqam.Hindawi90705950",
-    "BookCats": "literature",
-    "BookID": "90705950",
-    "BookTitle": "انتقام!",
-    "AuthorID": "80635283",
-    "AuthorNam": "روبرت بار",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "75957961",
-    "TranslNam": "نبيل العدلي",
-    "BookRel": "1330RobertBarr.Revenge (TRANSL)"
-}
-
+#META# URI: 1450NabilCadli.Intiqam.Hindawi90705950
+#META# Tags: literature
+#META# ID: 90705950
+#META# Title: انتقام!
+#META# AuthorID: 80635283
+#META# Author: روبرت بار
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 75957961
+#META# Translator: نبيل العدلي
+#META# Related_books: 1330RobertBarr.Revenge (TRANSL)
 
 #META#Header#End#
 

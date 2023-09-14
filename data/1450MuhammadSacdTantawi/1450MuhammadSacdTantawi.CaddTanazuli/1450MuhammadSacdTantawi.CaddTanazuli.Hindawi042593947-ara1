@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSacdTantawi.CaddTanazuli.Hindawi42593947",
-    "BookCats": "science :: history",
-    "BookID": "42593947",
-    "BookTitle": "عدٌّ تنازلي: تاريخ رحلات الفضاء",
-    "AuthorID": "29791614",
-    "AuthorNam": "تي إيه هبنهايمر",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "52050270",
-    "TranslNam": "محمد سعد طنطاوي",
-    "BookRel": "1436TAHeppenheimer.Countdown (TRANSL)"
-}
-
+#META# URI: 1450MuhammadSacdTantawi.CaddTanazuli.Hindawi42593947
+#META# Tags: science :: history
+#META# ID: 42593947
+#META# Title: عدٌّ تنازلي: تاريخ رحلات الفضاء
+#META# AuthorID: 29791614
+#META# Author: تي إيه هبنهايمر
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 52050270
+#META# Translator: محمد سعد طنطاوي
+#META# Related_books: 1436TAHeppenheimer.Countdown (TRANSL)
 
 #META#Header#End#
 

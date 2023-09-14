@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuncAllahIbrahim.TilkaRaiha.Hindawi85372584",
-    "BookCats": "novels :: literature",
-    "BookID": "85372584",
-    "BookTitle": "تلك الرائحة: وقصص أخرى",
-    "AuthorID": "17162047",
-    "AuthorNam": "صنع الله إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SuncAllahIbrahim.TilkaRaiha.Hindawi85372584
+#META# Tags: novels :: literature
+#META# ID: 85372584
+#META# Title: تلك الرائحة: وقصص أخرى
+#META# AuthorID: 17162047
+#META# Author: صنع الله إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

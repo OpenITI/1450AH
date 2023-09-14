@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SaraYaqut.AbnaBashar.Hindawi48157094",
-    "BookCats": "literature",
-    "BookID": "48157094",
-    "BookTitle": "أبناء البشر",
-    "AuthorID": "50379526",
-    "AuthorNam": "بي دي جيمس",
-    "EditorID": "51613802",
-    "EditorNam": "محمد حامد درويش",
-    "TranslID": "86936095",
-    "TranslNam": "سارة ياقوت",
-    "BookRel": "1436PhyllisDorothyJames.ChildrenOfMen (TRANSL)"
-}
-
+#META# URI: 1450SaraYaqut.AbnaBashar.Hindawi48157094
+#META# Tags: literature
+#META# ID: 48157094
+#META# Title: أبناء البشر
+#META# AuthorID: 50379526
+#META# Author: بي دي جيمس
+#META# EditorID: 51613802
+#META# Editor: محمد حامد درويش
+#META# TranslatorID: 86936095
+#META# Translator: سارة ياقوت
+#META# Related_books: 1436PhyllisDorothyJames.ChildrenOfMen (TRANSL)
 
 #META#Header#End#
 

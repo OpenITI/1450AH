@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdCazizBarakaSakin.JanaquMasamirArd.Hindawi86496931",
-    "BookCats": "novels",
-    "BookID": "86496931",
-    "BookTitle": "الجنقو مسامير الأرض",
-    "AuthorID": "15049263",
-    "AuthorNam": "عبد العزيز بركة ساكن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CabdCazizBarakaSakin.JanaquMasamirArd.Hindawi86496931
+#META# Tags: novels
+#META# ID: 86496931
+#META# Title: الجنقو مسامير الأرض
+#META# AuthorID: 15049263
+#META# Author: عبد العزيز بركة ساكن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

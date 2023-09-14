@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.NazariyyatIkhtiyarMuqaddimaQasira.Hindawi62603174",
-    "BookCats": "economics",
-    "BookID": "62603174",
-    "BookTitle": "نظرية الاختيار: مقدمة قصيرة جدًّا",
-    "AuthorID": "19739285",
-    "AuthorNam": "مايكل ألينجهام",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450MichaelAllingham.ChoiceTheoryShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.NazariyyatIkhtiyarMuqaddimaQasira.Hindawi62603174
+#META# Tags: economics
+#META# ID: 62603174
+#META# Title: نظرية الاختيار: مقدمة قصيرة جدًّا
+#META# AuthorID: 19739285
+#META# Author: مايكل ألينجهام
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450MichaelAllingham.ChoiceTheoryShortIntro (TRANSL)
 
 #META#Header#End#
 

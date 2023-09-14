@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZaynabCatif.RihlaFiCalamMawda.Hindawi16314631",
-    "BookCats": "arts",
-    "BookID": "16314631",
-    "BookTitle": "رحلة في عالم الموضة",
-    "AuthorID": "38263640",
-    "AuthorNam": "ليزا جيه سبرينجستيل",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "97092460 :: 58038048",
-    "TranslNam": "رشا صلاح الدخاخني :: زينب عاطف",
-    "BookRel": "1450LisaSpringsteel.BecomingFashionDesigner (TRANSL)"
-}
-
+#META# URI: 1450ZaynabCatif.RihlaFiCalamMawda.Hindawi16314631
+#META# Tags: arts
+#META# ID: 16314631
+#META# Title: رحلة في عالم الموضة
+#META# AuthorID: 38263640
+#META# Author: ليزا جيه سبرينجستيل
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 97092460 :: 58038048
+#META# Translator: رشا صلاح الدخاخني :: زينب عاطف
+#META# Related_books: 1450LisaSpringsteel.BecomingFashionDesigner (TRANSL)
 
 #META#Header#End#
 

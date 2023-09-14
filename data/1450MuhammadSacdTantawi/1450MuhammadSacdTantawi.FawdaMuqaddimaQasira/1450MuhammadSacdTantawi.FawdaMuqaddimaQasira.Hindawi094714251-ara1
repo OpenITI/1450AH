@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSacdTantawi.FawdaMuqaddimaQasira.Hindawi94714251",
-    "BookCats": "science :: philosophy",
-    "BookID": "94714251",
-    "BookTitle": "نظرية الفوضى: مقدمة قصيرة جدًّا",
-    "AuthorID": "79620915",
-    "AuthorNam": "ليونارد سميث",
-    "EditorID": "18291916",
-    "EditorNam": "علا عبد الفتاح يس",
-    "TranslID": "52050270",
-    "TranslNam": "محمد سعد طنطاوي",
-    "BookRel": "1450LeonardASmith.ChaosShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadSacdTantawi.FawdaMuqaddimaQasira.Hindawi94714251
+#META# Tags: science :: philosophy
+#META# ID: 94714251
+#META# Title: نظرية الفوضى: مقدمة قصيرة جدًّا
+#META# AuthorID: 79620915
+#META# Author: ليونارد سميث
+#META# EditorID: 18291916
+#META# Editor: علا عبد الفتاح يس
+#META# TranslatorID: 52050270
+#META# Translator: محمد سعد طنطاوي
+#META# Related_books: 1450LeonardASmith.ChaosShortIntro (TRANSL)
 
 #META#Header#End#
 

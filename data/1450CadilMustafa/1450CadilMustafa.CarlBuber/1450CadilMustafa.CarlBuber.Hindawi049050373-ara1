@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.CarlBuber.Hindawi49050373",
-    "BookCats": "philosophy",
-    "BookID": "49050373",
-    "BookTitle": "كارل بوبر: مائة عام من التنوير",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.CarlBuber.Hindawi49050373
+#META# Tags: philosophy
+#META# ID: 49050373
+#META# Title: كارل بوبر: مائة عام من التنوير
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

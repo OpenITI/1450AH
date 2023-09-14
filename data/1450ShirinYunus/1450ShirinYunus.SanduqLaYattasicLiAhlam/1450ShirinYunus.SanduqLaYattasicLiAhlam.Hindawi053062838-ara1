@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShirinYunus.SanduqLaYattasicLiAhlam.Hindawi53062838",
-    "BookCats": "literature",
-    "BookID": "53062838",
-    "BookTitle": "صندوق لا يتسع للأحلام: مجموعة قصصية",
-    "AuthorID": "86069048",
-    "AuthorNam": "شرين يونس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450ShirinYunus.SanduqLaYattasicLiAhlam.Hindawi53062838
+#META# Tags: literature
+#META# ID: 53062838
+#META# Title: صندوق لا يتسع للأحلام: مجموعة قصصية
+#META# AuthorID: 86069048
+#META# Author: شرين يونس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

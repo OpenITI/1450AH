@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShawqiJalal.MujtamacMadaniWaThaqafatIslah.Hindawi47282691",
-    "BookCats": "philosophy",
-    "BookID": "47282691",
-    "BookTitle": "المجتمع المدني وثقافة الإصلاح: رؤية نقدية للفكر العربي",
-    "AuthorID": "90631535",
-    "AuthorNam": "شوقي جلال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450ShawqiJalal.MujtamacMadaniWaThaqafatIslah.Hindawi47282691
+#META# Tags: philosophy
+#META# ID: 47282691
+#META# Title: المجتمع المدني وثقافة الإصلاح: رؤية نقدية للفكر العربي
+#META# AuthorID: 90631535
+#META# Author: شوقي جلال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HabibGhazala.JaziratRudus.Hindawi48383159",
-    "BookCats": "geography :: history",
-    "BookID": "48383159",
-    "BookTitle": "جزيرة رودس: ‎جغرافيتها وتاريخها وآثارها، تليها خلاصة تاريخية عن أشهر جزائر بحر إيجه",
-    "AuthorID": "71509690",
-    "AuthorNam": "حبيب غزالة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450HabibGhazala.JaziratRudus.Hindawi48383159
+#META# Tags: geography :: history
+#META# ID: 48383159
+#META# Title: جزيرة رودس: ‎جغرافيتها وتاريخها وآثارها، تليها خلاصة تاريخية عن أشهر جزائر بحر إيجه
+#META# AuthorID: 71509690
+#META# Author: حبيب غزالة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

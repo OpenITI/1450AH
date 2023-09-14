@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.NazariyyaNaqdiyyaLiMadrasatFrankfurt.Hindawi79404750",
-    "BookCats": "philosophy",
-    "BookID": "79404750",
-    "BookTitle": "النظرية النقدية لمدرسة فرانكفورت: تمهيد وتعقيب نقدي",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.NazariyyaNaqdiyyaLiMadrasatFrankfurt.Hindawi79404750
+#META# Tags: philosophy
+#META# ID: 79404750
+#META# Title: النظرية النقدية لمدرسة فرانكفورت: تمهيد وتعقيب نقدي
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

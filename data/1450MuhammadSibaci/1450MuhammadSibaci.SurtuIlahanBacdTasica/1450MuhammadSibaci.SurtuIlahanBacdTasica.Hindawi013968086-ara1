@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadSibaci.SurtuIlahanBacdTasica.Hindawi13968086",
-    "BookCats": "novels",
-    "BookID": "13968086",
-    "BookTitle": "وصرتُ إلهًا بعد التاسعة",
-    "AuthorID": "38240275",
-    "AuthorNam": "محمد السِّباعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadSibaci.SurtuIlahanBacdTasica.Hindawi13968086
+#META# Tags: novels
+#META# ID: 13968086
+#META# Title: وصرتُ إلهًا بعد التاسعة
+#META# AuthorID: 38240275
+#META# Author: محمد السِّباعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

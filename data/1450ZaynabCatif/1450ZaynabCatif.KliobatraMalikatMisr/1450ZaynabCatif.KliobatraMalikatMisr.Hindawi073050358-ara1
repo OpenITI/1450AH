@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZaynabCatif.KliobatraMalikatMisr.Hindawi73050358",
-    "BookCats": "history",
-    "BookID": "73050358",
-    "BookTitle": "كليوباترا ملكة مصر",
-    "AuthorID": "24817194",
-    "AuthorNam": "سالي-آن أشتون",
-    "EditorID": "93720406",
-    "EditorNam": "نيڤين عبد الرؤوف",
-    "TranslID": "58038048",
-    "TranslNam": "زينب عاطف",
-    "BookRel": "1450SallyAnnAshton.Cleopatra (TRANSL)"
-}
-
+#META# URI: 1450ZaynabCatif.KliobatraMalikatMisr.Hindawi73050358
+#META# Tags: history
+#META# ID: 73050358
+#META# Title: كليوباترا ملكة مصر
+#META# AuthorID: 24817194
+#META# Author: سالي-آن أشتون
+#META# EditorID: 93720406
+#META# Editor: نيڤين عبد الرؤوف
+#META# TranslatorID: 58038048
+#META# Translator: زينب عاطف
+#META# Related_books: 1450SallyAnnAshton.Cleopatra (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.YaIkhwati.Hindawi80815972",
-    "BookCats": "poetry",
-    "BookID": "80815972",
-    "BookTitle": "يا إخوتي: قصائد مختارة من شعر أنجاريتي",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.YaIkhwati.Hindawi80815972
+#META# Tags: poetry
+#META# ID: 80815972
+#META# Title: يا إخوتي: قصائد مختارة من شعر أنجاريتي
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasminCarabi.HudnaLiIltiqatAnfas.Hindawi51515374",
-    "BookCats": "novels",
-    "BookID": "51515374",
-    "BookTitle": "هدنة لالتقاط الأنفاس",
-    "AuthorID": "97186075",
-    "AuthorNam": "جورج أورويل",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "62958680",
-    "TranslNam": "ياسمين العربي",
-    "BookRel": "1369GeorgeOrwell.ComingUpForAir (TRANSL)"
-}
-
+#META# URI: 1450YasminCarabi.HudnaLiIltiqatAnfas.Hindawi51515374
+#META# Tags: novels
+#META# ID: 51515374
+#META# Title: هدنة لالتقاط الأنفاس
+#META# AuthorID: 97186075
+#META# Author: جورج أورويل
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 62958680
+#META# Translator: ياسمين العربي
+#META# Related_books: 1369GeorgeOrwell.ComingUpForAir (TRANSL)
 
 #META#Header#End#
 

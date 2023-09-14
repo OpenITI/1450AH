@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.AhzanCazifKaman.Hindawi37392750",
-    "BookCats": "literature",
-    "BookID": "37392750",
-    "BookTitle": "أحزان عازف الكمان",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.AhzanCazifKaman.Hindawi37392750
+#META# Tags: literature
+#META# ID: 37392750
+#META# Title: أحزان عازف الكمان
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

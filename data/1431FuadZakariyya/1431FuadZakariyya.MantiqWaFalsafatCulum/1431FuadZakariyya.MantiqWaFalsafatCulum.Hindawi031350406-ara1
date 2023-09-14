@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.MantiqWaFalsafatCulum.Hindawi31350406",
-    "BookCats": "philosophy",
-    "BookID": "31350406",
-    "BookTitle": "المنطق وفلسفة العلوم",
-    "AuthorID": "70529269",
-    "AuthorNam": "بول موي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1365PaulMouy.LogicsPhilosophyOfSciences.Book (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.MantiqWaFalsafatCulum.Hindawi31350406
+#META# Tags: philosophy
+#META# ID: 31350406
+#META# Title: المنطق وفلسفة العلوم
+#META# AuthorID: 70529269
+#META# Author: بول موي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1365PaulMouy.LogicsPhilosophyOfSciences.Book (TRANSL)
 
 #META#Header#End#
 

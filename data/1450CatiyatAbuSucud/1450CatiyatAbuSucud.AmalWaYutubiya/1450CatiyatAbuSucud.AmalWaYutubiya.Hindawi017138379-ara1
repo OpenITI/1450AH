@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CatiyatAbuSucud.AmalWaYutubiya.Hindawi17138379",
-    "BookCats": "philosophy",
-    "BookID": "17138379",
-    "BookTitle": "الأمل واليوتوبيا في فلسفة إرنست بلوخ",
-    "AuthorID": "75058162",
-    "AuthorNam": "عطيات أبو السعود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CatiyatAbuSucud.AmalWaYutubiya.Hindawi17138379
+#META# Tags: philosophy
+#META# ID: 17138379
+#META# Title: الأمل واليوتوبيا في فلسفة إرنست بلوخ
+#META# AuthorID: 75058162
+#META# Author: عطيات أبو السعود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

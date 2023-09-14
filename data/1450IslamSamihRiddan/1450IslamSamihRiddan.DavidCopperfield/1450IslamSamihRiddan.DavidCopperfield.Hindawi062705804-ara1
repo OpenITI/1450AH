@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450IslamSamihRiddan.DavidCopperfield.Hindawi62705804",
-    "BookCats": "literature",
-    "BookID": "62705804",
-    "BookTitle": "ديفيد كوبرفيلد: أعدَّتها للأطفال أليس إف جاكسون",
-    "AuthorID": "14791716",
-    "AuthorNam": "تشارلز ديكنز",
-    "EditorID": "35803081",
-    "EditorNam": "محمد يحيى",
-    "TranslID": "17358460",
-    "TranslNam": "إسلام سميح الردان",
-    "BookRel": "1286CharlesDickens.DavidCopperfield (TRANSL)"
-}
-
+#META# URI: 1450IslamSamihRiddan.DavidCopperfield.Hindawi62705804
+#META# Tags: literature
+#META# ID: 62705804
+#META# Title: ديفيد كوبرفيلد: أعدَّتها للأطفال أليس إف جاكسون
+#META# AuthorID: 14791716
+#META# Author: تشارلز ديكنز
+#META# EditorID: 35803081
+#META# Editor: محمد يحيى
+#META# TranslatorID: 17358460
+#META# Translator: إسلام سميح الردان
+#META# Related_books: 1286CharlesDickens.DavidCopperfield (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.FalsafaSiyasiyya.Hindawi79028406",
-    "BookCats": "politics",
-    "BookID": "79028406",
-    "BookTitle": "ركائز في فلسفة السياسة",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.FalsafaSiyasiyya.Hindawi79028406
+#META# Tags: politics
+#META# ID: 79028406
+#META# Title: ركائز في فلسفة السياسة
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

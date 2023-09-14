@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.HisanAkhdar.Hindawi97318519",
-    "BookCats": "novels",
-    "BookID": "97318519",
-    "BookTitle": "الحصان الأخضر يموت على شوارع الأسفلت",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.HisanAkhdar.Hindawi97318519
+#META# Tags: novels
+#META# ID: 97318519
+#META# Title: الحصان الأخضر يموت على شوارع الأسفلت
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

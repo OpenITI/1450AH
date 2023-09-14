@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.AramDimashqWaIsrail.Hindawi62929285",
-    "BookCats": "history :: religions",
-    "BookID": "62929285",
-    "BookTitle": "آرام دمشق وإسرائيل: في التاريخ والتاريخ التوراتي",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.AramDimashqWaIsrail.Hindawi62929285
+#META# Tags: history :: religions
+#META# ID: 62929285
+#META# Title: آرام دمشق وإسرائيل: في التاريخ والتاريخ التوراتي
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.IslamSharikan.Hindawi60975190",
-    "BookCats": "history :: philosophy",
-    "BookID": "60975190",
-    "BookTitle": "الإسلام شريكًا: دراسات عن الإسلام والمسلمين",
-    "AuthorID": "61957359",
-    "AuthorNam": "فريتس شتيبات",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1427FritzSteppat.IslamAsPartner (TRANS) (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.IslamSharikan.Hindawi60975190
+#META# Tags: history :: philosophy
+#META# ID: 60975190
+#META# Title: الإسلام شريكًا: دراسات عن الإسلام والمسلمين
+#META# AuthorID: 61957359
+#META# Author: فريتس شتيبات
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1427FritzSteppat.IslamAsPartner (TRANS) (TRANSL)
 
 #META#Header#End#
 

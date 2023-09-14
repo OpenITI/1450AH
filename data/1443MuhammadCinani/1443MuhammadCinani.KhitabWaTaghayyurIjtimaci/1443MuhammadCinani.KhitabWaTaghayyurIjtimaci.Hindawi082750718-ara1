@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.KhitabWaTaghayyurIjtimaci.Hindawi82750718",
-    "BookCats": "linguistics",
-    "BookID": "82750718",
-    "BookTitle": "الخطاب والتغير الاجتماعي",
-    "AuthorID": "19616207",
-    "AuthorNam": "نورمان فيركلف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1450NormanFairclough.DiscourseSocialChange (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.KhitabWaTaghayyurIjtimaci.Hindawi82750718
+#META# Tags: linguistics
+#META# ID: 82750718
+#META# Title: الخطاب والتغير الاجتماعي
+#META# AuthorID: 19616207
+#META# Author: نورمان فيركلف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1450NormanFairclough.DiscourseSocialChange (TRANSL)
 
 #META#Header#End#
 

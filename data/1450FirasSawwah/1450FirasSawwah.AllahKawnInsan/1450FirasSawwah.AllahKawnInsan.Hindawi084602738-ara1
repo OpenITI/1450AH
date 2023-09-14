@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.AllahKawnInsan.Hindawi84602738",
-    "BookCats": "religions",
-    "BookID": "84602738",
-    "BookTitle": "الله والكون والإنسان: نظرات في تاريخ الافكار الدينية",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.AllahKawnInsan.Hindawi84602738
+#META# Tags: religions
+#META# ID: 84602738
+#META# Title: الله والكون والإنسان: نظرات في تاريخ الافكار الدينية
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

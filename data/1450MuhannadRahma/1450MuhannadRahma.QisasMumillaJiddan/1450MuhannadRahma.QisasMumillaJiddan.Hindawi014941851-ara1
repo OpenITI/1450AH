@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhannadRahma.QisasMumillaJiddan.Hindawi14941851",
-    "BookCats": "literature",
-    "BookID": "14941851",
-    "BookTitle": "قصص مملة جدًّا",
-    "AuthorID": "18525819",
-    "AuthorNam": "مهند رحمه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhannadRahma.QisasMumillaJiddan.Hindawi14941851
+#META# Tags: literature
+#META# ID: 14941851
+#META# Title: قصص مملة جدًّا
+#META# AuthorID: 18525819
+#META# Author: مهند رحمه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

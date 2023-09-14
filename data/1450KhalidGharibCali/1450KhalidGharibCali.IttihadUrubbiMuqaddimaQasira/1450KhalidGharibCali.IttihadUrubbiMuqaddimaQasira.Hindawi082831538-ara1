@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450KhalidGharibCali.IttihadUrubbiMuqaddimaQasira.Hindawi82831538",
-    "BookCats": "history",
-    "BookID": "82831538",
-    "BookTitle": "الاتحاد الأوروبي: مقدمة قصيرة جدًّا",
-    "AuthorID": "71517060 :: 49264804",
-    "AuthorNam": "جون بيندر :: سايمون أشروود",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "14163505",
-    "TranslNam": "خالد غريب علي",
-    "BookRel": "1436JohnPinder.EuropeanUnionShortIntro (TRANSL)"
-}
-
+#META# URI: 1450KhalidGharibCali.IttihadUrubbiMuqaddimaQasira.Hindawi82831538
+#META# Tags: history
+#META# ID: 82831538
+#META# Title: الاتحاد الأوروبي: مقدمة قصيرة جدًّا
+#META# AuthorID: 71517060 :: 49264804
+#META# Author: جون بيندر :: سايمون أشروود
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 14163505
+#META# Translator: خالد غريب علي
+#META# Related_books: 1436JohnPinder.EuropeanUnionShortIntro (TRANSL)
 
 #META#Header#End#
 

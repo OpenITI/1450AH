@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.NurWaFarasha.Hindawi20414802",
-    "BookCats": "literature",
-    "BookID": "20414802",
-    "BookTitle": "النور والفراشة: رؤية جوته للإسلام وللأدبين العربي والفارسي مع النص الكامل للديوان الشرقي",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي #دراسة وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.NurWaFarasha.Hindawi20414802
+#META# Tags: literature
+#META# ID: 20414802
+#META# Title: النور والفراشة: رؤية جوته للإسلام وللأدبين العربي والفارسي مع النص الكامل للديوان الشرقي
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي #دراسة وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

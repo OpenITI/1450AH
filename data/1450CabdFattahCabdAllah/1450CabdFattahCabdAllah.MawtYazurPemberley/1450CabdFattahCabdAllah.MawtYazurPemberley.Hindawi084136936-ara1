@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdFattahCabdAllah.MawtYazurPemberley.Hindawi84136936",
-    "BookCats": "literature :: novels",
-    "BookID": "84136936",
-    "BookTitle": "الموت يزور بيمبرلي",
-    "AuthorID": "50379526",
-    "AuthorNam": "بي دي جيمس",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "73637907",
-    "TranslNam": "عبد الفتاح عبد الله",
-    "BookRel": "1436PhyllisDorothyJames.DeathComesToPemberley (TRANSL)"
-}
-
+#META# URI: 1450CabdFattahCabdAllah.MawtYazurPemberley.Hindawi84136936
+#META# Tags: literature :: novels
+#META# ID: 84136936
+#META# Title: الموت يزور بيمبرلي
+#META# AuthorID: 50379526
+#META# Author: بي دي جيمس
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 73637907
+#META# Translator: عبد الفتاح عبد الله
+#META# Related_books: 1436PhyllisDorothyJames.DeathComesToPemberley (TRANSL)
 
 #META#Header#End#
 

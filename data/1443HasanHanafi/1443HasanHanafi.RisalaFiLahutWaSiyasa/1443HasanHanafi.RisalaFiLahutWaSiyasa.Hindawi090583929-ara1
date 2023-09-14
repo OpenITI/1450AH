@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.RisalaFiLahutWaSiyasa.Hindawi90583929",
-    "BookCats": "philosophy",
-    "BookID": "90583929",
-    "BookTitle": "رسالة في اللاهوت والسياسة",
-    "AuthorID": "69690517",
-    "AuthorNam": "باروخ سبينوزا",
-    "EditorID": "90639697",
-    "EditorNam": "فؤاد زكريا",
-    "TranslID": "51618527",
-    "TranslNam": "حسن حنفي",
-    "BookRel": "1087BarukhSpinoza.TractatusTheologicoPoliticus (TRANSL)"
-}
-
+#META# URI: 1443HasanHanafi.RisalaFiLahutWaSiyasa.Hindawi90583929
+#META# Tags: philosophy
+#META# ID: 90583929
+#META# Title: رسالة في اللاهوت والسياسة
+#META# AuthorID: 69690517
+#META# Author: باروخ سبينوزا
+#META# EditorID: 90639697
+#META# Editor: فؤاد زكريا
+#META# TranslatorID: 51618527
+#META# Translator: حسن حنفي
+#META# Related_books: 1087BarukhSpinoza.TractatusTheologicoPoliticus (TRANSL)
 
 #META#Header#End#
 

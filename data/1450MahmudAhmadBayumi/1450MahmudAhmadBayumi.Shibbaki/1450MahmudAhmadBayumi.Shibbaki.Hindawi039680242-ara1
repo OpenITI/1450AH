@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudAhmadBayumi.Shibbaki.Hindawi39680242",
-    "BookCats": "poetry",
-    "BookID": "39680242",
-    "BookTitle": "شِبَّاكي بيطُل عَ الأجرام",
-    "AuthorID": "63048360",
-    "AuthorNam": "محمود أحمد بيومي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahmudAhmadBayumi.Shibbaki.Hindawi39680242
+#META# Tags: poetry
+#META# ID: 39680242
+#META# Title: شِبَّاكي بيطُل عَ الأجرام
+#META# AuthorID: 63048360
+#META# Author: محمود أحمد بيومي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

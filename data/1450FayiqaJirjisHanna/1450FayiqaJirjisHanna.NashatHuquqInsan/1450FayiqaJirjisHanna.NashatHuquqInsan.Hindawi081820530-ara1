@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.NashatHuquqInsan.Hindawi81820530",
-    "BookCats": "history",
-    "BookID": "81820530",
-    "BookTitle": "نشأة حقوق الإنسان: لمحة تاريخية",
-    "AuthorID": "79079259",
-    "AuthorNam": "لين هانت",
-    "EditorID": "53746192",
-    "EditorNam": "محمد إبراهيم الجندي",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1450LynnHunt.InventingHumanRights (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.NashatHuquqInsan.Hindawi81820530
+#META# Tags: history
+#META# ID: 81820530
+#META# Title: نشأة حقوق الإنسان: لمحة تاريخية
+#META# AuthorID: 79079259
+#META# Author: لين هانت
+#META# EditorID: 53746192
+#META# Editor: محمد إبراهيم الجندي
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1450LynnHunt.InventingHumanRights (TRANSL)
 
 #META#Header#End#
 

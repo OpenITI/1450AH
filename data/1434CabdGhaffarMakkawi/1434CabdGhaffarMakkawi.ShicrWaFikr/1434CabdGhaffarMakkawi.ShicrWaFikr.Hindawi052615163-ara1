@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.ShicrWaFikr.Hindawi52615163",
-    "BookCats": "literature :: philosophy",
-    "BookID": "52615163",
-    "BookTitle": "شعر وفكر: دراسات في الأدب والفلسفة",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.ShicrWaFikr.Hindawi52615163
+#META# Tags: literature :: philosophy
+#META# ID: 52615163
+#META# Title: شعر وفكر: دراسات في الأدب والفلسفة
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.Tasso.Hindawi36250381",
-    "BookCats": "plays",
-    "BookID": "36250381",
-    "BookTitle": "تاسو",
-    "AuthorID": "41795037",
-    "AuthorNam": "يوهان فولفجانج جوته",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1247JohannWolfgangGoethe.TorquatoTasso (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.Tasso.Hindawi36250381
+#META# Tags: plays
+#META# ID: 36250381
+#META# Title: تاسو
+#META# AuthorID: 41795037
+#META# Author: يوهان فولفجانج جوته
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1247JohannWolfgangGoethe.TorquatoTasso (TRANSL)
 
 #META#Header#End#
 

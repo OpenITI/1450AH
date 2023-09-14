@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.HubbTahtMatar.Hindawi73160631",
-    "BookCats": "novels",
-    "BookID": "73160631",
-    "BookTitle": "الحب تحت المطر",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.HubbTahtMatar.Hindawi73160631
+#META# Tags: novels
+#META# ID: 73160631
+#META# Title: الحب تحت المطر
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

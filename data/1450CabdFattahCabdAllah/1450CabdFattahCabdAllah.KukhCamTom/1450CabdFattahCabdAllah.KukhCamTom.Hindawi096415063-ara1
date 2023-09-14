@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdFattahCabdAllah.KukhCamTom.Hindawi96415063",
-    "BookCats": "novels",
-    "BookID": "96415063",
-    "BookTitle": "كوخ العم توم",
-    "AuthorID": "28514082",
-    "AuthorNam": "هارييت بيتشر ستو",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "73637907",
-    "TranslNam": "عبد الفتاح عبد الله",
-    "BookRel": "1314HarrietBeecherStowe.UncleTomsCabin (TRANSL)"
-}
-
+#META# URI: 1450CabdFattahCabdAllah.KukhCamTom.Hindawi96415063
+#META# Tags: novels
+#META# ID: 96415063
+#META# Title: كوخ العم توم
+#META# AuthorID: 28514082
+#META# Author: هارييت بيتشر ستو
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 73637907
+#META# Translator: عبد الفتاح عبد الله
+#META# Related_books: 1314HarrietBeecherStowe.UncleTomsCabin (TRANSL)
 
 #META#Header#End#
 

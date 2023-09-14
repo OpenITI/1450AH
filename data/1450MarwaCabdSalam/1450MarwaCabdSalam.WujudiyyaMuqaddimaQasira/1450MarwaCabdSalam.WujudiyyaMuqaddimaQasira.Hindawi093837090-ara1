@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MarwaCabdSalam.WujudiyyaMuqaddimaQasira.Hindawi93837090",
-    "BookCats": "philosophy",
-    "BookID": "93837090",
-    "BookTitle": "الوجودية: مقدمة قصيرة جدًّا",
-    "AuthorID": "58282537",
-    "AuthorNam": "توماس آر فلين",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "96473631",
-    "TranslNam": "مروة عبد السلام",
-    "BookRel": "1450ThomasRFlynn.ExistentialismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MarwaCabdSalam.WujudiyyaMuqaddimaQasira.Hindawi93837090
+#META# Tags: philosophy
+#META# ID: 93837090
+#META# Title: الوجودية: مقدمة قصيرة جدًّا
+#META# AuthorID: 58282537
+#META# Author: توماس آر فلين
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 96473631
+#META# Translator: مروة عبد السلام
+#META# Related_books: 1450ThomasRFlynn.ExistentialismShortIntro (TRANSL)
 
 #META#Header#End#
 

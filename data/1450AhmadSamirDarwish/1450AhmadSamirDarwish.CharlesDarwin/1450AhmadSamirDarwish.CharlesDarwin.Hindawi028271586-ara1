@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadSamirDarwish.CharlesDarwin02.Hindawi28271586",
-    "BookCats": "biographies",
-    "BookID": "28271586",
-    "BookTitle": "تشارلز داروين: حياته وخطاباته (الجزء الثاني)",
-    "AuthorID": "86406130",
-    "AuthorNam": "فرانسيس داروين",
-    "EditorID": "83840647",
-    "EditorNam": "الزهراء سامي",
-    "TranslID": "62858582",
-    "TranslNam": "أحمد سمير درويش",
-    "BookRel": "1344FrancisDarwin.CharlesDarwinLifeAndLetters (TRANSL)"
-}
-
+#META# URI: 1450AhmadSamirDarwish.CharlesDarwin02.Hindawi28271586
+#META# Tags: biographies
+#META# ID: 28271586
+#META# Title: تشارلز داروين: حياته وخطاباته (الجزء الثاني)
+#META# AuthorID: 86406130
+#META# Author: فرانسيس داروين
+#META# EditorID: 83840647
+#META# Editor: الزهراء سامي
+#META# TranslatorID: 62858582
+#META# Translator: أحمد سمير درويش
+#META# Related_books: 1344FrancisDarwin.CharlesDarwinLifeAndLetters (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.SayyidPuntila.Hindawi69752852",
-    "BookCats": "plays",
-    "BookID": "69752852",
-    "BookTitle": "السيد بونتيلا وتابعه ماتي",
-    "AuthorID": "85861914",
-    "AuthorNam": "برتولد برشت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "46308160",
-    "TranslNam": "عبد الغفار مكاوي",
-    "BookRel": "1376BertholdBrecht.HerrPuntila (TRANSL)"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.SayyidPuntila.Hindawi69752852
+#META# Tags: plays
+#META# ID: 69752852
+#META# Title: السيد بونتيلا وتابعه ماتي
+#META# AuthorID: 85861914
+#META# Author: برتولد برشت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 46308160
+#META# Translator: عبد الغفار مكاوي
+#META# Related_books: 1376BertholdBrecht.HerrPuntila (TRANSL)
 
 #META#Header#End#
 

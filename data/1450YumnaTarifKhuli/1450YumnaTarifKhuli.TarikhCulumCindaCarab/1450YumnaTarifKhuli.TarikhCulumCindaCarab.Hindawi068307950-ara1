@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.TarikhCulumCindaCarab.Hindawi68307950",
-    "BookCats": "science :: philosophy :: history",
-    "BookID": "68307950",
-    "BookTitle": "بحوث في تاريخ العلوم عند العرب",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.TarikhCulumCindaCarab.Hindawi68307950
+#META# Tags: science :: philosophy :: history
+#META# ID: 68307950
+#META# Title: بحوث في تاريخ العلوم عند العرب
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

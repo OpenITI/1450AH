@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadCabdWahid.CaddatKalb.Hindawi85379741",
-    "BookCats": "literature",
-    "BookID": "85379741",
-    "BookTitle": "عضة كلب: مجموعة قصصية",
-    "AuthorID": "85181373",
-    "AuthorNam": "أحمد عبد الواحد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450AhmadCabdWahid.CaddatKalb.Hindawi85379741
+#META# Tags: literature
+#META# ID: 85379741
+#META# Title: عضة كلب: مجموعة قصصية
+#META# AuthorID: 85181373
+#META# Author: أحمد عبد الواحد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

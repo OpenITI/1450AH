@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YasminCarabi.TahwilatManhattan.Hindawi84282618",
-    "BookCats": "literature :: novels",
-    "BookID": "84282618",
-    "BookTitle": "تحويلة مانهاتن",
-    "AuthorID": "94072427",
-    "AuthorNam": "جون دوس باسوس",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "62958680",
-    "TranslNam": "ياسمين العربي",
-    "BookRel": "1390JohnDosPassos.ManhattanTransfer (TRANSL)"
-}
-
+#META# URI: 1450YasminCarabi.TahwilatManhattan.Hindawi84282618
+#META# Tags: literature :: novels
+#META# ID: 84282618
+#META# Title: تحويلة مانهاتن
+#META# AuthorID: 94072427
+#META# Author: جون دوس باسوس
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 62958680
+#META# Translator: ياسمين العربي
+#META# Related_books: 1390JohnDosPassos.ManhattanTransfer (TRANSL)
 
 #META#Header#End#
 

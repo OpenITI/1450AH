@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443HasanHanafi.MinNaqlIlaIbdacSharh.Hindawi70963819",
-    "BookCats": "philosophy",
-    "BookID": "70963819",
-    "BookTitle": "من النقل إلى الإبداع (المجلد الأول النقل): (٣) الشرح: التفسير – التلخيص – الجوامع",
-    "AuthorID": "51618527",
-    "AuthorNam": "حسن حنفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443HasanHanafi.MinNaqlIlaIbdacSharh.Hindawi70963819
+#META# Tags: philosophy
+#META# ID: 70963819
+#META# Title: من النقل إلى الإبداع (المجلد الأول النقل): (٣) الشرح: التفسير – التلخيص – الجوامع
+#META# AuthorID: 51618527
+#META# Author: حسن حنفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

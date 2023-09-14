@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450RashidCalawi.FalsafaBiSiratMuannath.Hindawi61731841",
-    "BookCats": "philosophy",
-    "BookID": "61731841",
-    "BookTitle": "الفلسفة بصيغة المؤنث",
-    "AuthorID": "53597570",
-    "AuthorNam": "رشيد العلوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450RashidCalawi.FalsafaBiSiratMuannath.Hindawi61731841
+#META# Tags: philosophy
+#META# ID: 61731841
+#META# Title: الفلسفة بصيغة المؤنث
+#META# AuthorID: 53597570
+#META# Author: رشيد العلوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

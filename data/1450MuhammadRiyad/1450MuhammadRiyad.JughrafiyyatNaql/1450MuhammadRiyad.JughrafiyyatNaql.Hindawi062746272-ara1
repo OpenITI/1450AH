@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.JughrafiyyatNaql.Hindawi62746272",
-    "BookCats": "geography",
-    "BookID": "62746272",
-    "BookTitle": "جغرافية النقل",
-    "AuthorID": "19152686",
-    "AuthorNam": "محمد رياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.JughrafiyyatNaql.Hindawi62746272
+#META# Tags: geography
+#META# ID: 62746272
+#META# Title: جغرافية النقل
+#META# AuthorID: 19152686
+#META# Author: محمد رياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

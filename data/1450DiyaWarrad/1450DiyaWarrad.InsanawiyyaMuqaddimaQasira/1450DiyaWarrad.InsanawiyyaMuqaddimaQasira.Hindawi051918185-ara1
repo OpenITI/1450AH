@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450DiyaWarrad.InsanawiyyaMuqaddimaQasira.Hindawi51918185",
-    "BookCats": "philosophy",
-    "BookID": "51918185",
-    "BookTitle": "الإنسانوية: مقدمة قصيرة جدًّا",
-    "AuthorID": "79293757",
-    "AuthorNam": "ستيفن لو",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "18393159",
-    "TranslNam": "ضياء ورَّاد",
-    "BookRel": "1450StephenLaw.HumanismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450DiyaWarrad.InsanawiyyaMuqaddimaQasira.Hindawi51918185
+#META# Tags: philosophy
+#META# ID: 51918185
+#META# Title: الإنسانوية: مقدمة قصيرة جدًّا
+#META# AuthorID: 79293757
+#META# Author: ستيفن لو
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 18393159
+#META# Translator: ضياء ورَّاد
+#META# Related_books: 1450StephenLaw.HumanismShortIntro (TRANSL)
 
 #META#Header#End#
 

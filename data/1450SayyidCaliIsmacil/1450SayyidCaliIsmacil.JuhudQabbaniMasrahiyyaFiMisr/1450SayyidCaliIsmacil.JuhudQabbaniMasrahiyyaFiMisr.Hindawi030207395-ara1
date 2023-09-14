@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SayyidCaliIsmacil.JuhudQabbaniMasrahiyyaFiMisr.Hindawi30207395",
-    "BookCats": "plays :: history",
-    "BookID": "30207395",
-    "BookTitle": "جهود القباني المسرحية في مصر",
-    "AuthorID": "91509525",
-    "AuthorNam": "سيد علي إسماعيل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SayyidCaliIsmacil.JuhudQabbaniMasrahiyyaFiMisr.Hindawi30207395
+#META# Tags: plays :: history
+#META# ID: 30207395
+#META# Title: جهود القباني المسرحية في مصر
+#META# AuthorID: 91509525
+#META# Author: سيد علي إسماعيل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

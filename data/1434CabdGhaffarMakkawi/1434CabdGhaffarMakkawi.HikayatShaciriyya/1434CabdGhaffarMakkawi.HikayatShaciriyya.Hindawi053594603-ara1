@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.HikayatShaciriyya.Hindawi53594603",
-    "BookCats": "poetry",
-    "BookID": "53594603",
-    "BookTitle": "حكايات شاعرية: قصائد قصصية من الأدب الألماني الحديث",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.HikayatShaciriyya.Hindawi53594603
+#META# Tags: poetry
+#META# ID: 53594603
+#META# Title: حكايات شاعرية: قصائد قصصية من الأدب الألماني الحديث
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

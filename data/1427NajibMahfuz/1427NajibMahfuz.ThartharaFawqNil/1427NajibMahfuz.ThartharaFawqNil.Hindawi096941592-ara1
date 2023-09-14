@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1427NajibMahfuz.ThartharaFawqNil.Hindawi96941592",
-    "BookCats": "novels",
-    "BookID": "96941592",
-    "BookTitle": "ثرثرة فوق النيل",
-    "AuthorID": "71616385",
-    "AuthorNam": "نجيب محفوظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1427NajibMahfuz.ThartharaFawqNil.Hindawi96941592
+#META# Tags: novels
+#META# ID: 96941592
+#META# Title: ثرثرة فوق النيل
+#META# AuthorID: 71616385
+#META# Author: نجيب محفوظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

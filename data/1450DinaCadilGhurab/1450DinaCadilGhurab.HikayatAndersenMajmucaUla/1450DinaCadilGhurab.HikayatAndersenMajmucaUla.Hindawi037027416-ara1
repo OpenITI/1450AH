@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450DinaCadilGhurab.HikayatAndersenMajmucaUla.Hindawi37027416",
-    "BookCats": "literature",
-    "BookID": "37027416",
-    "BookTitle": "حكايات هانس أندرسن الخيالية: المجموعة الأولى",
-    "AuthorID": "93637136",
-    "AuthorNam": "هانس كريستيان أندرسن",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "79161826",
-    "TranslNam": "دينا عادل غراب",
-    "BookRel": "1292HansChristianAndersen.FairyTalesFirstCollection (TRANSL)"
-}
-
+#META# URI: 1450DinaCadilGhurab.HikayatAndersenMajmucaUla.Hindawi37027416
+#META# Tags: literature
+#META# ID: 37027416
+#META# Title: حكايات هانس أندرسن الخيالية: المجموعة الأولى
+#META# AuthorID: 93637136
+#META# Author: هانس كريستيان أندرسن
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 79161826
+#META# Translator: دينا عادل غراب
+#META# Related_books: 1292HansChristianAndersen.FairyTalesFirstCollection (TRANSL)
 
 #META#Header#End#
 

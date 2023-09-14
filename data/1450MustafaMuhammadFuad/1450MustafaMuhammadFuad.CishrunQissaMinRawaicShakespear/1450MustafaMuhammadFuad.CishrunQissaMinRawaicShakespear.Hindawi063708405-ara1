@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MustafaMuhammadFuad.CishrunQissaMinRawaicShakespear.Hindawi63708405",
-    "BookCats": "literature",
-    "BookID": "63708405",
-    "BookTitle": "عشرون قصة من روائع شكسبير",
-    "AuthorID": "96371927",
-    "AuthorNam": "إديث نسبيت",
-    "EditorID": "46097241",
-    "EditorNam": "هبة عبد العزيز غانم",
-    "TranslID": "73586958",
-    "TranslNam": "مصطفى محمد فؤاد",
-    "BookRel": "1342EdithNesbit.ChildrensShakespeare (TRANSL)"
-}
-
+#META# URI: 1450MustafaMuhammadFuad.CishrunQissaMinRawaicShakespear.Hindawi63708405
+#META# Tags: literature
+#META# ID: 63708405
+#META# Title: عشرون قصة من روائع شكسبير
+#META# AuthorID: 96371927
+#META# Author: إديث نسبيت
+#META# EditorID: 46097241
+#META# Editor: هبة عبد العزيز غانم
+#META# TranslatorID: 73586958
+#META# Translator: مصطفى محمد فؤاد
+#META# Related_books: 1342EdithNesbit.ChildrensShakespeare (TRANSL)
 
 #META#Header#End#
 

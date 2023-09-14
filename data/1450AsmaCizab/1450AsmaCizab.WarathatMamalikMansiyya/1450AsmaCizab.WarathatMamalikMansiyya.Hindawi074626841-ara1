@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AsmaCizab.WarathatMamalikMansiyya.Hindawi74626841",
-    "BookCats": "history :: religions",
-    "BookID": "74626841",
-    "BookTitle": "ورَثة الممالك المنسيَّة: ديانات آفلة في الشرق الأوسط",
-    "AuthorID": "73830207",
-    "AuthorNam": "جيرارد راسل",
-    "EditorID": "51613802",
-    "EditorNam": "محمد حامد درويش",
-    "TranslID": "80851514",
-    "TranslNam": "أسماء عزب",
-    "BookRel": "1450GeraldRussell.HeirsToForgottenKingdoms (TRANSL)"
-}
-
+#META# URI: 1450AsmaCizab.WarathatMamalikMansiyya.Hindawi74626841
+#META# Tags: history :: religions
+#META# ID: 74626841
+#META# Title: ورَثة الممالك المنسيَّة: ديانات آفلة في الشرق الأوسط
+#META# AuthorID: 73830207
+#META# Author: جيرارد راسل
+#META# EditorID: 51613802
+#META# Editor: محمد حامد درويش
+#META# TranslatorID: 80851514
+#META# Translator: أسماء عزب
+#META# Related_books: 1450GeraldRussell.HeirsToForgottenKingdoms (TRANSL)
 
 #META#Header#End#
 

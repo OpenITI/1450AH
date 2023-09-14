@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450YumnaTarifKhuli.TabiciyyatFiCilmKalam.Hindawi64153817",
-    "BookCats": "philosophy",
-    "BookID": "64153817",
-    "BookTitle": "الطبيعيات في علم الكلام: من الماضي إلى المستقبل",
-    "AuthorID": "94709302",
-    "AuthorNam": "يمنى طريف الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450YumnaTarifKhuli.TabiciyyatFiCilmKalam.Hindawi64153817
+#META# Tags: philosophy
+#META# ID: 64153817
+#META# Title: الطبيعيات في علم الكلام: من الماضي إلى المستقبل
+#META# AuthorID: 94709302
+#META# Author: يمنى طريف الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

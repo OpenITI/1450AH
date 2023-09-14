@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.Taammulat.Hindawi39571313",
-    "BookCats": "philosophy",
-    "BookID": "39571313",
-    "BookTitle": "التأملات",
-    "AuthorID": "57096308",
-    "AuthorNam": "ماركوس أوريليوس",
-    "EditorID": "36490696",
-    "EditorNam": "أحمد عتمان",
-    "TranslID": "24079572",
-    "TranslNam": "عادل مصطفى",
-    "BookRel": "0001MarcusAurelius.TaEisHeauton (TRANSL)"
-}
-
+#META# URI: 1450CadilMustafa.Taammulat.Hindawi39571313
+#META# Tags: philosophy
+#META# ID: 39571313
+#META# Title: التأملات
+#META# AuthorID: 57096308
+#META# Author: ماركوس أوريليوس
+#META# EditorID: 36490696
+#META# Editor: أحمد عتمان
+#META# TranslatorID: 24079572
+#META# Translator: عادل مصطفى
+#META# Related_books: 0001MarcusAurelius.TaEisHeauton (TRANSL)
 
 #META#Header#End#
 

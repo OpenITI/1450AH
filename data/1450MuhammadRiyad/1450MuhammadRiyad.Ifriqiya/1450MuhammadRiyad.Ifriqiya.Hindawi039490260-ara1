@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.Ifriqiya.Hindawi39490260",
-    "BookCats": "geography",
-    "BookID": "39490260",
-    "BookTitle": "أفريقيا: دراسة لمقوِّمات القارَّة",
-    "AuthorID": "19152686 :: 40620386",
-    "AuthorNam": "محمد رياض :: كوثر عبد الرسول",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.Ifriqiya.Hindawi39490260
+#META# Tags: geography
+#META# ID: 39490260
+#META# Title: أفريقيا: دراسة لمقوِّمات القارَّة
+#META# AuthorID: 19152686 :: 40620386
+#META# Author: محمد رياض :: كوثر عبد الرسول
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

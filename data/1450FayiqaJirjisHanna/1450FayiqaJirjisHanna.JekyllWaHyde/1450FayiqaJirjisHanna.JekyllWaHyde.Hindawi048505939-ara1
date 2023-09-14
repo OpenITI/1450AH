@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FayiqaJirjisHanna.JekyllWaHyde.Hindawi48505939",
-    "BookCats": "literature",
-    "BookID": "48505939",
-    "BookTitle": "الدكتور جيكل والسيد هايد",
-    "AuthorID": "13740737",
-    "AuthorNam": "روبرت لويس ستيفنسون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "30694819",
-    "TranslNam": "فايقة جرجس حنا",
-    "BookRel": "1311RobertLouisStevenson.DrJekyllAndMrHyde (TRANSL)"
-}
-
+#META# URI: 1450FayiqaJirjisHanna.JekyllWaHyde.Hindawi48505939
+#META# Tags: literature
+#META# ID: 48505939
+#META# Title: الدكتور جيكل والسيد هايد
+#META# AuthorID: 13740737
+#META# Author: روبرت لويس ستيفنسون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 30694819
+#META# Translator: فايقة جرجس حنا
+#META# Related_books: 1311RobertLouisStevenson.DrJekyllAndMrHyde (TRANSL)
 
 #META#Header#End#
 

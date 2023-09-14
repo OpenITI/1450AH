@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadIbrahimSayyid.GhandiSiraDhatiyya.Hindawi14284174",
-    "BookCats": "biographies",
-    "BookID": "14284174",
-    "BookTitle": "غاندي السيرة الذاتية: قصة تجاربي مع الحقيقة",
-    "AuthorID": "84070297",
-    "AuthorNam": "مهنداس كارامشاند غاندي",
-    "EditorID": "49027036",
-    "EditorNam": "مجدي عبد الواحد عنبة",
-    "TranslID": "30804927",
-    "TranslNam": "محمد إبراهيم السيد",
-    "BookRel": "1367MahatmaGandhi.Biography (TRANSL)"
-}
-
+#META# URI: 1450MuhammadIbrahimSayyid.GhandiSiraDhatiyya.Hindawi14284174
+#META# Tags: biographies
+#META# ID: 14284174
+#META# Title: غاندي السيرة الذاتية: قصة تجاربي مع الحقيقة
+#META# AuthorID: 84070297
+#META# Author: مهنداس كارامشاند غاندي
+#META# EditorID: 49027036
+#META# Editor: مجدي عبد الواحد عنبة
+#META# TranslatorID: 30804927
+#META# Translator: محمد إبراهيم السيد
+#META# Related_books: 1367MahatmaGandhi.Biography (TRANSL)
 
 #META#Header#End#
 

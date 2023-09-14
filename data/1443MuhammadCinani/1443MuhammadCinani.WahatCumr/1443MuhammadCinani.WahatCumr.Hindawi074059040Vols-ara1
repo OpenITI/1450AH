@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.WahatCumr1.Hindawi74059040",
-    "BookCats": "biographies",
-    "BookID": "74059040",
-    "BookTitle": "واحات العمر: سيرة ذاتية: الجزء الأول",
-    "AuthorID": "84758179",
-    "AuthorNam": "محمد عناني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443MuhammadCinani.WahatCumr1.Hindawi74059040
+#META# Tags: biographies
+#META# ID: 74059040
+#META# Title: واحات العمر: سيرة ذاتية: الجزء الأول
+#META# AuthorID: 84758179
+#META# Author: محمد عناني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

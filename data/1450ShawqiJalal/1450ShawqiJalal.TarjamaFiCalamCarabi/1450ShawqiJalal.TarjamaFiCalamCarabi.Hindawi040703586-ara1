@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShawqiJalal.TarjamaFiCalamCarabi.Hindawi40703586",
-    "BookCats": "linguistics",
-    "BookID": "40703586",
-    "BookTitle": "الترجمة في العالم العربي: الواقع والتحدي: في ضوء مقارنة إحصائية واضحة الدلالة",
-    "AuthorID": "90631535",
-    "AuthorNam": "شوقي جلال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450ShawqiJalal.TarjamaFiCalamCarabi.Hindawi40703586
+#META# Tags: linguistics
+#META# ID: 40703586
+#META# Title: الترجمة في العالم العربي: الواقع والتحدي: في ضوء مقارنة إحصائية واضحة الدلالة
+#META# AuthorID: 90631535
+#META# Author: شوقي جلال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

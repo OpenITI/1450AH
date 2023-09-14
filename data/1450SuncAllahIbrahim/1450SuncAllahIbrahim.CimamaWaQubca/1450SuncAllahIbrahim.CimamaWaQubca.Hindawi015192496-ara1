@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuncAllahIbrahim.CimamaWaQubca.Hindawi15192496",
-    "BookCats": "history :: novels",
-    "BookID": "15192496",
-    "BookTitle": "العمامة والقبعة",
-    "AuthorID": "17162047",
-    "AuthorNam": "صنع الله إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SuncAllahIbrahim.CimamaWaQubca.Hindawi15192496
+#META# Tags: history :: novels
+#META# ID: 15192496
+#META# Title: العمامة والقبعة
+#META# AuthorID: 17162047
+#META# Author: صنع الله إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

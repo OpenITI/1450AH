@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.TafkirCilmi.Hindawi40719685",
-    "BookCats": "philosophy",
-    "BookID": "40719685",
-    "BookTitle": "التفكير العلمي",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.TafkirCilmi.Hindawi40719685
+#META# Tags: philosophy
+#META# ID: 40719685
+#META# Title: التفكير العلمي
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

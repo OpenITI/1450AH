@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SairBasmaji.Tabrid.Hindawi61830848",
-    "BookCats": "history",
-    "BookID": "61830848",
-    "BookTitle": "التبريد في التراث العلمي العربي",
-    "AuthorID": "48474625",
-    "AuthorNam": "سائر بصمه جي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SairBasmaji.Tabrid.Hindawi61830848
+#META# Tags: history
+#META# ID: 61830848
+#META# Title: التبريد في التراث العلمي العربي
+#META# AuthorID: 48474625
+#META# Author: سائر بصمه جي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

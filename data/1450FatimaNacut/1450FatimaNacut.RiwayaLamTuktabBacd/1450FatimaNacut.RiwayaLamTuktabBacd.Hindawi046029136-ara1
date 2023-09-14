@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FatimaNacut.RiwayaLamTuktabBacd.Hindawi46029136",
-    "BookCats": "novels",
-    "BookID": "46029136",
-    "BookTitle": "فرجينيا وولف … رواية لم تكتب بعد",
-    "AuthorID": "71608492",
-    "AuthorNam": "فرجينيا وولف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "96907318",
-    "TranslNam": "فاطمة ناعوت",
-    "BookRel": "1360VirginiaWoolf (TRANSL)"
-}
-
+#META# URI: 1450FatimaNacut.RiwayaLamTuktabBacd.Hindawi46029136
+#META# Tags: novels
+#META# ID: 46029136
+#META# Title: فرجينيا وولف … رواية لم تكتب بعد
+#META# AuthorID: 71608492
+#META# Author: فرجينيا وولف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 96907318
+#META# Translator: فاطمة ناعوت
+#META# Related_books: 1360VirginiaWoolf (TRANSL)
 
 #META#Header#End#
 

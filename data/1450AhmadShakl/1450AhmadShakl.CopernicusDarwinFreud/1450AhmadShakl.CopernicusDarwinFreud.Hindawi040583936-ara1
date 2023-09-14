@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AhmadShakl.CopernicusDarwinFreud.Hindawi40583936",
-    "BookCats": "science :: philosophy",
-    "BookID": "40583936",
-    "BookTitle": "كوبرنيكوس وداروين وفرويد: ثورات في تاريخِ وفلسفةِ العلم",
-    "AuthorID": "42084937",
-    "AuthorNam": "فريدل فاينِرت",
-    "EditorID": "18571738",
-    "EditorNam": "محمد فتحي خضر",
-    "TranslID": "85031404",
-    "TranslNam": "أحمد شكل",
-    "BookRel": "1450FriedelWeinert.CopernicusDarwinFreud (TRANSL)"
-}
-
+#META# URI: 1450AhmadShakl.CopernicusDarwinFreud.Hindawi40583936
+#META# Tags: science :: philosophy
+#META# ID: 40583936
+#META# Title: كوبرنيكوس وداروين وفرويد: ثورات في تاريخِ وفلسفةِ العلم
+#META# AuthorID: 42084937
+#META# Author: فريدل فاينِرت
+#META# EditorID: 18571738
+#META# Editor: محمد فتحي خضر
+#META# TranslatorID: 85031404
+#META# Translator: أحمد شكل
+#META# Related_books: 1450FriedelWeinert.CopernicusDarwinFreud (TRANSL)
 
 #META#Header#End#
 

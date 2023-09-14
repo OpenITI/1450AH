@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CaliShadawi.TarikhNahwCarabi.Hindawi60697085",
-    "BookCats": "linguistics",
-    "BookID": "60697085",
-    "BookTitle": "تاريخ النحو العربي: منظورًا إليه من جهة تطور مفهومه: تأملات استكشافية",
-    "AuthorID": "95080425",
-    "AuthorNam": "علي الشدوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CaliShadawi.TarikhNahwCarabi.Hindawi60697085
+#META# Tags: linguistics
+#META# ID: 60697085
+#META# Title: تاريخ النحو العربي: منظورًا إليه من جهة تطور مفهومه: تأملات استكشافية
+#META# AuthorID: 95080425
+#META# Author: علي الشدوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

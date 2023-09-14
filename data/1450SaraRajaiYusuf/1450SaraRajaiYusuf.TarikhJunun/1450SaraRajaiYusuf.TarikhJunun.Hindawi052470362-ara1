@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SaraRajaiYusuf.TarikhJunun.Hindawi52470362",
-    "BookCats": "psychology",
-    "BookID": "52470362",
-    "BookTitle": "تاريخ الجنون: من العصور القديمة وحتى يومنا هذا",
-    "AuthorID": "61807194",
-    "AuthorNam": "كلود كيتيل",
-    "EditorID": "29647426",
-    "EditorNam": "داليا محمد السيد الطوخي",
-    "TranslID": "40904240 :: 51514819",
-    "TranslNam": "سارة رجائي يوسف :: كريستينا سمير فكري",
-    "BookRel": "1450ClaudeQuetel.HistoireDeFolie (TRANSL)"
-}
-
+#META# URI: 1450SaraRajaiYusuf.TarikhJunun.Hindawi52470362
+#META# Tags: psychology
+#META# ID: 52470362
+#META# Title: تاريخ الجنون: من العصور القديمة وحتى يومنا هذا
+#META# AuthorID: 61807194
+#META# Author: كلود كيتيل
+#META# EditorID: 29647426
+#META# Editor: داليا محمد السيد الطوخي
+#META# TranslatorID: 40904240 :: 51514819
+#META# Translator: سارة رجائي يوسف :: كريستينا سمير فكري
+#META# Related_books: 1450ClaudeQuetel.HistoireDeFolie (TRANSL)
 
 #META#Header#End#
 

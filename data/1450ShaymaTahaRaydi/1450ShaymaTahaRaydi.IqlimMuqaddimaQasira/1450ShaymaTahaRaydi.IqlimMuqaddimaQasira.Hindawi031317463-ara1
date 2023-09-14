@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.IqlimMuqaddimaQasira.Hindawi31317463",
-    "BookCats": "politics :: geography :: social.sciences",
-    "BookID": "31317463",
-    "BookTitle": "الإقليم: مقدمة قصيرة",
-    "AuthorID": "62582814",
-    "AuthorNam": "ديفيد ديلاني",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450MarkMaslin.ClimateShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.IqlimMuqaddimaQasira.Hindawi31317463
+#META# Tags: politics :: geography :: social.sciences
+#META# ID: 31317463
+#META# Title: الإقليم: مقدمة قصيرة
+#META# AuthorID: 62582814
+#META# Author: ديفيد ديلاني
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450MarkMaslin.ClimateShortIntro (TRANSL)
 
 #META#Header#End#
 

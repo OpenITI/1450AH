@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CabdFattahCabdAllah.RimalMughanniyya.Hindawi17537283",
-    "BookCats": "novels",
-    "BookID": "17537283",
-    "BookTitle": "الرمال المُغنية",
-    "AuthorID": "17091369",
-    "AuthorNam": "جوزفين تاي",
-    "EditorID": "51613802",
-    "EditorNam": "محمد حامد درويش",
-    "TranslID": "73637907",
-    "TranslNam": "عبد الفتاح عبد الله",
-    "BookRel": "1371JosephineTey.SingingSands (TRANSL)"
-}
-
+#META# URI: 1450CabdFattahCabdAllah.RimalMughanniyya.Hindawi17537283
+#META# Tags: novels
+#META# ID: 17537283
+#META# Title: الرمال المُغنية
+#META# AuthorID: 17091369
+#META# Author: جوزفين تاي
+#META# EditorID: 51613802
+#META# Editor: محمد حامد درويش
+#META# TranslatorID: 73637907
+#META# Translator: عبد الفتاح عبد الله
+#META# Related_books: 1371JosephineTey.SingingSands (TRANSL)
 
 #META#Header#End#
 

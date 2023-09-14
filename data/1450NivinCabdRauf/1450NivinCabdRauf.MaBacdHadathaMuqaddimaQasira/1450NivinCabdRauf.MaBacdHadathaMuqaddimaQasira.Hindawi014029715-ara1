@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NivinCabdRauf.MaBacdHadathaMuqaddimaQasira.Hindawi14029715",
-    "BookCats": "philosophy",
-    "BookID": "14029715",
-    "BookTitle": "ما بعد الحداثة: مقدمة قصيرة جدًّا",
-    "AuthorID": "14708026",
-    "AuthorNam": "كريستوفر باتلر",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "93720406",
-    "TranslNam": "نيڤين عبد الرؤوف",
-    "BookRel": "1441ChristopherButler.PostmodernismShortIntro (TRANSL)"
-}
-
+#META# URI: 1450NivinCabdRauf.MaBacdHadathaMuqaddimaQasira.Hindawi14029715
+#META# Tags: philosophy
+#META# ID: 14029715
+#META# Title: ما بعد الحداثة: مقدمة قصيرة جدًّا
+#META# AuthorID: 14708026
+#META# Author: كريستوفر باتلر
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 93720406
+#META# Translator: نيڤين عبد الرؤوف
+#META# Related_books: 1441ChristopherButler.PostmodernismShortIntro (TRANSL)
 
 #META#Header#End#
 

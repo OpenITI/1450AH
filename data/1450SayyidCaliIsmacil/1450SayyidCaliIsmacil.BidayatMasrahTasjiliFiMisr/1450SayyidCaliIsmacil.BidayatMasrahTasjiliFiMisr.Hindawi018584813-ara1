@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SayyidCaliIsmacil.BidayatMasrahTasjiliFiMisr.Hindawi18584813",
-    "BookCats": "plays :: history",
-    "BookID": "18584813",
-    "BookTitle": "بداية المسرح التسجيلي في مصر: مسرحية الأزهر وقضية حمادة باشا نموذجًا",
-    "AuthorID": "91509525",
-    "AuthorNam": "سيد علي إسماعيل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SayyidCaliIsmacil.BidayatMasrahTasjiliFiMisr.Hindawi18584813
+#META# Tags: plays :: history
+#META# ID: 18584813
+#META# Title: بداية المسرح التسجيلي في مصر: مسرحية الأزهر وقضية حمادة باشا نموذجًا
+#META# AuthorID: 91509525
+#META# Author: سيد علي إسماعيل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

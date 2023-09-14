@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.MasrahMalhami.Hindawi95314142",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "95314142",
-    "BookTitle": "المسرح الملحمي",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.MasrahMalhami.Hindawi95314142
+#META# Tags: literary.criticism :: literature
+#META# ID: 95314142
+#META# Title: المسرح الملحمي
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

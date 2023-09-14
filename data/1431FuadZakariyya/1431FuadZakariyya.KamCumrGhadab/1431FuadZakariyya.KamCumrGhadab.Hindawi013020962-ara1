@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.KamCumrGhadab.Hindawi13020962",
-    "BookCats": "history",
-    "BookID": "13020962",
-    "BookTitle": "كم عمر الغضب؟: هيكل وأزمة العقل العربي",
-    "AuthorID": "90639697",
-    "AuthorNam": "فؤاد زكريا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1431FuadZakariyya.KamCumrGhadab.Hindawi13020962
+#META# Tags: history
+#META# ID: 13020962
+#META# Title: كم عمر الغضب؟: هيكل وأزمة العقل العربي
+#META# AuthorID: 90639697
+#META# Author: فؤاد زكريا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443MuhammadCinani.HenryThamin.Hindawi18420938",
-    "BookCats": "plays",
-    "BookID": "18420938",
-    "BookTitle": "هنري الثامن",
-    "AuthorID": "51483537",
-    "AuthorNam": "وليم شيكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "84758179",
-    "TranslNam": "محمد عناني",
-    "BookRel": "1024WilliamShakespeare.HenryEighth (TRANSL)"
-}
-
+#META# URI: 1443MuhammadCinani.HenryThamin.Hindawi18420938
+#META# Tags: plays
+#META# ID: 18420938
+#META# Title: هنري الثامن
+#META# AuthorID: 51483537
+#META# Author: وليم شيكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 84758179
+#META# Translator: محمد عناني
+#META# Related_books: 1024WilliamShakespeare.HenryEighth (TRANSL)
 
 #META#Header#End#
 

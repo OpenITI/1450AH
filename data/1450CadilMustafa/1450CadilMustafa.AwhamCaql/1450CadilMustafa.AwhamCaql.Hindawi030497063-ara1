@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.AwhamCaql.Hindawi30497063",
-    "BookCats": "philosophy",
-    "BookID": "30497063",
-    "BookTitle": "أوهام العقل: قراءة في «الأورجانون الجديد» لفرانسيس بيكون",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.AwhamCaql.Hindawi30497063
+#META# Tags: philosophy
+#META# ID: 30497063
+#META# Title: أوهام العقل: قراءة في «الأورجانون الجديد» لفرانسيس بيكون
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

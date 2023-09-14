@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.NusakhFiWahy.Hindawi80948138",
-    "BookCats": "history",
-    "BookID": "80948138",
-    "BookTitle": "النسخ في الوحي: محاولة فهم",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.NusakhFiWahy.Hindawi80948138
+#META# Tags: history
+#META# ID: 80948138
+#META# Title: النسخ في الوحي: محاولة فهم
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

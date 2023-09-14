@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HaniSalimi.Massa.Hindawi53192524",
-    "BookCats": "novels",
-    "BookID": "53192524",
-    "BookTitle": "ماسة",
-    "AuthorID": "42508082",
-    "AuthorNam": "هاني السالمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450HaniSalimi.Massa.Hindawi53192524
+#META# Tags: novels
+#META# ID: 53192524
+#META# Title: ماسة
+#META# AuthorID: 42508082
+#META# Author: هاني السالمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

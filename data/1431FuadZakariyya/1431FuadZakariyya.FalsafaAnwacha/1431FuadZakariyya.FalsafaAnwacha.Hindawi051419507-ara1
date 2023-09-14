@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1431FuadZakariyya.FalsafaAnwacha.Hindawi51419507",
-    "BookCats": "philosophy",
-    "BookID": "51419507",
-    "BookTitle": "الفلسفة أنواعها ومشكلاتها",
-    "AuthorID": "85718149",
-    "AuthorNam": "هنتر ميد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "90639697",
-    "TranslNam": "فؤاد زكريا",
-    "BookRel": "1380HunterMead.TypesAndProblemsOfPhilosophy (TRANSL)"
-}
-
+#META# URI: 1431FuadZakariyya.FalsafaAnwacha.Hindawi51419507
+#META# Tags: philosophy
+#META# ID: 51419507
+#META# Title: الفلسفة أنواعها ومشكلاتها
+#META# AuthorID: 85718149
+#META# Author: هنتر ميد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 90639697
+#META# Translator: فؤاد زكريا
+#META# Related_books: 1380HunterMead.TypesAndProblemsOfPhilosophy (TRANSL)
 
 #META#Header#End#
 

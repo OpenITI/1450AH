@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SafiyaMukhtar.UsusThaqafiyyaLiUmam.Hindawi26080506",
-    "BookCats": "history :: social.sciences",
-    "BookID": "26080506",
-    "BookTitle": "الأسس الثقافية للأمم: الهرمية والعهد والجمهورية",
-    "AuthorID": "27461913",
-    "AuthorNam": "أنتوني دي سميث",
-    "EditorID": "75847252 :: 86352036",
-    "EditorNam": "سارة عادل :: هبة عبد المولى أحمد",
-    "TranslID": "25135729",
-    "TranslNam": "صفية  مختار",
-    "BookRel": "1437AnthonyDavidSmith.EthnicOriginsOfNations (TRANSL)"
-}
-
+#META# URI: 1450SafiyaMukhtar.UsusThaqafiyyaLiUmam.Hindawi26080506
+#META# Tags: history :: social.sciences
+#META# ID: 26080506
+#META# Title: الأسس الثقافية للأمم: الهرمية والعهد والجمهورية
+#META# AuthorID: 27461913
+#META# Author: أنتوني دي سميث
+#META# EditorID: 75847252 :: 86352036
+#META# Editor: سارة عادل :: هبة عبد المولى أحمد
+#META# TranslatorID: 25135729
+#META# Translator: صفية  مختار
+#META# Related_books: 1437AnthonyDavidSmith.EthnicOriginsOfNations (TRANSL)
 
 #META#Header#End#
 

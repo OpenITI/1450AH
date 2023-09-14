@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadIbrahimSayyid.HegelMuqaddimaQasira.Hindawi17351825",
-    "BookCats": "philosophy",
-    "BookID": "17351825",
-    "BookTitle": "هيجل: مقدمة قصيرة جدًّا",
-    "AuthorID": "24257136",
-    "AuthorNam": "بيتر سينجر",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "30804927",
-    "TranslNam": "محمد إبراهيم السيد",
-    "BookRel": "1450PeterSinger.HegelShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MuhammadIbrahimSayyid.HegelMuqaddimaQasira.Hindawi17351825
+#META# Tags: philosophy
+#META# ID: 17351825
+#META# Title: هيجل: مقدمة قصيرة جدًّا
+#META# AuthorID: 24257136
+#META# Author: بيتر سينجر
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 30804927
+#META# Translator: محمد إبراهيم السيد
+#META# Related_books: 1450PeterSinger.HegelShortIntro (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450CadilMustafa.WahmThawabit.Hindawi36161402",
-    "BookCats": "philosophy",
-    "BookID": "36161402",
-    "BookTitle": "وهم الثوابت: قراءات ودراسات في الفلسفة والنفس",
-    "AuthorID": "24079572",
-    "AuthorNam": "عادل مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450CadilMustafa.WahmThawabit.Hindawi36161402
+#META# Tags: philosophy
+#META# ID: 36161402
+#META# Title: وهم الثوابت: قراءات ودراسات في الفلسفة والنفس
+#META# AuthorID: 24079572
+#META# Author: عادل مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

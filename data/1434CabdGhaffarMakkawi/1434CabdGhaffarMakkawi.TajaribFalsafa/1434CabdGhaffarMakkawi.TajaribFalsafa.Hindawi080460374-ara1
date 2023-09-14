@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1434CabdGhaffarMakkawi.TajaribFalsafa.Hindawi80460374",
-    "BookCats": "biographies :: philosophy",
-    "BookID": "80460374",
-    "BookTitle": "تجارب فلسفية",
-    "AuthorID": "46308160",
-    "AuthorNam": "عبد الغفار مكاوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1434CabdGhaffarMakkawi.TajaribFalsafa.Hindawi80460374
+#META# Tags: biographies :: philosophy
+#META# ID: 80460374
+#META# Title: تجارب فلسفية
+#META# AuthorID: 46308160
+#META# Author: عبد الغفار مكاوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

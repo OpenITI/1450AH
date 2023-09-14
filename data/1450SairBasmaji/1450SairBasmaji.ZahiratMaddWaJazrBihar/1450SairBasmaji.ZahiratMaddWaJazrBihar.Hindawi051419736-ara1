@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SairBasmaji.ZahiratMaddWaJazrBihar.Hindawi51419736",
-    "BookCats": "history",
-    "BookID": "51419736",
-    "BookTitle": "ظاهرة مد وجزر البحار في التراث العلمي العربي: مراحل تطور النظريات العلمية التي تفسر ظاهرة المد والجزر في البحار وإسهامات العلماء العرب والمسلمين فيها مع تحقيق مجموعة من المخطوطات العربية المتعلقة بالموضوع",
-    "AuthorID": "48474625",
-    "AuthorNam": "سائر بصمه جي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SairBasmaji.ZahiratMaddWaJazrBihar.Hindawi51419736
+#META# Tags: history
+#META# ID: 51419736
+#META# Title: ظاهرة مد وجزر البحار في التراث العلمي العربي: مراحل تطور النظريات العلمية التي تفسر ظاهرة المد والجزر في البحار وإسهامات العلماء العرب والمسلمين فيها مع تحقيق مجموعة من المخطوطات العربية المتعلقة بالموضوع
+#META# AuthorID: 48474625
+#META# Author: سائر بصمه جي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

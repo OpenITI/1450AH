@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MahmudMuhammadCali.MantiqIshraqiCindaSuhrawardi.Hindawi41507040",
-    "BookCats": "philosophy :: history :: religions",
-    "BookID": "41507040",
-    "BookTitle": "المنطق الإشراقي عند السُّهرَورْدي المقتول",
-    "AuthorID": "97916307",
-    "AuthorNam": "محمود محمد علي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MahmudMuhammadCali.MantiqIshraqiCindaSuhrawardi.Hindawi41507040
+#META# Tags: philosophy :: history :: religions
+#META# ID: 41507040
+#META# Title: المنطق الإشراقي عند السُّهرَورْدي المقتول
+#META# AuthorID: 97916307
+#META# Author: محمود محمد علي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1443SayyidQimni.IntikasatMuslimin.Hindawi61585791",
-    "BookCats": "history",
-    "BookID": "61585791",
-    "BookTitle": "انتكاسة المسلمين إلى الوثنية: التشخيص قبل الإصلاح",
-    "AuthorID": "46815737",
-    "AuthorNam": "سيد القمني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1443SayyidQimni.IntikasatMuslimin.Hindawi61585791
+#META# Tags: history
+#META# ID: 61585791
+#META# Title: انتكاسة المسلمين إلى الوثنية: التشخيص قبل الإصلاح
+#META# AuthorID: 46815737
+#META# Author: سيد القمني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

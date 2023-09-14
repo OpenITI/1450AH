@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadIbrahimJundi.MantiqSalim.Hindawi94080792",
-    "BookCats": "history",
-    "BookID": "94080792",
-    "BookTitle": "المنطق السليم",
-    "AuthorID": "70916359",
-    "AuthorNam": "توماس بين",
-    "EditorID": "15741405",
-    "EditorNam": "حسام بيومي محمود",
-    "TranslID": "53746192",
-    "TranslNam": "محمد إبراهيم الجندي",
-    "BookRel": "1224ThomasPaine.CommonSense (TRANSL)"
-}
-
+#META# URI: 1450MuhammadIbrahimJundi.MantiqSalim.Hindawi94080792
+#META# Tags: history
+#META# ID: 94080792
+#META# Title: المنطق السليم
+#META# AuthorID: 70916359
+#META# Author: توماس بين
+#META# EditorID: 15741405
+#META# Editor: حسام بيومي محمود
+#META# TranslatorID: 53746192
+#META# Translator: محمد إبراهيم الجندي
+#META# Related_books: 1224ThomasPaine.CommonSense (TRANSL)
 
 #META#Header#End#
 

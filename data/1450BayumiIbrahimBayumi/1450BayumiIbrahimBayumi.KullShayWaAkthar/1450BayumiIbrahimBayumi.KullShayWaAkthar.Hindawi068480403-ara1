@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450BayumiIbrahimBayumi.KullShayWaAkthar.Hindawi68480403",
-    "BookCats": "philosophy",
-    "BookID": "68480403",
-    "BookTitle": "كل شيء وأكثر: تاريخ موجز للانهائية",
-    "AuthorID": "38282574",
-    "AuthorNam": "ديفيد فوستر والاس",
-    "EditorID": "86352036",
-    "EditorNam": "هبة عبد المولى أحمد",
-    "TranslID": "84851381",
-    "TranslNam": "بيومي إبراهيم بيومي",
-    "BookRel": "1429DavidFosterWallace.EverythingAndMore (TRANSL)"
-}
-
+#META# URI: 1450BayumiIbrahimBayumi.KullShayWaAkthar.Hindawi68480403
+#META# Tags: philosophy
+#META# ID: 68480403
+#META# Title: كل شيء وأكثر: تاريخ موجز للانهائية
+#META# AuthorID: 38282574
+#META# Author: ديفيد فوستر والاس
+#META# EditorID: 86352036
+#META# Editor: هبة عبد المولى أحمد
+#META# TranslatorID: 84851381
+#META# Translator: بيومي إبراهيم بيومي
+#META# Related_books: 1429DavidFosterWallace.EverythingAndMore (TRANSL)
 
 #META#Header#End#
 

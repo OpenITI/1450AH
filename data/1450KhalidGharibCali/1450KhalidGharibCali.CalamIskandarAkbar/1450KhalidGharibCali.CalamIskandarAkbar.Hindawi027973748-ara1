@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450KhalidGharibCali.CalamIskandarAkbar.Hindawi27973748",
-    "BookCats": "history",
-    "BookID": "27973748",
-    "BookTitle": "عالَم الإسكندر الأكبر",
-    "AuthorID": "47283097",
-    "AuthorNam": "كارول جي توماس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "14163505",
-    "TranslNam": "خالد غريب علي",
-    "BookRel": "1450CarolGThomas.WorldOfAlexander (TRANSL)"
-}
-
+#META# URI: 1450KhalidGharibCali.CalamIskandarAkbar.Hindawi27973748
+#META# Tags: history
+#META# ID: 27973748
+#META# Title: عالَم الإسكندر الأكبر
+#META# AuthorID: 47283097
+#META# Author: كارول جي توماس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 14163505
+#META# Translator: خالد غريب علي
+#META# Related_books: 1450CarolGThomas.WorldOfAlexander (TRANSL)
 
 #META#Header#End#
 

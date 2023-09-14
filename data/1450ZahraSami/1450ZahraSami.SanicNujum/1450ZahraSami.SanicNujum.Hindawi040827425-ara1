@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ZahraSami.SanicNujum.Hindawi40827425",
-    "BookCats": "literature",
-    "BookID": "40827425",
-    "BookTitle": "صانع النجوم",
-    "AuthorID": "68470817",
-    "AuthorNam": "أولاف ستيبلدون",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "83840647",
-    "TranslNam": "الزهراء سامي",
-    "BookRel": "1369OlafStapledon.StarMaker (TRANSL)"
-}
-
+#META# URI: 1450ZahraSami.SanicNujum.Hindawi40827425
+#META# Tags: literature
+#META# ID: 40827425
+#META# Title: صانع النجوم
+#META# AuthorID: 68470817
+#META# Author: أولاف ستيبلدون
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 83840647
+#META# Translator: الزهراء سامي
+#META# Related_books: 1369OlafStapledon.StarMaker (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HibaNajibMaghribi.AhlamMinAbi.Hindawi53080380",
-    "BookCats": "biographies",
-    "BookID": "53080380",
-    "BookTitle": "أحْلامٌ مِنْ أبِي: قِصَّةُ عِرْقٍ وإِرْث",
-    "AuthorID": "36030279",
-    "AuthorNam": "باراك أوباما",
-    "EditorID": "49027036",
-    "EditorNam": "مجدي عبد الواحد عنبة",
-    "TranslID": "53609040 :: 59292641",
-    "TranslNam": "هبة نجيب مغربي :: إيمان عبد الغني نجم",
-    "BookRel": "1450BarackObama.DreamsFromMyFather (TRANSL)"
-}
-
+#META# URI: 1450HibaNajibMaghribi.AhlamMinAbi.Hindawi53080380
+#META# Tags: biographies
+#META# ID: 53080380
+#META# Title: أحْلامٌ مِنْ أبِي: قِصَّةُ عِرْقٍ وإِرْث
+#META# AuthorID: 36030279
+#META# Author: باراك أوباما
+#META# EditorID: 49027036
+#META# Editor: مجدي عبد الواحد عنبة
+#META# TranslatorID: 53609040 :: 59292641
+#META# Translator: هبة نجيب مغربي :: إيمان عبد الغني نجم
+#META# Related_books: 1450BarackObama.DreamsFromMyFather (TRANSL)
 
 #META#Header#End#
 

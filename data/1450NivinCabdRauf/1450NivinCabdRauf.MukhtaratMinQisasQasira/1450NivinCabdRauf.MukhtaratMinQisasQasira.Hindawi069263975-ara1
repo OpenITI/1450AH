@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NivinCabdRauf.MukhtaratMinQisasQasira.Hindawi69263975",
-    "BookCats": "literature",
-    "BookID": "69263975",
-    "BookTitle": "مختارات من القصص القصيرة",
-    "AuthorID": "93624205",
-    "AuthorNam": "جيروم كيه جيروم",
-    "EditorID": "73586958",
-    "EditorNam": "مصطفى محمد فؤاد",
-    "TranslID": "93720406",
-    "TranslNam": "نيڤين حلمي عبد الرؤوف",
-    "BookRel": "1345JeromeKJerome (TRANSL)"
-}
-
+#META# URI: 1450NivinCabdRauf.MukhtaratMinQisasQasira.Hindawi69263975
+#META# Tags: literature
+#META# ID: 69263975
+#META# Title: مختارات من القصص القصيرة
+#META# AuthorID: 93624205
+#META# Author: جيروم كيه جيروم
+#META# EditorID: 73586958
+#META# Editor: مصطفى محمد فؤاد
+#META# TranslatorID: 93720406
+#META# Translator: نيڤين حلمي عبد الرؤوف
+#META# Related_books: 1345JeromeKJerome (TRANSL)
 
 #META#Header#End#
 

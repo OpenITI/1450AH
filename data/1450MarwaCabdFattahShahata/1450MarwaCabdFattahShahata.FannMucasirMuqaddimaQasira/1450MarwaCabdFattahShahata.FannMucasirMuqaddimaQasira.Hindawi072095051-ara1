@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MarwaCabdFattahShahata.FannMucasirMuqaddimaQasira.Hindawi72095051",
-    "BookCats": "arts",
-    "BookID": "72095051",
-    "BookTitle": "الفن المعاصر: مقدمة قصيرة جدًّا",
-    "AuthorID": "28373514",
-    "AuthorNam": "جوليان ستالابراس",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "30648375",
-    "TranslNam": "مروة عبد الفتاح شحاتة",
-    "BookRel": "1450JulianStallabrass.ContemporaryArtShortIntro (TRANSL)"
-}
-
+#META# URI: 1450MarwaCabdFattahShahata.FannMucasirMuqaddimaQasira.Hindawi72095051
+#META# Tags: arts
+#META# ID: 72095051
+#META# Title: الفن المعاصر: مقدمة قصيرة جدًّا
+#META# AuthorID: 28373514
+#META# Author: جوليان ستالابراس
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 30648375
+#META# Translator: مروة عبد الفتاح شحاتة
+#META# Related_books: 1450JulianStallabrass.ContemporaryArtShortIntro (TRANSL)
 
 #META#Header#End#
 

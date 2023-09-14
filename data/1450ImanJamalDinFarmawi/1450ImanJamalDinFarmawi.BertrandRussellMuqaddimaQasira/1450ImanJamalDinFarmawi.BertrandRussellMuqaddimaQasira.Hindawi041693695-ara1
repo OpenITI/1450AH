@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ImanJamalDinFarmawi.BertrandRussellMuqaddimaQasira.Hindawi41693695",
-    "BookCats": "biographies",
-    "BookID": "41693695",
-    "BookTitle": "برتراند راسل: مقدمة قصيرة جدًّا",
-    "AuthorID": "93738649",
-    "AuthorNam": "إيه سي جرايلينج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "69037363",
-    "TranslNam": "إيمان جمال الدين الفرماوي",
-    "BookRel": "1450ACGrayling.BertrandRussellShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ImanJamalDinFarmawi.BertrandRussellMuqaddimaQasira.Hindawi41693695
+#META# Tags: biographies
+#META# ID: 41693695
+#META# Title: برتراند راسل: مقدمة قصيرة جدًّا
+#META# AuthorID: 93738649
+#META# Author: إيه سي جرايلينج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 69037363
+#META# Translator: إيمان جمال الدين الفرماوي
+#META# Related_books: 1450ACGrayling.BertrandRussellShortIntro (TRANSL)
 
 #META#Header#End#
 

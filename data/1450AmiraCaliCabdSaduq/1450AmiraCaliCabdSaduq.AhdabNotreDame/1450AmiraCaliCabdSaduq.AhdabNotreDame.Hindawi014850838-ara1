@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AmiraCaliCabdSaduq.AhdabNotreDame.Hindawi14850838",
-    "BookCats": "literature",
-    "BookID": "14850838",
-    "BookTitle": "أحدب نوتردام",
-    "AuthorID": "83137380",
-    "AuthorNam": "فيكتور هوجو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27426846",
-    "TranslNam": "أميرة علي عبد الصادق",
-    "BookRel": "1302VictorHugo.NotreDameDeParis (TRANSL)"
-}
-
+#META# URI: 1450AmiraCaliCabdSaduq.AhdabNotreDame.Hindawi14850838
+#META# Tags: literature
+#META# ID: 14850838
+#META# Title: أحدب نوتردام
+#META# AuthorID: 83137380
+#META# Author: فيكتور هوجو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27426846
+#META# Translator: أميرة علي عبد الصادق
+#META# Related_books: 1302VictorHugo.NotreDameDeParis (TRANSL)
 
 #META#Header#End#
 

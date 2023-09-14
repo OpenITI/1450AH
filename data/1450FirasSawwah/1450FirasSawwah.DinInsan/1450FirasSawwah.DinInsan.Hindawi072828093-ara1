@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450FirasSawwah.DinInsan.Hindawi72828093",
-    "BookCats": "religions",
-    "BookID": "72828093",
-    "BookTitle": "دين الإنسان: بحث في ماهية الدين ومنشأ الدافع الديني",
-    "AuthorID": "80572614",
-    "AuthorNam": "فراس السواح",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450FirasSawwah.DinInsan.Hindawi72828093
+#META# Tags: religions
+#META# ID: 72828093
+#META# Title: دين الإنسان: بحث في ماهية الدين ومنشأ الدافع الديني
+#META# AuthorID: 80572614
+#META# Author: فراس السواح
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

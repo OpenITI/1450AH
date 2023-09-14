@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450HaniSalimi.Mulahiq.Hindawi42620818",
-    "BookCats": "novels",
-    "BookID": "42620818",
-    "BookTitle": "المُلاحَق: المسيحي الأخير",
-    "AuthorID": "42508082",
-    "AuthorNam": "هاني السالمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450HaniSalimi.Mulahiq.Hindawi42620818
+#META# Tags: novels
+#META# ID: 42620818
+#META# Title: المُلاحَق: المسيحي الأخير
+#META# AuthorID: 42508082
+#META# Author: هاني السالمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

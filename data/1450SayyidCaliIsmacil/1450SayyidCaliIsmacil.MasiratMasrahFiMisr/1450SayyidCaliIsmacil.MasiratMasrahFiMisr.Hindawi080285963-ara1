@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SayyidCaliIsmacil.MasiratMasrahFiMisr.Hindawi80285963",
-    "BookCats": "plays :: history :: literature",
-    "BookID": "80285963",
-    "BookTitle": "مسيرة المسرح في مصر ١٩٠٠–١٩٣٥ : فرق المسرح الغنائي",
-    "AuthorID": "91509525",
-    "AuthorNam": "سيد علي إسماعيل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SayyidCaliIsmacil.MasiratMasrahFiMisr.Hindawi80285963
+#META# Tags: plays :: history :: literature
+#META# ID: 80285963
+#META# Title: مسيرة المسرح في مصر ١٩٠٠–١٩٣٥ : فرق المسرح الغنائي
+#META# AuthorID: 91509525
+#META# Author: سيد علي إسماعيل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

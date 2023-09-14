@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadAhmadShaykhun.SirrYuarriqni.Hindawi75952082",
-    "BookCats": "literature",
-    "BookID": "75952082",
-    "BookTitle": "سر يؤرقني",
-    "AuthorID": "20803159",
-    "AuthorNam": "أليس مونرو",
-    "EditorID": "18393159",
-    "EditorNam": "ضياء ورَّاد",
-    "TranslID": "61930685",
-    "TranslNam": "محمد أحمد شيخون",
-    "BookRel": "1450AliceMunro.OpenSecrets (TRANSL)"
-}
-
+#META# URI: 1450MuhammadAhmadShaykhun.SirrYuarriqni.Hindawi75952082
+#META# Tags: literature
+#META# ID: 75952082
+#META# Title: سر يؤرقني
+#META# AuthorID: 20803159
+#META# Author: أليس مونرو
+#META# EditorID: 18393159
+#META# Editor: ضياء ورَّاد
+#META# TranslatorID: 61930685
+#META# Translator: محمد أحمد شيخون
+#META# Related_books: 1450AliceMunro.OpenSecrets (TRANSL)
 
 #META#Header#End#
 

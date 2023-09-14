@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaTahaRaydi.ThawraThaqafiyyaMuqaddimaQasira.Hindawi41379292",
-    "BookCats": "history",
-    "BookID": "41379292",
-    "BookTitle": "الثورة الثقافية الصينية: مقدمة قصيرة جدًّا",
-    "AuthorID": "26913042",
-    "AuthorNam": "ريتشارد كيرت كراوس",
-    "EditorID": "53746192",
-    "EditorNam": "محمد إبراهيم الجندي",
-    "TranslID": "72975737",
-    "TranslNam": "شيماء طه الريدي",
-    "BookRel": "1450RichardCurtKraus.CulturalRevolutionShortIntro (TRANSL)"
-}
-
+#META# URI: 1450ShaymaTahaRaydi.ThawraThaqafiyyaMuqaddimaQasira.Hindawi41379292
+#META# Tags: history
+#META# ID: 41379292
+#META# Title: الثورة الثقافية الصينية: مقدمة قصيرة جدًّا
+#META# AuthorID: 26913042
+#META# Author: ريتشارد كيرت كراوس
+#META# EditorID: 53746192
+#META# Editor: محمد إبراهيم الجندي
+#META# TranslatorID: 72975737
+#META# Translator: شيماء طه الريدي
+#META# Related_books: 1450RichardCurtKraus.CulturalRevolutionShortIntro (TRANSL)
 
 #META#Header#End#
 

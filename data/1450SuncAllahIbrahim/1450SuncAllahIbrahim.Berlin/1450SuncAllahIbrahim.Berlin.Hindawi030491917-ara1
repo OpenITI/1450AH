@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SuncAllahIbrahim.Berlin69.Hindawi30491917",
-    "BookCats": "novels",
-    "BookID": "30491917",
-    "BookTitle": "برلين ٦٩",
-    "AuthorID": "17162047",
-    "AuthorNam": "صنع الله إبراهيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450SuncAllahIbrahim.Berlin69.Hindawi30491917
+#META# Tags: novels
+#META# ID: 30491917
+#META# Title: برلين ٦٩
+#META# AuthorID: 17162047
+#META# Author: صنع الله إبراهيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

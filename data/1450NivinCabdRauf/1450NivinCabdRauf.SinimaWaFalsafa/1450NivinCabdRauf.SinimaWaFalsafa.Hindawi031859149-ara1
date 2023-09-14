@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450NivinCabdRauf.SinimaWaFalsafa.Hindawi31859149",
-    "BookCats": "arts :: philosophy :: social.sciences",
-    "BookID": "31859149",
-    "BookTitle": "السينما والفلسفة: ماذا تقدم إحداهما للأخرى",
-    "AuthorID": "93579397 :: 61505062",
-    "AuthorNam": "داميان كوكس :: مايكل ليفين",
-    "EditorID": "29797462",
-    "EditorNam": "هاني فتحي سليمان",
-    "TranslID": "93720406",
-    "TranslNam": "نيڤين عبد الرؤوف",
-    "BookRel": "1450DamienCox.ThinkingThroughFilm (TRANSL)"
-}
-
+#META# URI: 1450NivinCabdRauf.SinimaWaFalsafa.Hindawi31859149
+#META# Tags: arts :: philosophy :: social.sciences
+#META# ID: 31859149
+#META# Title: السينما والفلسفة: ماذا تقدم إحداهما للأخرى
+#META# AuthorID: 93579397 :: 61505062
+#META# Author: داميان كوكس :: مايكل ليفين
+#META# EditorID: 29797462
+#META# Editor: هاني فتحي سليمان
+#META# TranslatorID: 93720406
+#META# Translator: نيڤين عبد الرؤوف
+#META# Related_books: 1450DamienCox.ThinkingThroughFilm (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450AnwarIbrahim.MisrMinNasirIlaHarbUktubir.Hindawi79395094",
-    "BookCats": "history",
-    "BookID": "79395094",
-    "BookTitle": "مصر من ناصر إلى حرب أكتوبر: من أرشيف سفير",
-    "AuthorID": "40826424 :: 84815835",
-    "AuthorNam": "فلاديمير فينوجرادوف :: فلاديمير بيلياكوف #تقديم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "82403864",
-    "TranslNam": "أنور إبراهيم",
-    "BookRel": "1418VladimirVinogradov (TRANSL)"
-}
-
+#META# URI: 1450AnwarIbrahim.MisrMinNasirIlaHarbUktubir.Hindawi79395094
+#META# Tags: history
+#META# ID: 79395094
+#META# Title: مصر من ناصر إلى حرب أكتوبر: من أرشيف سفير
+#META# AuthorID: 40826424 :: 84815835
+#META# Author: فلاديمير فينوجرادوف :: فلاديمير بيلياكوف #تقديم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 82403864
+#META# Translator: أنور إبراهيم
+#META# Related_books: 1418VladimirVinogradov (TRANSL)
 
 #META#Header#End#
 

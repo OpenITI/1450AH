@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhammadRiyad.JughrafiyaSiyasiyya.Hindawi81426250",
-    "BookCats": "politics :: geography",
-    "BookID": "81426250",
-    "BookTitle": "الأصول العامة في الجغرافيا السياسية والجيوبوليتيكا: مع دراسة تطبيقية على الشرق الأوسط",
-    "AuthorID": "19152686",
-    "AuthorNam": "محمد رياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1450MuhammadRiyad.JughrafiyaSiyasiyya.Hindawi81426250
+#META# Tags: politics :: geography
+#META# ID: 81426250
+#META# Title: الأصول العامة في الجغرافيا السياسية والجيوبوليتيكا: مع دراسة تطبيقية على الشرق الأوسط
+#META# AuthorID: 19152686
+#META# Author: محمد رياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

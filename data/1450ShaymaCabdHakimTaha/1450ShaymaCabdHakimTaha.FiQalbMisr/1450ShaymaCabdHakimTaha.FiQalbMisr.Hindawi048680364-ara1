@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450ShaymaCabdHakimTaha.FiQalbMisr.Hindawi48680364",
-    "BookCats": "history",
-    "BookID": "48680364",
-    "BookTitle": "في قلب مصر",
-    "AuthorID": "42591407",
-    "AuthorNam": "جون آر برادلي",
-    "EditorID": "53746192",
-    "EditorNam": "محمد إبراهيم الجندي",
-    "TranslID": "83703904 :: 73037135",
-    "TranslNam": "شيماء عبد الحكيم طه :: كوثر محمود محمد",
-    "BookRel": "1450JohnRBradley.InsideEgypt (TRANSL)"
-}
-
+#META# URI: 1450ShaymaCabdHakimTaha.FiQalbMisr.Hindawi48680364
+#META# Tags: history
+#META# ID: 48680364
+#META# Title: في قلب مصر
+#META# AuthorID: 42591407
+#META# Author: جون آر برادلي
+#META# EditorID: 53746192
+#META# Editor: محمد إبراهيم الجندي
+#META# TranslatorID: 83703904 :: 73037135
+#META# Translator: شيماء عبد الحكيم طه :: كوثر محمود محمد
+#META# Related_books: 1450JohnRBradley.InsideEgypt (TRANSL)
 
 #META#Header#End#
 

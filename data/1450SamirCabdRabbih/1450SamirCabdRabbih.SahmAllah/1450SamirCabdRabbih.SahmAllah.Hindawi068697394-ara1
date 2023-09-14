@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450SamirCabdRabbih.SahmAllah.Hindawi68697394",
-    "BookCats": "novels",
-    "BookID": "68697394",
-    "BookTitle": "سهم الله",
-    "AuthorID": "91842918",
-    "AuthorNam": "تشينوا أتشيبي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "60518520",
-    "TranslNam": "سمير عبد ربه",
-    "BookRel": "1434ChinuaAchebe.ArrowOfGod (TRANSL)"
-}
-
+#META# URI: 1450SamirCabdRabbih.SahmAllah.Hindawi68697394
+#META# Tags: novels
+#META# ID: 68697394
+#META# Title: سهم الله
+#META# AuthorID: 91842918
+#META# Author: تشينوا أتشيبي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 60518520
+#META# Translator: سمير عبد ربه
+#META# Related_books: 1434ChinuaAchebe.ArrowOfGod (TRANSL)
 
 #META#Header#End#
 

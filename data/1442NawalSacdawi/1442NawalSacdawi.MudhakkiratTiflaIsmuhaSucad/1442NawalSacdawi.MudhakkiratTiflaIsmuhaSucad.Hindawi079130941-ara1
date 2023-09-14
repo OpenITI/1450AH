@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1442NawalSacdawi.MudhakkiratTiflaIsmuhaSucad.Hindawi79130941",
-    "BookCats": "biographies :: novels :: literature",
-    "BookID": "79130941",
-    "BookTitle": "مذكرات طفلة اسمها سعاد",
-    "AuthorID": "84163053",
-    "AuthorNam": "نوال السعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1442NawalSacdawi.MudhakkiratTiflaIsmuhaSucad.Hindawi79130941
+#META# Tags: biographies :: novels :: literature
+#META# ID: 79130941
+#META# Title: مذكرات طفلة اسمها سعاد
+#META# AuthorID: 84163053
+#META# Author: نوال السعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

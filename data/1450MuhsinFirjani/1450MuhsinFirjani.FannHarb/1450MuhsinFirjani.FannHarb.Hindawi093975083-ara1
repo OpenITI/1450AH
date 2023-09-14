@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1450MuhsinFirjani.FannHarb.Hindawi93975083",
-    "BookCats": "literature",
-    "BookID": "93975083",
-    "BookTitle": "فن الحرب عند سونبين",
-    "AuthorID": "90793962",
-    "AuthorNam": "سونبين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71938693",
-    "TranslNam": "محسن فرجاني",
-    "BookRel": "0001SunBin.ArtOfWar (TRANSL)"
-}
-
+#META# URI: 1450MuhsinFirjani.FannHarb.Hindawi93975083
+#META# Tags: literature
+#META# ID: 93975083
+#META# Title: فن الحرب عند سونبين
+#META# AuthorID: 90793962
+#META# Author: سونبين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71938693
+#META# Translator: محسن فرجاني
+#META# Related_books: 0001SunBin.ArtOfWar (TRANSL)
 
 #META#Header#End#
 
