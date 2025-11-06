@@ -4,9 +4,10 @@
 10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#RELATED##: 0256Bukhari.Sahih (COMP), 0261Muslim.Sahih (COMP), 
-    0273IbnMaja.Sunan (COMP), 0275AbuDawudSijistani.Sunan (COMP), 
+40#BOOK#RELATED##: 0256Bukhari.Sahih (COMP), 0261Muslim.Sahih (COMP),
+    0273IbnMaja.Sunan (COMP), 0275AbuDawudSijistani.Sunan (COMP),
     0279Tirmidhi.Sunan (COMP), 0303Nasai.SunanSughra (COMP)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
